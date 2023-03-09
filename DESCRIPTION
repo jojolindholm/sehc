@@ -1,0 +1,11 @@
+Package: sweCourts
+Type: Package
+Title: Swedish High Courts Database (SeHC Db)
+Version: 0.9.0
+Author: Johan Lindholm
+Maintainer: Johan Lindholm <johan.lindholm@umu.se>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
