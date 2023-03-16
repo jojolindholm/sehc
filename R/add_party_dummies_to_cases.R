@@ -3,13 +3,13 @@
 # Johan Lindholm, Umeå University
 #
 # These functions are part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function specifically adds
-# dummy variables for different classes of parties to the dataset cases.
+# datasets to add commonly used variables. This function adds dummy
+# variables for different classes of parties to cases.
 
 
 add_party_dummies_to_cases <- function(cases) {
 
-  # define variables -------------------------------------------------------------
+  # define variables -----------------------------------------------------------
   party_classes <- c(government = "O",
                      corporation = "C",
                      economic_interest_group = "E",
@@ -17,7 +17,7 @@ add_party_dummies_to_cases <- function(cases) {
                      unknown = "X",
                      private_person = "P")
 
-  # create gender dummies --------------------------------------------------------
+  # create gender dummies ------------------------------------------------------
   cases <- cases |>
     dplyr::mutate(applicant_female = as.integer(stringr::str_detect(cases$applicant_class, "Pw")),
                   .after = "applicant_class") |>
