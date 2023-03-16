@@ -1,11 +1,10 @@
 # GENERATE VOTES FROM OPINIONS
-# v 0.99 per 28 February 2023
+# v 0.9.0 per 16 March 2023
 # Johan Lindholm, Umeå University
-# ------------------------------------------------------------------------------
+#
 # This function is part of the sehc Package and modify the SeHC Db
 # datasets to add commonly used variables. This function splits opinion into
 # votes.
-# ------------------------------------------------------------------------------
 
 
 generate_votes_from_opinions <- function(opinions) {

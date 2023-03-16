@@ -1,2 +1,8 @@
 exportPattern("^[[:alpha:]]+")
 import(dplyr)
+import(stringr)
+import(tibble)
+import(tidyr)
+importFrom("fastDummies", "dummy_cols")
+importFrom("readr", "read_csv")
+importFrom("scales", "rescale")
