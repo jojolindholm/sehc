@@ -54,12 +54,12 @@ add_interests_involved_to_cases <- function(cases) {
                       "316" = "equitable_personal_relations",
                       "400" = "private_non-economic",
                       "401" = "criminals",
-                      "402" = "crime_victims_non-economic",
+                      "402" = "crime_victims_non_economic",
                       "403" = "parents_ability",
                       "404" = "migrants",
                       "405" = "childrens_autonomy",
-                      "406" = "discrimination_non-economic",
-                      "407" = "free speech",
+                      "406" = "discrimination_non_economic",
+                      "407" = "free_speech",
                       "408" = "privacy")
   for (c in interest_cols) {
     interest_number <- stringr::str_extract(colnames(interest_data)[c], "[0-9]{3}")
