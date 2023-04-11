@@ -3,17 +3,17 @@
 # Johan Lindholm, Umeå University
 #
 # These functions are part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function adds
-# dummy variables for different classes of parties to the dataset cases.
+# datasets to add commonly used variables. This function adds variables
+# for opinions' impact on different interests.
 
 
 add_interest_impact_to_opinions <- function(opinions) {
-  
+
   # select and format data -----------------------------------------------------
   interest_data <- dplyr::filter(opinions, institution_class == "final")
-    
+
   # low-level interests --------------------------------------------------------
-  
+
     # positively affected
     interest_pos <- interest_data |>
       dplyr::select(case_num, opinion_id, interests_positively_affected) |>
@@ -21,7 +21,7 @@ add_interest_impact_to_opinions <- function(opinions) {
       tidyr::separate_rows(interest, sep = ",( )?") |>
       dplyr::filter(interest != 0 & interest != "") |>
       fastDummies::dummy_cols("interest", remove_selected_columns = TRUE)
-    
+
     # negatively affected
     interest_neg <- interest_data |>
       dplyr::select(case_num, opinion_id, interests_negatively_affected) |>
@@ -30,30 +30,30 @@ add_interest_impact_to_opinions <- function(opinions) {
       dplyr::filter(interest != 0 & interest != "") |>
       fastDummies::dummy_cols("interest", remove_selected_columns = TRUE)
     interest_neg[,3:ncol(interest_neg)] <- interest_neg[,3:ncol(interest_neg)] * -1   # negate count for effect
-    
+
     # combine data and summaries values
     interest_all_low <- dplyr::bind_rows(interest_pos, interest_neg) |>
       dplyr::group_by(case_num, opinion_id) |>
       dplyr::summarise(dplyr::across(dplyr::everything(), sum), .groups = "drop_last")
-    
+
     # replace irrelevant zeros with na's
-    
+
       # create a tibble with number of non-0 values by cases
-      case_summary <- dplyr::select(interest_all_low, -opinion_id)    
+      case_summary <- dplyr::select(interest_all_low, -opinion_id)
       case_summary[,2:ncol(case_summary)] <- abs(case_summary[,2:ncol(case_summary)])
       case_summary <- dplyr::group_by(case_summary, case_num) |>
         dplyr::summarise(dplyr::across(dplyr::everything(), sum))
-      
-      # turn tibble into logic mask for interest_all where true = interest irrelavant in all opinions  
+
+      # turn tibble into logic mask for interest_all where true = interest irrelavant in all opinions
       case_summary[2:ncol(case_summary)] <- case_summary[2:ncol(case_summary)] == 0
       mask <- dplyr::left_join(tibble::tibble(case_num = interest_all_low$case_num,
                                               opinion_id = interest_all_low$opinion_id),
                                case_summary,
                                by = "case_num")
-      
+
       # use mask to replace zeros with na's
       interest_all_low[mask == TRUE] <- NA
-    
+
     # rename columns
     interest_names <- c("100" = "public_economic",
                         "101" = "public_revenues",
@@ -98,11 +98,11 @@ add_interest_impact_to_opinions <- function(opinions) {
     }
 
   # high-level interests -------------------------------------------------------
-    
+
     # simplify values
     interest_data$interests_positively_affected <- stringr::str_replace_all(interest_data$interests_positively_affected, "(?<=[0-9])[0-9]{2}", "")
     interest_data$interests_negatively_affected <- stringr::str_replace_all(interest_data$interests_negatively_affected, "(?<=[0-9])[0-9]{2}", "")
-    
+
     # positively affected
     interest_pos <- interest_data |>
       dplyr::select(case_num, opinion_id, interests_positively_affected) |>
@@ -110,7 +110,7 @@ add_interest_impact_to_opinions <- function(opinions) {
       tidyr::separate_rows(interest, sep = ",( )?") |>
       dplyr::filter(interest != 0 & interest != "") |>
       fastDummies::dummy_cols("interest", remove_selected_columns = TRUE)
-    
+
     # negatively affected
     interest_neg <- interest_data |>
       dplyr::select(case_num, opinion_id, interests_negatively_affected) |>
@@ -119,27 +119,27 @@ add_interest_impact_to_opinions <- function(opinions) {
       dplyr::filter(interest != 0 & interest != "") |>
       fastDummies::dummy_cols("interest", remove_selected_columns = TRUE)
     interest_neg[,3:ncol(interest_neg)] <- interest_neg[,3:ncol(interest_neg)] * -1   # negate count for effect
-    
+
     # combine data and summaries values
     interest_all_high <- dplyr::bind_rows(interest_pos, interest_neg) |>
       dplyr::group_by(case_num, opinion_id) |>
       dplyr::summarise(dplyr::across(dplyr::everything(), sum), .groups = "drop_last")
-    
+
     # replace irrelevant zeros with na's
-    
+
       # create a tibble with number of non-0 values by cases
-      case_summary <- dplyr::select(interest_all_high, -opinion_id)    
+      case_summary <- dplyr::select(interest_all_high, -opinion_id)
       case_summary[,2:ncol(case_summary)] <- abs(case_summary[,2:ncol(case_summary)])
       case_summary <- dplyr::group_by(case_summary, case_num) |>
         dplyr::summarise(dplyr::across(dplyr::everything(), sum))
-      
-      # turn tibble into logic mask for interest_all where true = interest irrelavant in all opinions  
+
+      # turn tibble into logic mask for interest_all where true = interest irrelavant in all opinions
       case_summary[2:ncol(case_summary)] <- case_summary[2:ncol(case_summary)] == 0
       mask <- dplyr::left_join(tibble::tibble(case_num = interest_all_high$case_num,
                                               opinion_id = interest_all_high$opinion_id),
                                case_summary,
                                by = "case_num")
-      
+
       # use mask to replace zeros with na's
       interest_all_high[mask == TRUE] <- NA
 
@@ -154,10 +154,10 @@ add_interest_impact_to_opinions <- function(opinions) {
       interest_name <- interest_names[interest_number == names(interest_names)]
       colnames(interest_all_high)[c] <- paste0("interest_", interest_name)
     }
-      
-    
+
+
     dplyr::select(dplyr::ungroup(interest_all_high), -case_num)
-      
+
   # join and return data -------------------------------------------------------
   opinions <- dplyr::left_join(opinions,
                                dplyr::select(dplyr::ungroup(interest_all_high), -case_num),
@@ -166,5 +166,5 @@ add_interest_impact_to_opinions <- function(opinions) {
                            dplyr::select(dplyr::ungroup(interest_all_low), -case_num),
                            by = "opinion_id")
   message("Interest impact added to opinions")
-  return(opinions)  
+  return(opinions)
 }

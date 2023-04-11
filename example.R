@@ -10,6 +10,9 @@ opinions <- sehc::opinions |>
   add_method_dimensions_to_opinions() |>
   add_interest_impact_to_opinions()
 
+opinions_on_claims <- sehc::opinions_on_claims |>
+  standardize_opinions_on_claims()
+
 appointments <- sehc::appointments |>
   add_government_to_appointments() |>
   add_background_type_to_appointments()
