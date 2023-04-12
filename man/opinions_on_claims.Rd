@@ -28,7 +28,7 @@ The dataset opinions_on_claims contains information about Swedish high court jud
   }
 }
 \details{
-%%  ~~ If necessary, more details than the __description__ above ~~
+For more information about the dataset and the variables, download the code book (\url{https://github.com/jojolindholm/sehc/raw/main/sehc_code_book.pdf}).
 }
 \source{
 Based on information extracted from judgments downloaded from the Swedish Naitonal Courts Adminstration's (Domstolsverket) public information system "lagrummet.se" (\url{https://lagrummet.se/lagrummet/English}).
