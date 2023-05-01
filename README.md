@@ -25,3 +25,7 @@ The datasets are available as separate R-data files (.rda) in the folder "/data"
 
 For more information about the datasets and the variables they contain, please consult the code book (https://github.com/jojolindholm/sehc/blob/main/sehc_code_book.pdf).
 
+## Releases
+
+Stable releases of the database are stored with Zenodo (https://zenodo.org/account/settings/github/repository/jojolindholm/sehc). 
+
