@@ -11,3 +11,7 @@ The database contains data on the Swedish high courts, more specifically the Sup
 The database has been collected as part of a research project involving researchers at the Department of Law at Umeå University and the Department of Political Science at Gothenburg University. The creation of the database was made possible with the financial support of the Swedish Research Council (project number 2018–1383). We also want to express our gratitude to our research assistants at Umeå University for their invaluable help in compiling the data: Erik Engman Jonsson, Thomasine Francke Rydén, Angelica Kullström, Carl Lexenberg, Malin Thorneman, and Juni Wikman.
 
 If you have any questions regarding the data, the coding process, or commercial use of the data, please contact Johan Lindholm (johan.lindholm@umu.se).
+
+## The Data
+
+Please consult the code book (https://github.com/jojolindholm/sehc/blob/main/sehc_code_book.pdf).
