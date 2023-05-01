@@ -25,7 +25,8 @@ The datasets are available as separate R-data files (.rda) in the folder "/data"
 
 For more information about the datasets and the variables they contain, please consult the code book (https://github.com/jojolindholm/sehc/blob/main/sehc_code_book.pdf).
 
-## Releases
+Stable releases of the database and the code are stored with Zenodo (https://zenodo.org/account/settings/github/repository/jojolindholm/sehc). 
 
-Stable releases of the database are stored with Zenodo (https://zenodo.org/account/settings/github/repository/jojolindholm/sehc). 
+## Citing
 
+Please cite as "Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2023. Swedish High Court Database (version 0.9.1, 1 May 2023). DOI:  10.5281/zenodo.7883860".
