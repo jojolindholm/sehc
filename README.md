@@ -17,6 +17,7 @@ If you have any questions regarding the data, the coding process, or commercial 
 In your R console run:
  
 library(devtools)
+
 install_github("jojolindholm/sehc")
 
 ## The Data
