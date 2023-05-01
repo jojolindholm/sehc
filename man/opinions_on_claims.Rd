@@ -31,7 +31,7 @@ The dataset opinions_on_claims contains information about Swedish high court jud
 For more information about the dataset and the variables, download the code book (\url{https://github.com/jojolindholm/sehc/raw/main/sehc_code_book.pdf}).
 }
 \source{
-Based on information extracted from judgments downloaded from the Swedish Naitonal Courts Adminstration's (Domstolsverket) public information system "lagrummet.se" (\url{https://lagrummet.se/lagrummet/English}).
+Based on information extracted from judgments downloaded from the Swedish National Courts Adminstration's (Domstolsverket) public information system "lagrummet.se" (\url{https://lagrummet.se/lagrummet/English}).
 }
 \author{
 Johan Lindholm, Umeå University, \email{johan.lindholm@umu.se}
@@ -41,11 +41,13 @@ Johan Lindholm, Umeå University, \email{johan.lindholm@umu.se}
 }
 \examples{
 opinions_on_claims <- opinions_on_claims |>
-  standardize_opinions_on_claims()
+  standardize_opinions_on_claims() |>
+  add_cases_to_opinions_on_claims()
 }
 
 \seealso{
-  \code{\link{standardize_opinions_on_claims}}
+  \code{\link{standardize_opinions_on_claims}},
+  \code{\link{add_cases_to_opinions_on_claims}}
 }
 
 \keyword{datasets}

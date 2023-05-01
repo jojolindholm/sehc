@@ -7,12 +7,13 @@ standardize_opinions_on_claims(opinions_on_claims)
 }
 
 \description{
-This function simplifies the dataset \link{opinions_on_claims} in two ways. First, it replaces \code{outcome_money} and  \code{outcome_other} with a single variable that captures claim outcome on the same scale, from complete failure (0) to complete success (1), regardless of \code{claim_class}. Second, it inverts the outcome for the more rare situation that the respondent side in the first instance (see \code{claim_side} in \link{opinions_on_claims}) brings a claim so that claim outcome always reflect outcome for the applicant side in the first instance. By doing so, the function returns a new, standardized variable, \code{opinion_outcome_for_applicant}.
+This function simplifies the dataset \link{opinions_on_claims} by replacing other variables with a new, variable: code{opinion_outcome_for_applicant}. This new variable captures all claim outcomes, regardless of \code{claim_class}, on the same scale where 0 means complete failure and 1 complete success. Also, instead of measuring outcome for the claimant, who may be either the applicant or the respondent in the first instance (see \code{claim_side} in \link{opinions_on_claims}), this variable measures always reflect outcome for the applicant side in the first instance. This simplifies analysis of claim outcomes, e.g. against variables in \link{cases}.
 }
 
 \examples{
 opinions_on_claims <- opinions_on_claims |>
-  standardize_opinions_on_claims()
+  standardize_opinions_on_claims() |>
+  add_cases_to_opinion_on_claims()
 }
 
 \author{
@@ -20,5 +21,6 @@ Johan Lindholm, Umeå University, \email{johan.lindholm@umu.se}
 }
 
 \seealso{
-  \code{\link{opinions_on_claims}}
+  \code{\link{opinions_on_claims}},
+  \code{\link{add_cases_to_opinions_on_claims}}
 }

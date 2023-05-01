@@ -1,12 +1,3 @@
-# ADD SOURCES TO OPINIONS
-# v 0.9.0 per 15 March 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and combines data from difference
-# SeHC Db datasets. This function generates variables on references to sources
-# from references by opinion and adds it to opinions.
-
-
 add_sources_to_opinions <- function(opinions) {
 
   # read and format references -------------------------------------------------

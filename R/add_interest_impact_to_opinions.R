@@ -1,12 +1,3 @@
-# ADD INTEREST IMPACT TO OPINIONS
-# v 0.9.0 per 16 March 2023
-# Johan Lindholm, Umeå University
-#
-# These functions are part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function adds variables
-# for opinions' impact on different interests.
-
-
 add_interest_impact_to_opinions <- function(opinions) {
 
   # select and format data -----------------------------------------------------

@@ -5,7 +5,7 @@
 add_area_dummies_to_cases(cases)
 }
 \description{
-A function for replacing \code{legal_area} with easily understandable dummy variables on the areas of law affected by the case.
+A function for replacing \code{legal_area} in \link{cases} with easily understandable dummy variables on the areas of law affected by the case.
 }
 \examples{
 cases <- cases |>

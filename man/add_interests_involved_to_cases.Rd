@@ -7,7 +7,7 @@ add_interests_involved_to_cases(cases)
 }
 
 \description{
-A function that adds dummy variables to cases that show which legally protected societal interests were at stake in the case. This variable is calculated on the basis of the opinion-level variables interest_positively_affected and interest_negatively_affected (see \code{\link{opinions}}). The variables show whether any opinion affected the interest (1) or not (0). They can be used as an alternative to traditional area of laws.
+A function that adds dummy variables to the dataset \link{cases} that capture whether differnt, legally-protected societal interests were at stake in the case. This variable is calculated on the basis of the variables \code{interest_positively_affected} and \code{interest_negatively_affected} in the dataset link{opinions}. The variables show whether any high-court opinion in the case affected the relevant interest postively or negatively (1) or not at all (0). These variables can e.g. be used as an alternative to traditional area of laws to understand.
 }
 
 \examples{

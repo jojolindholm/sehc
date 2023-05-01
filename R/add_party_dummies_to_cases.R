@@ -1,12 +1,3 @@
-# ADD PARTY DUMMIES
-# v 0.9.0 per 15 March 2023
-# Johan Lindholm, Umeå University
-#
-# These functions are part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function adds dummy
-# variables for different classes of parties to cases.
-
-
 add_party_dummies_to_cases <- function(cases) {
 
   # define variables -----------------------------------------------------------

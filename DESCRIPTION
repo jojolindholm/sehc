@@ -13,3 +13,4 @@ Imports:
     fastDummies,
     stringr,
     pbapply
+RoxygenNote: 7.2.3

@@ -1,12 +1,3 @@
-# ADD AREA DUMMIES TO CASES
-# v 0.9.0 per 15 march 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and modifies the SeHC Db
-# datasets to add commonly used variables. This function specifically adds
-# dummy variables for different areas of law to cases.
-
-
 add_area_dummies_to_cases <- function(cases) {
 
   # test if already run --------------------------------------------------------

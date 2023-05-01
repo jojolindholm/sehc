@@ -1,12 +1,3 @@
-# ADD INTERESTS INVOLVED TO CASES
-# v 0.9.0 per 16 March 2023
-# Johan Lindholm, Umeå University
-#
-# These functions are part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function adds
-# dummy variables for different interests involved to cases.
-
-
 add_interests_involved_to_cases <- function(cases) {
 
   # select and format opinion data ---------------------------------------------

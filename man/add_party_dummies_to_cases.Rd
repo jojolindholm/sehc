@@ -7,7 +7,7 @@ add_party_dummies_to_cases(cases)
 }
 
 \description{
-A function for generation easily understandable dummy variables on the type of parties involved as applicants and respondents respectively.
+A function for generation easily understandable dummy variables to the dataset \link{cases} on the classes of parties involved as applicants and respondents respectively. For more information on party classes, download the code book (\url{https://github.com/jojolindholm/sehc/raw/main/sehc_code_book.pdf}).
 }
 
 \examples{

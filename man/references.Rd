@@ -28,7 +28,7 @@ This dataset contains one observation per reference to a source. It identifies w
 For more information about the dataset and the variables, download the code book (\url{https://github.com/jojolindholm/sehc/raw/main/sehc_code_book.pdf}).
 }
 \source{
-Based on information extracted from judgments downloaded from the Swedish Naitonal Courts Adminstration's (Domstolsverket) public information system "lagrummet.se" (\url{https://lagrummet.se/lagrummet/English}).
+Based on information extracted from judgments downloaded from the Swedish National Courts Adminstration's (Domstolsverket) public information system "lagrummet.se" (\url{https://lagrummet.se/lagrummet/English}).
 }
 \author{
 Johan Lindholm, Umeå University, \email{johan.lindholm@umu.se}

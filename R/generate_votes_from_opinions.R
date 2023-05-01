@@ -1,21 +1,4 @@
-# GENERATE VOTES FROM OPINIONS
-# v 0.9.0 per 16 March 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function splits opinion into
-# votes.
-
-
 generate_votes_from_opinions <- function(opinions) {
-
-  # check for opinion manipulation ---------------------------------------------
-  if (!"total_number_refs" %in% colnames(opinions)) {
-    i <- readline(prompt = "Do you want to add references variables? (y/n) ")
-    if (i == "y") {
-      opinions <- sehc::add_sources_to_opinions(opinions)
-    }
-  }
 
   # split opinions into votes --------------------------------------------------
   votes <- opinions |>

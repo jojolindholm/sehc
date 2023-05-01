@@ -1,14 +1,9 @@
-# STANDARDIZE OPINIONS ON CLAIMS
-# v 0.9.1 per 10 April 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package. This function simplifies the
-# dataset opinions_on_claims by (1) standardizing the outcome across monetary
-# and non-monetary claims and (2) inverting the outcome for claims brought by
-# respondent so that all outcomes reflect outcome for applicants.
-
-
 standardize_opinions_on_claims <- function(opinions_on_claims) {
+
+  # test if already run --------------------------------------------------------
+    if (any("opinion_outcome_for_applicant" == colnames(opinions_on_claims))) {
+      stop("It appears that you already ran this function")
+    }
 
   # standardize outcome across claim classes -----------------------------------
   standardize_claim_outcome <- function(opinions_on_claims) {

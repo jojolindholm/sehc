@@ -1,12 +1,3 @@
-# ADD METHOD DIMENSIONS TO OPINIONS
-# v 0.9.0 per 23 March 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and combines data from difference
-# SeHC Db datasets. This function adds variables for the legal method used to
-# justify an opinion based on sources to Opinions.
-
-
 add_method_dimensions_to_opinions <- function(opinions) {
 
   # check for opinions manipulation --------------------------------------------

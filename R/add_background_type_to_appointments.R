@@ -1,12 +1,3 @@
-# ADD AREA DUMMIES TO CASES
-# v 0.9.0 per 15 march 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and modifies the SeHC Db
-# datasets to add commonly used variables. This function adds variables on
-# Justice's professional backgrounds to appointments.
-
-
 add_background_type_to_appointments <- function(appointments) {
 
   # check if already ran -------------------------------------------------------

@@ -1,12 +1,3 @@
-# ADD GOVERNMENT TO APPOINTMENTS
-# v 0.9.0 per 15 March 2023
-# Johan Lindholm, Umeå University
-#
-# This function is part of the sehc Package and modify the SeHC Db
-# datasets to add commonly used variables. This function adds variables on the
-# appointing government from ParlGovto appointments.
-
-
 add_government_to_appointments <- function(appointments) {
 
   # check if already ran -------------------------------------------------------
