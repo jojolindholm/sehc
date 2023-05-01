@@ -3,7 +3,7 @@
 \docType{data}
 
 \title{
-Opinions
+The opinions dataset
 }
 
 \description{

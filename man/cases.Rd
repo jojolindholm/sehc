@@ -2,7 +2,7 @@
 \alias{cases}
 \docType{data}
 \title{
-Cases
+The cases dataset
 }
 \description{
 The dataset cases contains information about Swedish high court judgments with one observation per case and variables that describe the case and are the same across all courts. It includes for example information on the subject matter of the case, as well as information about the parties (applicant and respondent), and the decision date.

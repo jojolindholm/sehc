@@ -3,7 +3,7 @@
 \docType{data}
 
 \title{
-References
+The references dataset
 }
 
 \description{

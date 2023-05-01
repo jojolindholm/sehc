@@ -3,7 +3,7 @@
 \docType{data}
 
 \title{
-Appointments
+The appointments dataset
 }
 
 \description{

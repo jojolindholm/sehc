@@ -3,7 +3,7 @@
 \docType{data}
 
 \title{
-Opinions on claims
+The opinions on claims dataset
 }
 
 \description{

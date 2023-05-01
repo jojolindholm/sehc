@@ -5,12 +5,16 @@ Version: 0.9.1
 Author: Johan Lindholm <johan.lindholm@umu.se>
 Maintainer: Johan Lindholm <johan.lindholm@umu.se>
 Description: This is primarily a database containing information on Swedish high court Justices and the cases that they publish. However, it also contains some handy functions for manipulating the data for common use.
-License: What license is it under?
+License: CC BY-NC-SA 2.0
 Encoding: UTF-8
 LazyData: true
 Imports: 
     dplyr,
     fastDummies,
     stringr,
-    pbapply
+    pbapply,
+    tibble,
+    tidyr,
+    readr,
+    scales
 RoxygenNote: 7.2.3
