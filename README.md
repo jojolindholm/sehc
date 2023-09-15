@@ -22,7 +22,7 @@ install_github("jojolindholm/sehc")
 
 ## The Data
 
-The datasets are available as separate R-data files (.rda) in the folder "/data". Additionally, they are also made available as comma-separated values (.csv) files in the folder "/csv-data".
+The datasets are available as separate R-data files (.rda) in the folder "[/data](../data)". Additionally, they are also made available as comma-separated values (.csv) files in the folder "/csv-data".
 
 For more information about the datasets and the variables they contain, please consult [the code book](sehc_code_book.pdf).
 
