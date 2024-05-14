@@ -1,7 +1,7 @@
 # The Swedish High Court (SeHC) Package
 
-_Johan Lindholm<sup>1</sup>, Mattias Derlén^1^, and Daniel Naurin^2^_
-
+_Johan Lindholm<sup>1</sup>, Mattias Derlén<sup>1</sup>, and Daniel Naurin<sup>2</sup>_
+<sup>1</sup> 
 ------------------
 
 ## Introduction
