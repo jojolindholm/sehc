@@ -29929,42 +29929,16 @@ reference_id,case_num,opinion_id,paragraph_id,reference,reference_class,referenc
 42043,B 114-81,11850,92,prop. 1975/76:176,prep,prop
 42044,B 114-81,11850,93,prop. 1975/76:176,prep,prop
 42045,B 114-81,11850,94,prop. 1975/76:176,prep,prop
-42048,B 1435-95,11855,11,NJA 1980 s. 554,case,hd
-42049,B 1435-95,11855,11,RB,statute,code
-42050,B 234-87,11856,NA,no references,NA,NA
-42051,B 3160-93,11857,NA,no references,NA,NA
 42062,B 319-78,11861,32,narkotikaförordningen (1962:704),statute,act
 42063,B 319-78,11861,33,narkotikaförordningen (1962:704),statute,act
 42064,B 319-78,11861,33,I,other,international
 42065,B 319-78,11861,34,narkotikaförordningen,statute,NA
 42066,B 319-78,11861,34,I,other,international
-42067,B 466-06,11865,21,lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare,statute,act
-42068,B 466-06,11865,21,RB,statute,code
-42069,B 466-06,11865,22,förundersökningskungörelsen (1947:948),statute,act
-42070,B 466-06,11865,22,RB,statute,code
-42071,B 466-06,11865,23,RB,statute,code
-42072,B 466-06,11865,24,lagen (1990:52) med särskilda bestämmelser om vård av unga,statute,act
-42073,B 466-06,11865,26,lagen (1990:52) med särskilda bestämmelser om vård av unga,statute,act
-42074,B 466-06,11865,30,NJA 1978 s. 471,case,hd
-42075,B 466-06,11865,30,NJA 1985 s. 56,case,hd
-42077,B 569-83,11869,NA,no references,NA,NA
-42078,B 626-90,11870,NA,no references,NA,NA
-42080,B 666-90,11872,NA,no references,NA,NA
-42082,B 807-83,11874,NA,no references,NA,NA
-42084,B 810-83,11876,2,RF,statute,const
-42086,B 955-84,11878,NA,no references,NA,NA
 42087,B 999-87,11881,NA,no references,NA,NA
 42088,B 999-87,11882,12,NJA 1973 s. 157,case,hd
-42089,T 104-86,11884,NA,no references,NA,NA
-42090,T 138-84,11885,NA,no references,NA,NA
 42096,T 14-87,11889,22,RB,statute,code
 42097,T 14-87,11889,22,L,other,literature
 42098,T 14-87,11889,24,lagen (1985:206) om viten,statute,act
-42101,T 1784-93,11891,NA,no references,NA,NA
-42103,T 2244-92,11893,5,FB,statute,code
-42106,T 2326-06,11902,13,lagen (1999:116) om skiljeförfarande,statute,act
-42108,T 2331-91,11905,8,1 meningen ÄktB,statute,code
-42109,T 2331-91,11906,NA,no references,NA,NA
 42111,T 252-77,11910,67,NJA 1977 s. 176,case,hd
 42112,T 287-78,11913,NA,no references,NA,NA
 42123,T 290-78,11918,76,Lag (1936:83) angående vissa utfästelser om gåva,statute,act
@@ -29996,10 +29970,6 @@ reference_id,case_num,opinion_id,paragraph_id,reference,reference_class,referenc
 42162,T 343-78,11951,71,NJA II 1971 s. 64,prep,nja_ii
 42163,T 343-78,11951,71,L,other,literature
 42164,T 343-78,11951,72,Lag (1970:244) om allmänna vatten och avloppsanläggningar,statute,act
-42166,T 345-82,11953,11,JB,statute,code
-42167,T 345-82,11953,12,JB,statute,code
-42168,T 345-82,11953,13,JB,statute,code
-42169,T 345-82,11953,14,RB,statute,code
 42170,T 392-87,11956,35,1 förmånsrättslagen (1970:979),statute,act
 42171,T 392-87,11956,35,sjölagen (1891:35),statute,act
 42172,T 392-87,11956,35,I,other,international
@@ -30036,7 +30006,6 @@ reference_id,case_num,opinion_id,paragraph_id,reference,reference_class,referenc
 42203,T 3998-00,11957,6,MB,statute,code
 42204,T 3998-00,11957,6,prop. 1997/98:45,prep,prop
 42206,T 434-78,11963,NA,no references,NA,NA
-42207,T 585-85,11971,NA,no references,NA,NA
 42216,T 61-77,11976,51,naturvårdslagen (1964:822),statute,act
 42217,T 61-77,11976,54,naturvårdslagen (1964:822),statute,act
 42218,T 61-77,11976,55,naturvårdslagen (1964:822),statute,act
@@ -30102,11 +30071,6 @@ reference_id,case_num,opinion_id,paragraph_id,reference,reference_class,referenc
 42290,T 94-77,12002,155,naturvårdslagen (1964:822),statute,act
 42291,T 94-77,12002,156,expropriationslagen (1972:719),statute,prop
 42292,T 94-77,12003,NA,no references,NA,NA
-42293,T 94-86,12005,5,skadeståndslagen (1972:207),statute,act
-42294,T 94-86,12005,5,skadeståndslagen (1972:207),statute,act
-42295,T 94-86,12005,6,skadeståndslagen (1972:207),statute,act
-42296,T 94-86,12005,7,RB,statute,code
-42297,T 94-86,12005,7,skadeståndslagen (1972:207),statute,act
 42298,B 1371-20,12008,74,BrB,statute,code
 42299,B 1371-20,12008,78,BrB,statute,code
 42300,B 1371-20,12008,80,NJA 2013 s. 376,case,hd
@@ -31443,3 +31407,2728 @@ reference_id,case_num,opinion_id,paragraph_id,reference,reference_class,referenc
 44084,T 1413-19,12438,144,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
 44085,T 1413-19,12438,145,L,other,literature
 44086,T 1413-19,12438,156,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
+44087,T 853-18,11807,575,RB,statute,code
+44088,T 853-18,11807,579,NJA 1981 s. 1,case,hd
+44089,T 853-18,11807,579,rennäringslagen (1971:437),statute,act
+44090,T 853-18,11807,579,RF,statute,const
+44091,T 853-18,11807,580,rennäringslagen (1971:437),statute,act
+44092,T 853-18,11807,581,rennäringslagen (1971:437),statute,act
+44093,T 853-18,11807,582,rennäringslagen (1971:437),statute,act
+44094,T 853-18,11807,583,rennäringslagen (1971:437),statute,act
+44095,T 853-18,11807,586,Jaktlagen (1987:259),statute,act
+44096,T 853-18,11807,587,Jaktlagen (1987:259),statute,act
+44097,T 853-18,11807,588,lagen (1938:274) om rätt till jakt,statute,act
+44098,T 853-18,11807,589,Jaktlagen (1987:259),statute,act
+44099,T 853-18,11807,589,L,other,literature
+44100,T 853-18,11807,590,fiskelagen (1993:787),statute,act
+44101,T 853-18,11807,590,fiskelagen (1993:787),statute,act
+44102,T 853-18,11807,590,fiskelagen (1993:787),statute,act
+44103,T 853-18,11807,591,lagen (1950:596) om rätt till fiske,statute,act
+44104,T 853-18,11807,596,rennäringslagen (1971:437),statute,act
+44105,T 853-18,11807,597,rennäringslagen (1971:437),statute,act
+44106,T 853-18,11807,598,rennäringslagen (1971:437),statute,act
+44107,T 853-18,11807,599,rennäringsförordningen (1993:384),statute,act
+44108,T 853-18,11807,612,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44109,T 853-18,11807,612,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44110,T 853-18,11807,612,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44111,T 853-18,11807,613,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44112,T 853-18,11807,614,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44113,T 853-18,11807,616,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44114,T 853-18,11807,618,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44115,T 853-18,11807,619,prop. 1873:4,prep,prop
+44116,T 853-18,11807,620,Maj:ts nådiga Stadga (1873:26) om avvittring i Västerbottens och Norrbottens läns lappmarker,statute,act
+44117,T 853-18,11807,621,Maj:ts nådiga Stadga (1873:26) om avvittring i Västerbottens och Norrbottens läns lappmarker,statute,act
+44118,T 853-18,11807,626,NJA 1981 s. 1,case,hd
+44119,T 853-18,11807,628,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44120,T 853-18,11807,629,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44121,T 853-18,11807,630,prop. 1886:2,prep,prop
+44122,T 853-18,11807,631,prop. 1886:2,prep,prop
+44123,T 853-18,11807,632,prop. 1886:2,prep,prop
+44124,T 853-18,11807,635,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44125,T 853-18,11807,635,prop. 1886:2,prep,prop
+44126,T 853-18,11807,637,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44127,T 853-18,11807,638,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44128,T 853-18,11807,640,i 1864 års jaktstadga,statute,NA
+44129,T 853-18,11807,640,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44130,T 853-18,11807,641,6,statute,NA
+44131,T 853-18,11807,641,7,statute,NA
+44132,T 853-18,11807,641,1852 års fiskeristadga,statute,NA
+44133,T 853-18,11807,642,1749 års lappmarksreglemente,statute,NA
+44134,T 853-18,11807,644,1883 års kommittéförslag,prep,act
+44135,T 853-18,11807,645,1883 års kommittéförslag,prep,act
+44136,T 853-18,11807,646,1883 års kommittéförslag,prep,act
+44137,T 853-18,11807,647,1883 års kommittéförslag,prep,act
+44138,T 853-18,11807,648,1883 års kommittéförslag,prep,act
+44139,T 853-18,11807,649,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige&#8232;,statute,act
+44140,T 853-18,11807,650,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige&#8232;,statute,act
+44141,T 853-18,11807,651,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige&#8232;,statute,act
+44142,T 853-18,11807,654,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44143,T 853-18,11807,656,NJA 1944 s. 117,case,hd
+44144,T 853-18,11807,656,NJA 1946 s. 94,case,hd
+44145,T 853-18,11807,656,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44146,T 853-18,11807,659,lagen (1912:289) om rätt till jakt,statute,act
+44147,T 853-18,11807,659,1864 års jaktstadga,statute,NA
+44148,T 853-18,11807,659,prop. 1927:120,prep,prop
+44149,T 853-18,11807,660,Lagen (1896:42) om rätt till fiske,statute,act
+44150,T 853-18,11807,661,NJA 1942 s. 336,case,hd
+44151,T 853-18,11807,663,NJA 1981 s. 1,case,hd
+44152,T 853-18,11807,663,rennäringslagen (1971:437),statute,act
+44153,T 853-18,11807,664,prop. 1971:51,prep,prop
+44154,T 853-18,11807,665,prop. 1971:51,prep,prop
+44155,T 853-18,11807,667,rennäringslagen (1971:437),statute,act
+44156,T 853-18,11807,668,prop. 1986/87:58,prep,prop
+44157,T 853-18,11807,669,prop. 1992/93:32,prep,prop
+44158,T 853-18,11807,675,rennäringslagen (1971:437),statute,act
+44159,T 853-18,11807,678,RF,statute,const
+44160,T 853-18,11807,678,I,other,international
+44161,T 853-18,11807,679,RF,statute,const
+44162,T 853-18,11807,680,RF,statute,const
+44163,T 853-18,11807,680,I,other,international
+44164,T 853-18,11807,682,RF,statute,const
+44165,T 853-18,11807,682,rennäringslagen (1971:437),statute,act
+44166,T 853-18,11807,682,I,other,international
+44167,T 853-18,11807,683,rennäringslagen (1971:437),statute,act
+44168,T 853-18,11807,684,RF,statute,const
+44169,T 853-18,11807,684,EKMR,statute,echr
+44170,T 853-18,11807,684,prop. 1886:2,prep,prop
+44171,T 853-18,11807,685,rennäringslagen (1971:437),statute,act
+44172,T 853-18,11807,687,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige&#8232;,statute,act
+44173,T 853-18,11807,688,prop. 1886:2,prep,prop
+44174,T 853-18,11807,689,S,other,common_practise
+44175,T 853-18,11807,692,rennäringslagen (1971:437),statute,act
+44176,T 853-18,11807,692,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44177,T 853-18,11807,692,prop. 1873:4,prep,prop
+44178,T 853-18,11807,693,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44179,T 853-18,11807,695,prop. 1886:2&#8232;,prep,prop
+44180,T 853-18,11807,696,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44181,T 853-18,11807,698,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44182,T 853-18,11807,699,Prop. 1928:43,prep,prop
+44183,T 853-18,11807,702,NJA 1942 s. 336,case,hd
+44184,T 853-18,11807,703,prop. 1971:51,prep,prop
+44185,T 853-18,11807,703,prop. 1886:2&#8232;,prep,prop
+44186,T 853-18,11807,706,NJA 1981 s. 1,case,hd
+44187,T 853-18,11807,706,rennäringslagen (1971:437),statute,act
+44188,T 853-18,11807,707,prop. 1992/93:32,prep,prop
+44189,T 853-18,11807,708,RF,statute,const
+44190,T 853-18,11807,708,rennäringslagen (1971:437),statute,act
+44191,T 853-18,11807,711,RF,statute,const
+44192,T 853-18,11807,711,RF,statute,const
+44193,T 853-18,11807,712,RF,statute,const
+44194,T 853-18,11807,712,1883 års kommittéförslag,prep,act
+44195,T 853-18,11807,713,rennäringslagen (1971:437),statute,act
+44196,T 853-18,11807,713,RF,statute,const
+44197,T 853-18,11807,714,EKMR,statute,echr
+44198,T 853-18,11807,716,rennäringslagen (1971:437),statute,act
+44199,T 853-18,11807,716,RF,statute,const
+44200,T 853-18,11807,716,EKMR,statute,echr
+44201,T 853-18,11807,723,1734 års lag,statute,act
+44202,T 853-18,11807,723,L,other,literature
+44203,T 853-18,11807,724,NJA 2011 s. 109,case,hd
+44204,T 853-18,11807,724,rennäringslagen (1971:437),statute,act
+44205,T 853-18,11807,724,L,other,literature
+44206,T 853-18,11807,726,KrU 1976/77:43,prep,NA
+44207,T 853-18,11807,726,F,other,non_binding
+44208,T 853-18,11807,727,I,other,international
+44209,T 853-18,11807,728,RF,statute,const
+44210,T 853-18,11807,733,lagen (1970:995) om införande av nya JB,statute,code
+44211,T 853-18,11807,733,Jaktlag (1987:259) övergångsbestämmelser p. 4,statute,act
+44212,T 853-18,11807,733,Fiskelag (1993:787) övergångsbestämmelse p. 2,statute,act
+44213,T 853-18,11807,733,1734 års lag,statute,act
+44214,T 853-18,11807,735,1734 års lag,statute,act
+44215,T 853-18,11807,736,1734 års lag,statute,act
+44216,T 853-18,11807,738,NJA 1885 s. 357,case,hd
+44217,T 853-18,11807,738,NJA 1932 s. 314,case,hd
+44218,T 853-18,11807,739,NJA 1932 s. 314,case,hd
+44219,T 853-18,11807,739,NJA 1952 s. 199,case,hd
+44220,T 853-18,11807,739,1734 års lag,statute,act
+44221,T 853-18,11807,739,L,other,literature
+44222,T 853-18,11807,741,NJA 1984 s. 148,case,hd
+44223,T 853-18,11807,741,1734 års lag,statute,act
+44224,T 853-18,11807,743,NJA 1981 s. 1,case,hd
+44225,T 853-18,11807,744,NJA 1981 s. 1,case,hd
+44226,T 853-18,11807,744,NJA 1932 s. 314,case,hd
+44227,T 853-18,11807,744,NJA 1952 s. 199,case,hd
+44228,T 853-18,11807,745,NJA 1981 s. 1,case,hd
+44229,T 853-18,11807,746,NJA 1981 s. 1,case,hd
+44230,T 853-18,11807,747,NJA 1981 s. 1,case,hd
+44231,T 853-18,11807,748,NJA 1981 s. 1,case,hd
+44232,T 853-18,11807,749,NJA 1981 s. 1,case,hd
+44233,T 853-18,11807,749,rennäringslagen (1971:437),statute,act
+44234,T 853-18,11807,750,NJA 1981 s. 1,case,hd
+44235,T 853-18,11807,750,SOU 2006:14,prep,sou
+44236,T 853-18,11807,751,NJA 2011 s. 109,case,hd
+44237,T 853-18,11807,752,NJA 2011 s. 109,case,hd
+44238,T 853-18,11807,754,NJA 2011 s. 109,case,hd
+44239,T 853-18,11807,758,NJA 1911 s. 257,case,hd
+44240,T 853-18,11807,758,NJA 1878 s. 113,case,hd
+44241,T 853-18,11807,768,15 kap. 1734 års lag,statute,act
+44242,T 853-18,11807,768,L,other,literature
+44243,T 853-18,11807,770,I,other,international
+44244,T 853-18,11807,770,F,other,non_binding
+44245,T 853-18,11807,773,NJA 1981 s. 1,case,hd
+44246,T 853-18,11807,774,SOU 1922:10,prep,sou
+44247,T 853-18,11807,774,L,other,literature
+44248,T 853-18,11807,790,SOU 1922:10,prep,sou
+44249,T 853-18,11807,798,L,other,literature
+44250,T 853-18,11807,800,L,other,literature
+44251,T 853-18,11807,802,1749 års lappmarksreglemente,statute,NA
+44252,T 853-18,11807,802,1760 års lappfogdeinstruktion,statute,NA
+44253,T 853-18,11807,812,L,other,literature
+44254,T 853-18,11807,819,1683 års skogsordning,statute,NA
+44255,T 853-18,11807,827,1749 års lappmarksreglement,statute,NA
+44256,T 853-18,11807,828,1883 års kommittéförslag,prep,act
+44257,T 853-18,11807,837,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44258,T 853-18,11807,838,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44259,T 853-18,11807,839,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44260,T 853-18,11807,840,rennäringslagen (1971:437),statute,act
+44261,T 853-18,11807,841,rennäringslagen (1971:437),statute,act
+44262,T 853-18,11807,842,rennäringslagen (1971:437),statute,act
+44263,T 853-18,11807,844,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44264,T 853-18,11807,845,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44265,T 853-18,11807,849,rennäringslagen (1971:437),statute,act
+44266,T 853-18,11807,853,rennäringslagen (1971:437),statute,act
+44267,T 853-18,11807,854,rennäringslagen (1971:437),statute,act
+44268,T 853-18,11809,861,I,other,international
+44269,T 853-18,11809,863,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44270,T 853-18,11809,863,L,other,literature
+44271,T 853-18,11809,864,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44272,T 853-18,11809,864,rennäringslagen (1971:437),statute,act
+44273,T 853-18,11809,865,prop. 1886:2&#8232;,prep,prop
+44274,T 853-18,11809,868,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44275,T 853-18,11809,869,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44276,T 853-18,11809,869,rennäringslagen (1971:437),statute,act
+44277,T 853-18,11809,873,SOU 1922:10,prep,sou
+44278,T 853-18,11809,873,L,other,literature
+44279,T 853-18,11809,874,L,other,literature
+44280,T 853-18,11809,876,prop. 1873:4,prep,prop
+44281,T 853-18,11809,879,1808 års jaktstadga,statute,NA
+44282,T 853-18,11809,879,1864 års jaktstadga,statute,NA
+44283,T 853-18,11809,879,1852 års fiskeristadga,statute,NA
+44284,T 853-18,11809,881,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44285,T 853-18,11809,882,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44286,T 853-18,11809,883,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44287,T 853-18,11809,884,1,statute,NA
+44288,T 853-18,11809,884,2,statute,NA
+44289,T 853-18,11809,884,4,statute,NA
+44290,T 853-18,11809,884,5,statute,NA
+44291,T 853-18,11809,884,13,statute,NA
+44292,T 853-18,11809,884,21,statute,NA
+44293,T 853-18,11809,884,22,statute,NA
+44294,T 853-18,11809,884,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44295,T 853-18,11809,884,1883 års kommittéförslag,prep,act
+44296,T 853-18,11809,886,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44297,T 853-18,11809,887,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44298,T 853-18,11809,887,1864 års jaktstadga,statute,NA
+44299,T 853-18,11809,887,1852 års fiskeristadga,statute,NA
+44300,T 853-18,11809,889,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44301,T 853-18,11809,890,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44302,T 853-18,11809,891,1864 års jaktstadga,statute,NA
+44303,T 853-18,11809,891,1852 års fiskeristadga,statute,NA
+44304,T 853-18,11809,891,1883 års kommittéförslag,prep,act
+44305,T 853-18,11809,892,1883 års kommittéförslag,prep,act
+44306,T 853-18,11809,893,L,other,literature
+44307,T 853-18,11809,895,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44308,T 853-18,11809,896,1883 års kommittéförslag,prep,act
+44309,T 853-18,11809,898,1912 års lag om rätt till jakt,statute,act
+44310,T 853-18,11809,899,1938 års jaktlag,statute,act
+44311,T 853-18,11809,899,Jaktlag (1987:259),statute,act
+44312,T 853-18,11809,899,prop. 1912:98,prep,prop
+44313,T 853-18,11809,899,SOU 1936:38,prep,sou
+44314,T 853-18,11809,899,prop. 1938:36,prep,prop
+44315,T 853-18,11809,899,prop. 1986/87:58,prep,prop
+44316,T 853-18,11809,900,1852 års fiskeristadga,statute,NA
+44317,T 853-18,11809,900,1950 års lag om rätt till fiske,statute,act
+44318,T 853-18,11809,901,1734 års lag,statute,act
+44319,T 853-18,11809,901,L,other,literature
+44320,T 853-18,11809,902,lagen (1904:48 s. 1) om samäganderätt,statute,act
+44321,T 853-18,11809,903,1883 års kommittéförslag,prep,act
+44322,T 853-18,11809,905,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44323,T 853-18,11809,905,1883 års kommittéförslag,prep,act
+44324,T 853-18,11809,908,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44325,T 853-18,11809,908,1883 års kommittéförslag,prep,act
+44326,T 853-18,11809,909,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44327,T 853-18,11809,909,1883 års kommittéförslag,prep,act
+44328,T 853-18,11809,912,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44329,T 853-18,11809,913,1864 års jaktstadga,statute,NA
+44330,T 853-18,11809,913,1852 års fiskeristadga,statute,NA
+44331,T 853-18,11809,913,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44332,T 853-18,11809,914,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44333,T 853-18,11809,915,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44334,T 853-18,11809,917,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44335,T 853-18,11809,919,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44336,T 853-18,11809,920,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44337,T 853-18,11809,921,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44338,T 853-18,11809,921,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44339,T 853-18,11809,921,rennäringslagen (1971:437),statute,act
+44340,T 853-18,11809,923,SOU 1922:16,prep,sou
+44341,T 853-18,11809,924,SOU 1923:58,prep,sou
+44342,T 853-18,11809,924,SOU 1947:47,prep,sou
+44343,T 853-18,11809,924,SOU 1952:13,prep,sou
+44344,T 853-18,11809,925,L,other,literature
+44345,T 853-18,11809,926,kungörelsen (1927:437) angående grunder för tillgodogörande av kronans jakträtt,statute,act
+44346,T 853-18,11809,926,SOU 1922:16,prep,sou
+44347,T 853-18,11809,926,prop. 1927:120,prep,prop
+44348,T 853-18,11809,926,prop. 1928:43,prep,prop
+44349,T 853-18,11809,926,NJA II 1980 s. 412,prep,nja_ii
+44350,T 853-18,11809,928,NJA 1981 s. 1,case,hd
+44351,T 853-18,11809,928,NJA 1942 s. 336,case,hd
+44352,T 853-18,11809,928,L,other,literature
+44353,T 853-18,11809,929,prop. 1971:51,prep,prop
+44354,T 853-18,11809,930,SOU 2005:17,prep,sou
+44355,T 853-18,11809,930,prop. 1986/87:58,prep,prop
+44356,T 853-18,11809,934,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44357,T 853-18,11809,936,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44358,T 853-18,11809,936,prop. 1886:2&#8232;,prep,prop
+44359,T 853-18,11809,940,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44360,T 853-18,11809,940,rennäringslagen (1971:437),statute,act
+44361,T 853-18,11809,942,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44362,T 853-18,11809,944,2 kap. 12 RF,statute,const
+44363,T 853-18,11809,944,EKMR,statute,echr
+44364,T 853-18,11809,945,rennäringslagen (1971:437),statute,act
+44365,T 853-18,11809,947,rennäringslagen (1971:437),statute,act
+44367,T 226-77,11899,114,JB,statute,code
+44368,T 226-77,11899,119,RB,statute,code
+44377,T 307-78,11922,103,Expropriationslag (1972:719),statute,prop
+44378,T 307-78,11922,105,Expropriationslag (1972:719),statute,prop
+44379,T 307-78,11922,105,1917 års expropriationslag,statute,prop
+44380,T 307-78,11922,105,NJA II 1918 s. 156,prep,nja_ii
+44381,T 307-78,11922,105,prop. 1971:122,prep,prop
+44382,T 307-78,11922,106,Expropriationslag (1972:719),statute,prop
+44383,T 307-78,11922,112,NJA 1977 s. 593,case,hd
+44384,T 307-78,11922,113,RB,statute,code
+44385,T 324-76,11935,520,Rennäringslag (1971:437),statute,act
+44386,T 324-76,11935,520,prop. 1971:51,prep,prop
+44387,T 324-76,11935,529,EKMR,statute,echr
+44388,T 324-76,11935,529,RF,statute,const
+44389,T 324-76,11935,529,Rennäringslag (1971:437),statute,act
+44390,T 324-76,11935,529,SOU 1922:10,prep,sou
+44391,T 324-76,11935,529,I,other,international
+44392,T 324-76,11935,532,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44393,T 324-76,11935,542,rennäringslagen (1971:437),statute,act
+44394,T 324-76,11935,543,3,statute,NA
+44395,T 324-76,11935,543,6,statute,NA
+44396,T 324-76,11935,543,9,statute,NA
+44397,T 324-76,11935,543,10,statute,NA
+44398,T 324-76,11935,543,rennäringslagen (1971:437),statute,act
+44399,T 324-76,11935,544,15,statute,NA
+44400,T 324-76,11935,544,16,statute,NA
+44401,T 324-76,11935,544,17,statute,NA
+44402,T 324-76,11935,544,18,statute,NA
+44403,T 324-76,11935,544,rennäringslagen (1971:437),statute,act
+44404,T 324-76,11935,545,2 st.,statute,NA
+44405,T 324-76,11935,545,rennäringslagen (1971:437),statute,act
+44406,T 324-76,11935,546,2 och 3 st,statute,NA
+44407,T 324-76,11935,546,22,statute,NA
+44408,T 324-76,11935,546,26,statute,NA
+44409,T 324-76,11935,546,28,statute,NA
+44410,T 324-76,11935,546,rennäringslagen (1971:437),statute,act
+44411,T 324-76,11935,546,2 kap. Expropriationslag (1972:719),statute,prop
+44412,T 324-76,11935,547,31,statute,NA
+44413,T 324-76,11935,547,rennäringslagen (1971:437),statute,act
+44414,T 324-76,11935,547,prop 1971:5,prep,prop
+44415,T 324-76,11935,547,JoU 1971:37,prep,act
+44416,T 324-76,11935,549,rennäringslagen (1971:437),statute,act
+44417,T 324-76,11935,550,SOU 1968:16,prep,sou
+44418,T 324-76,11935,550,prop. 1971:51,prep,prop
+44419,T 324-76,11935,550,Jou 1971:37,prep,act
+44420,T 324-76,11935,551,RF,statute,const
+44421,T 324-76,11935,553,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44422,T 324-76,11935,553,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44423,T 324-76,11935,553,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44424,T 324-76,11935,563,F,other,non_binding
+44425,T 324-76,11935,564,L,other,literature
+44426,T 324-76,11935,570,JB i 1734 års lag,statute,code
+44427,T 324-76,11935,584,NJA 1932 s. 314,case,hd
+44428,T 324-76,11935,584,NJA 1952 s. 199,case,hd
+44429,T 324-76,11935,587,Svea HovR:s dom d 5 maj 1683,statute,NA
+44430,T 324-76,11935,587,L,other,literature
+44431,T 324-76,11935,598,L,other,literature
+44432,T 324-76,11935,609,1751 års kodicill,statute,NA
+44433,T 324-76,11935,609,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44434,T 324-76,11935,621,1673 års bergverksprivilegium,statute,NA
+44435,T 324-76,11935,631,1751 års kodicill,statute,NA
+44436,T 324-76,11935,634,1751 års kodicill,statute,NA
+44437,T 324-76,11935,635,1751 års kodicill,statute,NA
+44438,T 324-76,11935,638,1749 års lappmarksreglemente,statute,NA
+44439,T 324-76,11935,638,lappmarksplakaten av 1673,statute,NA
+44440,T 324-76,11935,638,lappmarksplakaten av 1695,statute,NA
+44441,T 324-76,11935,640,1647,statute,NA
+44442,T 324-76,11935,640,1664 och 1734 års skogsordningar,statute,NA
+44443,T 324-76,11935,646,förordningen d 21 febr 1789 om kronohemmans försäljning till skatte samt de förmåner och villkor,statute,NA
+44444,T 324-76,11935,646,varunder skattehemman hädanefter skola innehavas,statute,NA
+44445,T 324-76,11935,647,förordningen d 21 febr 1789 om kronohemmans försäljning till skatte samt de förmåner och villkor,statute,NA
+44446,T 324-76,11935,647,varunder skattehemman hädanefter skola innehavas,statute,NA
+44447,T 324-76,11935,649,förordningen d 21 febr 1789 om kronohemmans försäljning till skatte samt de förmåner och villkor,statute,NA
+44448,T 324-76,11935,649,varunder skattehemman hädanefter skola innehavas,statute,NA
+44449,T 324-76,11935,650,förordningen d 21 febr 1789 om kronohemmans försäljning till skatte samt de förmåner och villkor,statute,NA
+44450,T 324-76,11935,650,varunder skattehemman hädanefter skola innehavas,statute,NA
+44451,T 324-76,11935,652,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44452,T 324-76,11935,653,1,statute,NA
+44453,T 324-76,11935,653,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44454,T 324-76,11935,654,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44455,T 324-76,11935,656,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44456,T 324-76,11935,659,1841 års skattefjällsbrev,statute,NA
+44457,T 324-76,11935,660,1841 års skattefjällsbrev,statute,NA
+44458,T 324-76,11935,666,1841 års skattefjällsbrev,statute,NA
+44459,T 324-76,11935,666,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44460,T 324-76,11935,668,1841 års skattefjällsbrev,statute,NA
+44461,T 324-76,11935,668,1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44462,T 324-76,11935,669,1841 års skattefjällsbrev,statute,NA
+44463,T 324-76,11935,670,1841 års skattefjällsbrev,statute,NA
+44464,T 324-76,11935,671,1841 års skattefjällsbrev,statute,NA
+44465,T 324-76,11935,671,10 1820 års stadga angående avvittringsverket i Jämtland,statute,NA
+44466,T 324-76,11935,672,1841 års skattefjällsbrev,statute,NA
+44467,T 324-76,11935,673,1841 års skattefjällsbrev,statute,NA
+44468,T 324-76,11935,674,1841 års skattefjällsbrev,statute,NA
+44469,T 324-76,11935,679,1841 års skattefjällsbrev,statute,NA
+44470,T 324-76,11935,682,L,other,literature
+44471,T 324-76,11935,686,prop. 1871:8,prep,prop
+44472,T 324-76,11935,686,prop. 1873:4,prep,prop
+44473,T 324-76,11935,693,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44474,T 324-76,11935,699,JB,statute,code
+44475,T 324-76,11935,699,prop. 1886:2,prep,prop
+44476,T 324-76,11935,706,1751 års kodicill,statute,NA
+44477,T 324-76,11935,709,1751 års kodicill,statute,NA
+44478,T 324-76,11935,710,1932 års lag om häradsallmänningar,statute,act
+44479,T 324-76,11935,712,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44480,T 324-76,11935,712,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44481,T 324-76,11935,712,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44482,T 324-76,11935,712,rennäringslagen (1971:437),statute,act
+44483,T 324-76,11935,714,NJA 1965 s. 492,case,hd
+44484,T 324-76,11935,714,NJA 1979 s. 1,case,hd
+44485,T 324-76,11935,718,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44486,T 324-76,11935,720,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44487,T 324-76,11935,723,prop. 1886:2,prep,prop
+44488,T 324-76,11935,729,RF,statute,const
+44489,T 324-76,11935,729,1751 års kodicil,statute,NA
+44490,T 324-76,11935,736,prop. 1886:2&#8232;,prep,prop
+44491,T 324-76,11935,738,prop. 1886:2&#8232;,prep,prop
+44492,T 324-76,11935,743,1884 års gruvstadga om kronoåbos rätt till jordägarandel i gruva,statute,NA
+44493,T 324-76,11935,743,L,other,literature
+44494,T 324-76,11935,749,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44495,T 324-76,11935,752,1809 års regeringsform,statute,NA
+44496,T 324-76,11935,754,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44497,T 324-76,11935,756,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44498,T 324-76,11935,757,1,statute,NA
+44499,T 324-76,11935,757,2,statute,NA
+44500,T 324-76,11935,757,4,statute,NA
+44501,T 324-76,11935,757,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44502,T 324-76,11935,759,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44503,T 324-76,11935,762,5,statute,NA
+44504,T 324-76,11935,762,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44505,T 324-76,11935,763,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44506,T 324-76,11935,768,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44507,T 324-76,11935,769,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44508,T 324-76,11935,772,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44509,T 324-76,11935,773,RF,statute,const
+44510,T 324-76,11935,777,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44511,T 324-76,11935,777,lagen (1898:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44512,T 324-76,11935,778,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44513,T 324-76,11935,779,32,statute,NA
+44514,T 324-76,11935,779,rennäringslagen (1971:437),statute,act
+44515,T 324-76,11935,779,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44516,T 324-76,11935,779,prop. 1971:51,prep,prop
+44517,T 324-76,11935,780,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44518,T 324-76,11935,780,rennäringslagen (1971:437),statute,act
+44519,T 324-76,11935,781,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44520,T 324-76,11935,781,rennäringslagen (1971:437),statute,act
+44521,T 324-76,11935,783,lagen (1928:66) om de svenska lapparnas rätt till renbete i Sverige,statute,act
+44522,T 324-76,11935,783,SOU 1068:16,prep,sou
+44523,T 324-76,11935,784,RF,statute,const
+44524,T 324-76,11935,784,rennäringslagen (1971:437),statute,act
+44525,T 324-76,11935,785,RF,statute,const
+44526,T 324-76,11935,787,RF,statute,const
+44527,T 324-76,11935,787,prop. 1971:51,prep,prop
+44528,T 324-76,11935,789,prop. 1971:51,prep,prop
+44529,T 324-76,11935,790,RF,statute,const
+44530,T 324-76,11935,791,RF,statute,const
+44531,T 324-76,11942,802,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44532,T 324-76,11942,802,rennäringslagen (1971:437),statute,act
+44533,T 324-76,11942,803,prop. 1971:51,prep,prop
+44534,T 324-76,11942,804,RF,statute,const
+44535,T 324-76,11942,805,RF,statute,const
+44536,T 324-76,11942,807,SOU 1975:75,prep,sou
+44537,T 324-76,11942,807,L,other,literature
+44538,T 324-76,11942,808,lagen (1886:38) angående de svenska Lapparnes rätt till renbete i Sverige,statute,act
+44539,T 324-76,11942,808,prop. 1886:2&#8232;,prep,prop
+44540,T 324-76,11942,810,RF,statute,const
+44541,T 324-76,11942,812,RF,statute,const
+44551,T 335-77,11947,55,Vattenlag (1918:523),statute,act
+44552,T 335-77,11947,56,NJA 1979 s. 1,case,hd
+44553,T 335-77,11947,56,Vattenlag (1918:523),statute,act
+44554,T 335-77,11947,56,rennäringslagen (1971:437),statute,act
+44555,T 335-77,11947,57,NJA 1979 s. 1,case,hd
+44556,T 335-77,11947,57,rennäringslagen (1971:437),statute,act
+44557,T 335-77,11947,60,rennäringslagen (1971:437),statute,act
+44558,T 335-77,11947,60,prop. 1971:51,prep,prop
+44559,T 335-77,11947,61,prop. 1971:51,prep,prop
+44564,T 4486-07,11966,42,Anläggningslag (1973:1149),statute,act
+44565,T 4486-07,11966,51,Anläggningslag (1973:1149),statute,act
+44566,T 4486-07,11966,51,prop. 1973:160,prep,prop
+44567,T 4486-07,11966,52,Anläggningslag (1973:1149),statute,act
+44569,T 5746-10,11970,37,första tilläggsprotokollet till EKMR,statute,echr
+44570,T 5746-10,11970,37,RF,statute,const
+44571,T 5746-10,11970,39,minerallagen (1991:45),statute,act
+44572,T 5746-10,11970,39,minerallagen (1991:45),statute,act
+44573,T 5746-10,11970,40,minerallagen (1991:45),statute,act
+44574,T 5746-10,11970,40,9 kap. MB,statute,code
+44575,T 5746-10,11970,40,3 kap. MB,statute,code
+44576,T 5746-10,11970,40,4 kap. MB,statute,code
+44577,T 5746-10,11970,40,prop. 1988/89:92,prep,prop
+44578,T 5746-10,11970,40,prop. 1997/98:90,prep,prop
+44579,T 5746-10,11970,41,minerallagen (1991:45),statute,act
+44580,T 5746-10,11970,41,9 kap. MB,statute,code
+44581,T 5746-10,11970,42,minerallagen (1991:45),statute,act
+44582,T 5746-10,11970,43,minerallagen (1991:45),statute,act
+44583,T 5746-10,11970,45,första tilläggsprotokollet till EKMR,statute,echr
+44584,T 5746-10,11970,47,expropriationslagen (1972:719),statute,prop
+44585,T 5746-10,11970,47,minerallagen (1991:45),statute,act
+44586,T 5746-10,11970,47,expropriationslagen (1972:719),statute,prop
+44587,T 5746-10,11970,48,minerallagen (1991:45),statute,act
+44588,T 5746-10,11970,48,minerallagen (1991:45),statute,act
+44589,T 5746-10,11970,48,minerallagen (1991:45),statute,act
+44590,T 5746-10,11970,48,expropriationslagen (1972:719),statute,prop
+44591,T 5746-10,11970,49,första tilläggsprotokollet till EKMR,statute,echr
+44592,T 5746-10,11970,49,minerallagen (1991:45),statute,act
+44593,T 5746-10,11970,49,expropriationslagen (1972:719),statute,prop
+44594,T 5746-10,11970,51,Beyeler mot Italien,case,ecthr
+44595,T 5746-10,11970,51,Sporrong och Lönnroth mot Sverige,case,ecthr
+44596,T 5746-10,11970,51,Skibin´scy mot Polen,case,ecthr
+44597,T 5746-10,11970,51,Erkner och Hofauer mot Österrike,case,ecthr
+44598,T 5746-10,11970,53,RF,statute,const
+44599,T 5746-10,11970,54,första tilläggsprotokollet till EKMR,statute,echr
+44600,T 5746-10,11970,54,RF,statute,const
+44655,T 1848-20,12224,71,skadeståndslagen (1972:207),statute,act
+44656,T 1848-20,12224,73,skadeståndslagen (1972:207),statute,act
+44657,T 1848-20,12224,74,skadeståndslagen (1972:207),statute,act
+44658,T 1848-20,12224,75,prop. 2000/01:68,prep,prop
+44659,T 1848-20,12224,76,prop. 2000/01:68,prep,prop
+44660,T 1848-20,12224,77,skadeståndslagen (1972:207),statute,act
+44661,T 1848-20,12224,77,prop. 2000/01:68,prep,prop
+44662,T 1848-20,12224,77,SOU 1995:33,prep,sou
+44663,T 1848-20,12224,78,NJA 2005 s. 237,case,hd
+44664,T 1848-20,12224,78,skadeståndslagen (1972:207),statute,act
+44665,T 1848-20,12224,80,skadeståndslagen (1972:207),statute,act
+44666,T 1848-20,12225,85,skadeståndslagen (1972:207),statute,act
+44667,T 1848-20,12225,87,NJA 1971 s. 78,case,hd
+44668,T 1848-20,12225,89,NJA 1993 s. 41 I och II,case,hd
+44669,T 1848-20,12225,89,NJA 1996 s. 377,case,hd
+44670,T 1848-20,12225,89,NJA 1999 s. 632,case,hd
+44671,T 1848-20,12225,89,skadeståndslagen (1972:207),statute,act
+44672,T 1848-20,12225,90,NJA 1993 s. 41 I och II,case,hd
+44673,T 1848-20,12225,91,skadeståndslagen (1972:207),statute,act
+44674,T 1848-20,12225,92,NJA 1993 s. 41 I och II,case,hd
+44675,T 1848-20,12225,92,prop. 2000/01:68,prep,prop
+44676,T 1848-20,12225,93,skadeståndslagen (1972:207),statute,act
+44677,T 1848-20,12225,94,skadeståndslagen (1972:207),statute,act
+44678,T 1848-20,12225,94,prop. 2000/01:68,prep,prop
+44679,T 1848-20,12225,95,2 kap. och 5 kap. skadeståndslagen (1972:207),statute,act
+44680,T 1848-20,12225,96,skadeståndslagen (1972:207),statute,act
+44681,T 1848-20,12225,97,skadeståndslagen (1972:207),statute,act
+44682,T 1848-20,12225,97,skadeståndslagen (1972:207),statute,act
+44683,T 1848-20,12225,97,prop. 2000/01:68,prep,prop
+44684,T 1848-20,12225,97,SOU 1995:33,prep,sou
+44685,T 1848-20,12225,98,NJA 2006 s. 181,case,hd
+44686,T 1848-20,12225,98,skadeståndslagen (1972:207),statute,act
+44687,T 1848-20,12225,98,skadeståndslagen (1972:207),statute,act
+44688,T 1848-20,12225,99,skadeståndslagen (1972:207),statute,act
+44689,T 1848-20,12225,100,NJA 2005 s. 237,case,hd
+44690,T 1848-20,12225,100,skadeståndslagen (1972:207),statute,act
+44691,T 1848-20,12225,100,prop. 2000/01:68,prep,prop
+44692,T 1848-20,12225,101,NJA 1971 s. 78,case,hd
+44693,T 1848-20,12225,101,skadeståndslagen (1972:207),statute,act
+44694,T 1848-20,12225,102,skadeståndslagen (1972:207),statute,act
+44695,T 1848-20,12225,102,skadeståndslagen (1972:207),statute,act
+44729,T 1858-21,12228,74,plan- och bygglagen (2010:900),statute,act
+44730,T 1858-21,12228,75,prop. 1985/86:1,prep,prop
+44731,T 1858-21,12228,76,plan- och bygglagen (2010:900),statute,act
+44732,T 1858-21,12228,76,plan- och bygglagen (2010:900),statute,act
+44733,T 1858-21,12228,78,RÅ 1975 ref. 99,case,hfd
+44734,T 1858-21,12228,78,RÅ 1971 C 440,case,NA
+44735,T 1858-21,12228,78,SOU 1957:21,prep,sou
+44736,T 1858-21,12228,81,NJA 2015 s. 899,case,hd
+44737,T 1858-21,12228,81,RF,statute,const
+44738,T 1858-21,12228,81,första tilläggsprotokollet till EKMR,statute,echr
+44739,T 1858-21,12228,82,plan- och bygglagen (2010:900),statute,act
+44740,T 1858-21,12228,83,RÅ 1991 ref. 46,case,hfd
+44741,T 1858-21,12228,86,plan- och bygglagen (2010:900),statute,act
+44771,T 2470-20,12235,85,försäkringsAvtL (2005:104),statute,act
+44772,T 2470-20,12235,88,försäkringsAvtL (2005:104),statute,act
+44773,T 2470-20,12235,89,försäkringsAvtL (2005:104),statute,act
+44774,T 2470-20,12235,90,försäkringsAvtL (2005:104),statute,act
+44775,T 2470-20,12235,92,prop. 2003/04:150,prep,prop
+44776,T 2470-20,12235,93,försäkringsAvtL (2005:104),statute,act
+44777,T 2470-20,12235,95,försäkringsAvtL (2005:104),statute,act
+44778,T 2470-20,12235,95,sista meningen försäkringsAvtL (2005:104),statute,act
+44779,T 2470-20,12235,95,försäkringsAvtL (2005:104),statute,act
+44780,T 2470-20,12235,96,konsumentförsäkringslagen (1980:38),statute,act
+44781,T 2470-20,12235,97,försäkringsAvtL (2005:104),statute,act
+44782,T 2470-20,12235,97,prop. 1979/80:9,prep,prop
+44783,T 2470-20,12235,97,prop. 2003/04:150,prep,prop
+44784,T 2470-20,12235,99,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
+44785,T 2470-20,12235,100,försäkringsAvtL (2005:104),statute,act
+44786,T 2470-20,12235,109,försäkringsAvtL (2005:104),statute,act
+44796,T 2508-20,12239,59,FB,statute,code
+44797,T 2508-20,12239,59,FB,statute,code
+44798,T 2508-20,12239,60,FB,statute,code
+44799,T 2508-20,12239,61,prop. 1987/88:124,prep,prop
+44800,T 2508-20,12239,62,FB,statute,code
+44801,T 2508-20,12239,64,FB,statute,code
+44802,T 2508-20,12239,65,NJA 2021 s. 547 II,case,hd
+44803,T 2508-20,12239,66,NJA 2021 s. 547 II,case,hd
+44804,T 2508-20,12239,67,NJA 2021 s. 547 II,case,hd
+44883,T 2517-21,12241,456,7 kap. alkohollagen (2010:1622),statute,act
+44884,T 2517-21,12241,457,alkohollagen (2010:1622),statute,act
+44885,T 2517-21,12241,458,alkohollagen (2010:1622),statute,act
+44886,T 2517-21,12241,459,alkohollagen (2010:1622),statute,act
+44887,T 2517-21,12241,459,marknadsföringslagen (2008:486),statute,act
+44888,T 2517-21,12241,461,alkohollagen (2010:1622),statute,act
+44889,T 2517-21,12241,461,prop. 1977/78:178,prep,prop
+44890,T 2517-21,12241,465,alkohollagen (2010:1622),statute,act
+44891,T 2517-21,12241,468,alkohollagen (2010:1622),statute,act
+44892,T 2517-21,12241,469,FEUF,statute,eu_primary
+44893,T 2517-21,12241,471,FEUF,statute,eu_primary
+44894,T 2517-21,12241,471,alkohollagen (2010:1622),statute,act
+44895,T 2517-21,12241,473,FEUF,statute,eu_primary
+44896,T 2517-21,12241,474,FEUF,statute,eu_primary
+44897,T 2517-21,12241,474,4,principle,principle_proportionality
+44898,T 2517-21,12241,475,och 168.1 FEUF,statute,eu_primary
+44899,T 2517-21,12241,478,FEUF,statute,eu_primary
+44900,T 2517-21,12241,479,4,principle,principle_proportionality
+44901,T 2517-21,12241,480,4,principle,principle_proportionality
+44902,T 2517-21,12241,482,alkohollagen (2010:1622),statute,act
+44903,T 2517-21,12241,484,prop. 2003/04:161,prep,prop
+44904,T 2517-21,12241,485,A,other,agency
+44905,T 2517-21,12241,486,alkohollagen (2010:1622),statute,act
+44906,T 2517-21,12241,486,prop. 2003/04:161,prep,prop
+44907,T 2517-21,12241,487,FEUF,statute,eu_primary
+44908,T 2517-21,12241,487,prop. 2003/04:161,prep,prop
+44909,T 2517-21,12241,487,4,principle,principle_proportionality
+44910,T 2517-21,12241,489,FEUF,statute,eu_primary
+44911,T 2517-21,12241,489,4,principle,principle_proportionality
+44912,T 2517-21,12241,491,alkohollagen (2010:1622),statute,act
+44913,T 2517-21,12241,491,FEUF,statute,eu_primary
+44914,T 2517-21,12241,491,marknadsföringslagen (2008:486),statute,act
+44915,T 2517-21,12241,491,4,principle,principle_proportionality
+44926,T 264-12,12244,58,JB,statute,code
+44927,T 264-12,12244,59,JB,statute,code
+44928,T 264-12,12244,60,JB,statute,code
+44929,T 264-12,12244,60,JB,statute,code
+44930,T 264-12,12244,60,förmånsrättslagen (1970:979),statute,act
+44931,T 264-12,12244,60,NJA II 1953 s. 400,prep,nja_ii
+44932,T 264-12,12244,62,NJA 1995 s. 714,case,hd
+44933,T 264-12,12244,62,JB,statute,code
+44934,T 264-12,12244,62,RB,statute,code
+44935,T 264-12,12244,62,RB,statute,code
+44936,T 264-12,12244,63,JB,statute,code
+44937,T 264-12,12244,63,RB,statute,code
+44938,T 264-12,12244,64,JB,statute,code
+44939,T 264-12,12244,66,JB,statute,code
+44940,T 264-12,12244,67,2 meningen RB,statute,code
+44941,T 264-12,12244,67,RB,statute,code
+44961,T 2829-19,12248,195,KöpL (1990:931),statute,act
+44962,T 2829-19,12248,196,17,statute,NA
+44963,T 2829-19,12248,196,KöpL (1990:931),statute,act
+44964,T 2829-19,12248,197,1,statute,NA
+44965,T 2829-19,12248,197,KöpL (1990:931),statute,act
+44966,T 2829-19,12248,198,KöpL (1990:931),statute,act
+44967,T 2829-19,12248,199,KöpL (1990:931),statute,act
+44968,T 2829-19,12248,200,KöpL (1990:931),statute,act
+44969,T 2829-19,12248,201,NJA 1983 s. 865,case,hd
+44970,T 2829-19,12248,201,prop. 1988/89:76,prep,prop
+44971,T 2829-19,12248,202,KöpL (1990:931),statute,act
+44972,T 2829-19,12248,205,KöpL (1990:931),statute,act
+44973,T 2829-19,12248,206,KöpL (1990:931),statute,act
+44974,T 2829-19,12248,207,KöpL (1990:931),statute,act
+44975,T 2829-19,12248,208,KöpL (1990:931),statute,act
+44976,T 2829-19,12248,214,KöpL (1990:931),statute,act
+44977,T 2829-19,12248,215,3 KöpL (1990:931),statute,act
+44978,T 2829-19,12248,217,NJA 1971 s. 51,case,hd
+44979,T 2829-19,12248,217,Konsumentköplag (1973:877),statute,act
+44980,T 2829-19,12248,217,SOU 1972:28,prep,sou
+44981,T 2829-19,12248,217,prop. 1973:138,prep,prop
+44982,T 2829-19,12248,217,prop. 1988/89:76,prep,prop
+44983,T 2829-19,12248,217,NU 1984:5,prep,act
+44984,T 2829-19,12248,218,NJA 2019 s. 807,case,hd
+44985,T 2829-19,12248,218,F,other,non_binding
+44986,T 2829-19,12248,219,NJA 2019 s. 807,case,hd
+44987,T 2829-19,12248,220,F,other,non_binding
+44988,T 2829-19,12248,223,KöpL (1990:931),statute,act
+44989,T 2829-19,12248,223,KöpL (1990:931),statute,act
+44990,T 2829-19,12248,224,NJA 2016 s. 237,case,hd
+44991,T 2829-19,12248,224,NJA 1978 s. 301,case,hd
+44992,T 2829-19,12248,224,L,other,literature
+44993,T 2829-19,12248,225,NJA 1996 s. 598,case,hd
+44994,T 2829-19,12248,225,KöpL (1990:931),statute,act
+44995,T 2829-19,12248,225,SOU 1976:66,prep,sou
+44996,T 2829-19,12248,226,KöpL (1990:931),statute,act
+44997,T 2829-19,12248,226,JB,statute,code
+44998,T 2829-19,12248,229,KöpL (1990:931),statute,act
+44999,T 2829-19,12248,230,prop. 1988/89:76,prep,prop
+45000,T 2829-19,12248,233,NJA 2020 s. 822,case,hd
+45001,T 2829-19,12248,233,bostadsrättslagen (1991:614),statute,act
+45002,T 2829-19,12248,235,KöpL (1990:931),statute,act
+45003,T 2829-19,12248,236,NJA 2018 s. 653,case,hd
+45004,T 2829-19,12248,236,KöpL (1990:931),statute,act
+45005,T 2829-19,12248,236,L,other,literature
+45006,T 2829-19,12248,237,KöpL (1990:931),statute,act
+45007,T 2829-19,12248,237,prop. 1988/89:76,prep,prop
+45008,T 2829-19,12248,240,NJA 1998 s. 792,case,hd
+45009,T 2829-19,12248,240,KöpL (1990:931),statute,act
+45010,T 2829-19,12248,241,prop. 1988/89:76,prep,prop
+45011,T 2829-19,12248,241,L,other,literature
+45012,T 2829-19,12248,242,KöpL (1990:931),statute,act
+45013,T 2829-19,12248,250,prop. 1988/89:76,prep,prop
+45014,T 2829-19,12248,250,L,other,literature
+45015,T 2829-19,12248,253,NJA 1988 s. 3,case,hd
+45016,T 2829-19,12248,253,NJA 1988 s. 363,case,hd
+45017,T 2829-19,12248,253,F,other,non_binding
+45018,T 2829-19,12248,255,NJA 1988 s. 3,case,hd
+45019,T 2829-19,12248,255,KöpL (1990:931),statute,act
+45020,T 2829-19,12248,255,F,other,non_binding
+45021,T 2829-19,12248,256,NJA 2011 s. 576,case,hd
+45022,T 2829-19,12248,256,L,other,literature
+45023,T 2829-19,12248,256,F,other,non_binding
+45024,T 2829-19,12248,257,L,other,literature
+45025,T 2829-19,12248,259,NJA 2019 s. 445,case,hd
+45026,T 2829-19,12248,260,3 KöpL (1990:931),statute,act
+45027,T 2829-19,12248,261,NJA 2019 s. 807,case,hd
+45028,T 2829-19,12248,263,F,other,non_binding
+45029,T 2829-19,12248,265,1 KöpL (1990:931),statute,act
+45030,T 2829-19,12248,269,3 KöpL (1990:931),statute,act
+45031,T 2829-19,12248,270,NJA 2019 s. 807,case,hd
+45032,T 2829-19,12248,271,3 KöpL (1990:931),statute,act
+45033,T 2829-19,12248,271,F,other,non_binding
+45040,T 2838-20,12252,127,Konsumenttjänstlagen (1985:716),statute,act
+45041,T 2838-20,12252,130,Konsumenttjänstlagen (1985:716),statute,act
+45042,T 2838-20,12252,131,konsumentKöpL (1990:932),statute,act
+45043,T 2838-20,12252,131,31999L0044,statute,eu_secondary
+45044,T 2838-20,12252,131,prop. 2001/02:134,prep,prop
+45045,T 2838-20,12252,141,konsumenttjänstlagen (1985:716),statute,act
+45046,T 2838-20,12252,142,konsumenttjänstlagen (1985:716),statute,act
+45047,T 2838-20,12252,143,NJA 2018 s. 266,case,hd
+45048,T 2838-20,12252,143,NJA 2020 s. 951,case,hd
+45049,T 2838-20,12252,143,prop. 1989/90:89,prep,prop
+45050,T 2838-20,12252,144,konsumenttjänstlagen (1985:716),statute,act
+45051,T 2838-20,12252,146,prop. 1984/85:110,prep,prop
+45052,T 2838-20,12252,147,NJA 2020 s. 951,case,hd
+45053,T 2838-20,12252,147,JB,statute,code
+45054,T 2838-20,12252,147,konsumentKöpL (1990:932),statute,act
+45055,T 2838-20,12252,147,Köplag (1990:931),statute,act
+45057,T 2948-19,12256,76,bostadsrättslagen (1991:614),statute,act
+45058,T 2948-19,12256,77,bostadsrättslagen (1991:614),statute,act
+45059,T 2948-19,12256,79,bostadsrättslagen (1991:614),statute,act
+45060,T 2948-19,12256,80,prop. 1990/91:92,prep,prop
+45061,T 2948-19,12256,80,prop. 2002/03:12,prep,prop
+45062,T 2948-19,12256,82,NJA 2007 s. 709,case,hd
+45063,T 2948-19,12256,87,NJA 2015 s. 741,case,hd
+45064,T 2948-19,12256,88,NJA 2015 s. 566,case,hd
+45065,T 2948-19,12256,88,NJA 2019 s. 1013,case,hd
+45066,T 2948-19,12257,104,prop. 1990/91:92,prep,prop
+45067,T 2948-19,12257,105,L,other,literature
+45068,T 2948-19,12257,106,bostadsrättslagen (1991:614),statute,act
+45072,T 3044-19,12261,180,NJA 1971 s. 129,case,hd
+45073,T 3044-19,12261,180,JB,statute,code
+45074,T 3044-19,12261,181,JB,statute,code
+45075,T 3044-19,12261,181,JB,statute,code
+45076,T 3044-19,12261,182,JB,statute,code
+45077,T 3044-19,12261,182,SOU 1981:77,prep,sou
+45078,T 3044-19,12261,182,prop. 1983/84:137,prep,prop
+45079,T 3044-19,12261,184,JB,statute,code
+45080,T 3044-19,12261,186,JB,statute,code
+45081,T 3044-19,12261,189,RBD 10:82,case,code
+45082,T 3044-19,12261,190,RBD 32:80,case,code
+45083,T 3044-19,12261,190,RBD 37:79,case,code
+45084,T 3044-19,12261,190,RBD 2:80,case,code
+45085,T 3044-19,12261,191,RBD 5:93,case,code
+45086,T 3044-19,12261,193,JB,statute,code
+45087,T 3044-19,12261,194,Lag (1993:387) om stöd och service till vissa funktionshindrade,statute,act
+45088,T 3044-19,12261,202,9 Lag (1993:387) om stöd och service till vissa funktionshindrad,statute,act
+45097,T 3132-20,12266,64,skadeståndslagen (1972:207),statute,act
+45098,T 3132-20,12266,64,3 skadeståndslagen (1972:207),statute,act
+45099,T 3132-20,12266,65,3 skadeståndslagen (1972:207),statute,act
+45100,T 3132-20,12266,66,NJA 1972 s. 81,case,hd
+45101,T 3132-20,12266,66,NJA 2017 s. 1208,case,hd
+45102,T 3132-20,12266,71,NJA 1993 s. 41,case,hd
+45103,T 3132-20,12266,71,NJA 1996 s. 377,case,hd
+45104,T 3132-20,12266,71,NJA 1999 s. 632,case,hd
+45105,T 3132-20,12266,71,3 skadeståndslagen (1972:207),statute,act
+45106,T 3132-20,12266,72,NJA 1979 s. 620,case,hd
+45107,T 3132-20,12266,72,SOU 1995:33,prep,sou
+45108,T 3132-20,12266,72,prop. 2000/01:68,prep,prop
+45109,T 3132-20,12266,73,NJA 1993 s. 41,case,hd
+45110,T 3132-20,12266,76,NJA 2000 s. 521,case,hd
+45111,T 3132-20,12266,76,prop. 2000/01:68,prep,prop
+45112,T 3132-20,12266,78,NJA 2004 s. 26,case,hd
+45113,T 3132-20,12266,79,NJA 2011 s. 638,case,hd
+45114,T 3132-20,12266,80,NJA 2006 s. 738,case,hd
+45115,T 3132-20,12266,80,NJA 2007 s. 953,case,hd
+45116,T 3132-20,12266,84,prop. 2005/06:166,prep,prop
+45117,T 3132-20,12266,84,SOU 2019:32,prep,sou
+45118,T 3132-20,12266,86,NJA 1993 s. 41,case,hd
+45119,T 3132-20,12266,90,3 skadeståndslagen (1972:207),statute,act
+45153,T 3332-20,12270,84,13 kap. 13,statute,NA
+45154,T 3332-20,12270,84,18,statute,NA
+45155,T 3332-20,12270,84,aktiebolagslagen (2005:551),statute,act
+45156,T 3332-20,12270,85,1,statute,NA
+45157,T 3332-20,12270,85,aktiebolagslagen (2005:551),statute,act
+45158,T 3332-20,12270,85,aktiebolagslagen (2005:551),statute,act
+45159,T 3332-20,12270,87,Köplag (1990:931),statute,act
+45160,T 3332-20,12270,88,1910 års aktiebolagslag,statute,act
+45161,T 3332-20,12270,88,lagen (1944:705) om aktiebolag,statute,act
+45162,T 3332-20,12270,89,aktiebolagslagen (2005:551),statute,act
+45163,T 3332-20,12270,89,SOU 1971:15,prep,sou
+45164,T 3332-20,12270,89,prop. 1975:103,prep,prop
+45165,T 3332-20,12270,90,NJA 2016 s. 107,case,hd
+45166,T 3332-20,12270,90,prop. 2004/05:85,prep,prop
+45167,T 3332-20,12270,91,13 kap. aktiebolagslagen (2005:551),statute,act
+45168,T 3332-20,12270,91,L,other,literature
+45169,T 3332-20,12270,93,1895 års aktiebolagslag,statute,act
+45170,T 3332-20,12270,93,1910 års aktiebolagslag,statute,act
+45171,T 3332-20,12270,93,lagen (1944:705) om aktiebolag,statute,act
+45172,T 3332-20,12270,94,Aktiebolagslagen (1975:1385),statute,act
+45173,T 3332-20,12270,94,Aktiebolagslagen (1975:1385),statute,act
+45174,T 3332-20,12270,95,SOU 1971:15,prep,sou
+45175,T 3332-20,12270,96,prop. 1975:103,prep,prop
+45176,T 3332-20,12270,97,aktiebolagslagen (2005:551),statute,act
+45177,T 3332-20,12270,97,SOU 2001:1,prep,sou
+45178,T 3332-20,12270,97,prop. 2004/05:85,prep,prop
+45179,T 3332-20,12270,100,Aktiebolagslagen (1975:1385),statute,act
+45180,T 3332-20,12270,101,aktiebolagslagen (2005:551),statute,act
+45181,T 3332-20,12270,102,NJA 2016 s. 107,case,hd
+45212,T 3372-20,12274,123,skadeståndslagen (1972:207),statute,act
+45213,T 3372-20,12274,124,NJA 2013 s. 145,case,hd
+45214,T 3372-20,12274,126,MB,statute,code
+45215,T 3372-20,12274,126,2 kap. 8 MB,statute,code
+45216,T 3372-20,12274,126,MB,statute,code
+45217,T 3372-20,12274,127,NJA 1990 s. 71,case,hd
+45218,T 3372-20,12274,127,JB,statute,code
+45219,T 3372-20,12274,130,NJA 1991 s. 720,case,hd
+45220,T 3372-20,12274,130,NJA 1997 s. 468,case,hd
+45221,T 3372-20,12274,131,NJA 2001 s. 368,case,hd
+45222,T 3372-20,12274,132,NJA 1997 s. 684,case,hd
+45223,T 3372-20,12274,136,plan- och bygglag (2010:900),statute,act
+45224,T 3372-20,12274,137,JB,statute,code
+45225,T 3372-20,12274,141,NJA 2013 s. 145,case,hd
+45262,T 3563-20,12278,110,FB,statute,code
+45263,T 3563-20,12278,110,prop. 2016/17:30,prep,prop
+45264,T 3563-20,12278,110,SOU 2004:112,prep,sou
+45265,T 3563-20,12278,110,L,other,literature
+45266,T 3563-20,12278,111,L,other,literature
+45267,T 3563-20,12278,112,FB,statute,code
+45268,T 3563-20,12278,113,FB,statute,code
+45269,T 3563-20,12278,114,ÄktB,statute,code
+45285,T 3563-20,12283,249,FB,statute,code
+45286,T 3563-20,12283,249,prop. 2016/17:30,prep,prop
+45287,T 3563-20,12283,249,SOU 2004:112,prep,sou
+45288,T 3563-20,12283,249,L,other,literature
+45289,T 3563-20,12283,250,L,other,literature
+45290,T 3563-20,12283,251,FB,statute,code
+45291,T 3563-20,12283,253,ÄktB,statute,code
+45322,T 3781-20,12286,107,Fastighetsbildningslag (1970:988),statute,act
+45323,T 3781-20,12286,109,Fastighetsbildningslag (1970:988),statute,act
+45324,T 3781-20,12286,109,4 kap. expropriationslagen (1972:719),statute,prop
+45325,T 3781-20,12286,110,2 Fastighetsbildningslag (1970:988),statute,act
+45326,T 3781-20,12286,112,Fastighetsbildningslag (1970:988),statute,act
+45327,T 3781-20,12286,112,Fastighetsbildningslag (1970:988),statute,act
+45328,T 3781-20,12286,112,prop. 1967:167,prep,prop
+45329,T 3781-20,12286,113,NJA 1984 s. 531 I-III,case,hd
+45330,T 3781-20,12286,113,prop. 1973:160,prep,prop
+45331,T 3781-20,12286,114,prop. 1969:128,prep,prop
+45332,T 3781-20,12286,117,plan- och bygglagen (2010:900),statute,act
+45333,T 3781-20,12286,117,plan- och bygglagen (2010:900),statute,act
+45334,T 3781-20,12286,118,prop. 2013/14:126,prep,prop
+45335,T 3781-20,12286,119,plan- och bygglagen (2010:900),statute,act
+45336,T 3781-20,12286,122,Fastighetsbildningslag (1970:988),statute,act
+45337,T 3781-20,12286,125,Fastighetsbildningslag (1970:988),statute,act
+45357,T 396-19,12290,117,aktiebolagslagen (2005:551),statute,act
+45358,T 396-19,12290,118,prop. 2000/01:150,prep,prop
+45359,T 396-19,12290,119,aktiebolagslagen (2005:551),statute,act
+45360,T 396-19,12290,120,NJA 2009 s. 291,case,hd
+45361,T 396-19,12290,121,aktiebolagslagen (2005:551),statute,act
+45362,T 396-19,12290,122,NJA 2013 s. 725,case,hd
+45363,T 396-19,12290,122,NJA 2019 s. 941,case,hd
+45364,T 396-19,12290,124,RB,statute,code
+45365,T 396-19,12290,124,aktiebolagslagen (2005:551),statute,act
+45366,T 396-19,12290,124,L,other,literature
+45367,T 396-19,12290,125,L,other,literature
+45368,T 396-19,12290,126,L,other,literature
+45369,T 396-19,12290,129,aktiebolagslagen (2005:551),statute,act
+45370,T 396-19,12290,131,aktiebolagslagen (2005:551),statute,act
+45371,T 396-19,12290,134,aktiebolagslagen (2005:551),statute,act
+45383,T 3982-20,12295,76,NJA 1984 s. 501 I och II,case,hd
+45384,T 3982-20,12295,76,NJA 1986 s. 470,case,hd
+45385,T 3982-20,12295,76,NJA 1990 s. 93,case,hd
+45386,T 3982-20,12295,76,NJA 1994 s. 449 I och II,case,hd
+45387,T 3982-20,12295,76,NJA 2017 s. 642,case,hd
+45388,T 3982-20,12295,76,L,other,literature
+45389,T 3982-20,12295,79,L,other,literature
+45390,T 3982-20,12295,82,NJA 2020 s. 115,case,hd
+45391,T 3982-20,12295,82,försäkringsAvtL (2005:104),statute,act
+45392,T 3982-20,12295,84,NJA 1990 s. 93,case,hd
+45415,T 4071-20,12302,119,Lag (2007:1091) om offentlig upphandling,statute,act
+45416,T 4071-20,12302,119,Lag (2016:1145) om offentlig upphandling,statute,act
+45417,T 4071-20,12302,120,NJA 2001 s. 3,case,hd
+45418,T 4071-20,12302,120,prop. 2015/16:195,prep,prop
+45419,T 4071-20,12302,122,NJA 2015 s. 741,case,hd
+45420,T 4071-20,12302,124,L,other,literature
+45421,T 4071-20,12303,136,prop. 2015/16:195,prep,prop
+45422,T 4071-20,12303,137,NJA 2015 s. 741,case,hd
+45423,T 4071-20,12303,137,NJA 2001 s. 750,case,hd
+45424,T 4238-19,12309,NA,no references,NA,NA
+45425,T 4238-19,12310,NA,no references,NA,NA
+45427,T 4457-20,12314,103,ÄB,statute,code
+45428,T 4457-20,12314,104,ÄB,statute,code
+45429,T 4457-20,12314,105,ÄB,statute,code
+45430,T 4457-20,12314,105,ÄB,statute,code
+45431,T 4457-20,12314,107,ÄB,statute,code
+45432,T 4457-20,12314,108,NJA 1942 s. 265,case,hd
+45433,T 4457-20,12314,108,NJA 1991 s. 152,case,hd
+45434,T 4457-20,12314,108,L,other,literature
+45435,T 4457-20,12314,109,L,other,literature
+45436,T 4457-20,12314,110,NJA 1996 s. 652,case,hd
+45437,T 4457-20,12314,110,L,other,literature
+45438,T 4457-20,12314,111,NJA 1991 s. 152,case,hd
+45439,T 4457-20,12314,111,L,other,literature
+45440,T 4457-20,12315,NA,no references,NA,NA
+45455,T 4558-21,12322,58,skadeståndslagen (1972:207),statute,act
+45456,T 4558-21,12322,58,skadeståndslagen (1972:207),statute,act
+45457,T 4558-21,12322,59,NJA 2017 s. 938,case,hd
+45458,T 4558-21,12322,61,NJA 2011 s. 3,case,hd
+45459,T 4558-21,12322,61,skadeståndslagen (1972:207),statute,act
+45460,T 4558-21,12322,61,prop. 2000/01:68,prep,prop
+45461,T 4558-21,12322,62,prop. 2000/01:68,prep,prop
+45462,T 4558-21,12322,63,SOU 1992:84,prep,sou
+45463,T 4558-21,12322,64,prop. 2000/01:68,prep,prop
+45464,T 4558-21,12322,66,skadeståndslagen (1972:207),statute,act
+45465,T 4558-21,12322,67,skadeståndslagen (1972:207),statute,act
+45466,T 4558-21,12322,68,NJA 2017 s. 938,case,hd
+45467,T 4558-21,12322,69,brottsskadelagen (2014:322),statute,act
+45468,T 4558-21,12322,69,prop. 1977/78:126,prep,prop
+45469,T 4558-21,12322,69,prop. 1998/99:41,prep,prop
+45470,T 4558-21,12322,72,A,other,agency
+45472,T 497-20,12327,127,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45473,T 497-20,12327,127,försäkringsAvtL (2005:104),statute,act
+45474,T 497-20,12327,130,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45475,T 497-20,12327,131,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45476,T 497-20,12327,131,31993L0013,statute,eu_secondary
+45477,T 497-20,12327,132,31993L0013,statute,eu_secondary
+45478,T 497-20,12327,132,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45479,T 497-20,12327,133,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45480,T 497-20,12327,133,31993L0013,statute,eu_secondary
+45481,T 497-20,12327,133,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
+45482,T 497-20,12327,134,prop. 1994/95:17,prep,prop
+45483,T 497-20,12327,134,A,other,agency
+45484,T 497-20,12327,135,MD 2009:21,case,md
+45485,T 497-20,12327,135,MD 2010:10,case,md
+45486,T 497-20,12327,135,MD 2011:21,case,md
+45487,T 497-20,12327,135,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45488,T 497-20,12327,135,försäkringsAvtL (2005:104),statute,act
+45489,T 497-20,12327,135,prop. 1994/95:17,prep,prop
+45490,T 497-20,12327,135,prop. 1971:15,prep,prop
+45491,T 497-20,12327,137,NJA 2018 s. 883,case,hd
+45492,T 497-20,12327,137,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45493,T 497-20,12327,137,lagen (1985:206) om viten,statute,act
+45494,T 497-20,12327,140,försäkringsAvtL (2005:104),statute,act
+45495,T 497-20,12327,141,4 och 5 kap. försäkringsAvtL (2005:104),statute,act
+45496,T 497-20,12327,142,försäkringsAvtL (2005:104),statute,act
+45497,T 497-20,12327,144,försäkringsAvtL (2005:104),statute,act
+45498,T 497-20,12327,144,prop. 2003/04:150,prep,prop
+45499,T 497-20,12327,148,försäkringsAvtL (2005:104),statute,act
+45500,T 497-20,12327,149,8 kap. försäkringsAvtL (2005:104),statute,act
+45501,T 497-20,12327,153,försäkringsAvtL (2005:104),statute,act
+45502,T 497-20,12327,153,försäkringsAvtL (2005:104),statute,act
+45503,T 497-20,12327,154,försäkringsAvtL (2005:104),statute,act
+45504,T 497-20,12327,154,prop. 2003/04:150,prep,prop
+45505,T 497-20,12327,155,försäkringsAvtL (2005:104),statute,act
+45506,T 497-20,12327,156,L,other,literature
+45507,T 497-20,12327,157,NJA 2018 s. 834,case,hd
+45508,T 497-20,12327,165,lagen (1994:1512) om avtalsvillkor i konsumentförhållande,statute,act
+45529,T 5018-20,12332,132,bostadsrättslagen (1991:614),statute,act
+45530,T 5018-20,12332,134,5 kap. 1,statute,NA
+45531,T 5018-20,12332,134,bostadsrättslagen (1991:614),statute,act
+45532,T 5018-20,12332,135,bostadsrättslagen (1991:614),statute,act
+45533,T 5018-20,12332,136,bostadsrättslagen (1991:614),statute,act
+45534,T 5018-20,12332,139,prop. 1990/91:92,prep,prop
+45535,T 5018-20,12332,141,lag (1915:218) om avtal,statute,act
+45536,T 5018-20,12332,142,bostadsrättslagen (1991:614),statute,act
+45537,T 5018-20,12332,142,prop. 1990/91:92,prep,prop
+45538,T 5018-20,12332,145,L,other,literature
+45539,T 5018-20,12332,147,NJA 1984 s. 482,case,hd
+45540,T 5018-20,12332,147,NJA 1986 s. 366,case,hd
+45541,T 5018-20,12332,147,NJA 1998 s. 462,case,hd
+45542,T 5018-20,12332,147,NJA 2016 s. 107,case,hd
+45543,T 5018-20,12332,148,prop. 1990/91:92,prep,prop
+45544,T 5018-20,12332,149,lag (1915:218) om avtal,statute,act
+45545,T 5018-20,12332,150,bostadsrättslagen (1991:614),statute,act
+45547,T 5444-20,12334,46,lagen (1995:1649) om byggande av järnväg,statute,act
+45548,T 5444-20,12334,54,lagen (1995:1649) om byggande av järnväg,statute,act
+45549,T 5444-20,12334,55,lagen (1995:1649) om byggande av järnväg,statute,act
+45550,T 5444-20,12334,56,prop. 2011/12:118,prep,prop
+45551,T 5444-20,12334,57,lagen (1995:1649) om byggande av järnväg,statute,act
+45552,T 5444-20,12334,57,4 kap. expropriationslagen (1972:719),statute,prop
+45553,T 5444-20,12334,59,expropriationslagen (1972:719),statute,prop
+45554,T 5444-20,12334,60,expropriationslagen (1972:719),statute,prop
+45555,T 5444-20,12334,60,SOU 1969:50,prep,sou
+45556,T 5444-20,12334,60,prop. 1971:122,prep,prop
+45557,T 5444-20,12334,61,NJA 1981 s. 780,case,hd
+45558,T 5444-20,12334,61,prop. 1971:122,prep,prop
+45559,T 5444-20,12334,63,expropriationslagen (1972:719),statute,prop
+45560,T 5444-20,12334,63,lagen (1995:1649) om byggande av järnväg,statute,act
+45561,T 5444-20,12334,65,lagen (1995:1649) om byggande av järnväg,statute,act
+45579,T 5613-20,12338,135,HB,statute,code
+45580,T 5613-20,12338,135,konsumenttjänstlagen (1985:716),statute,act
+45581,T 5613-20,12338,135,lagen (1991:351) om handelsagentur,statute,act
+45582,T 5613-20,12338,135,kommissionslagen (2009:865),statute,act
+45583,T 5613-20,12338,135,konsumentkreditlagen (2010:1846),statute,act
+45584,T 5613-20,12338,136,L,other,literature
+45585,T 5613-20,12338,137,NJA 2012 s. 1095,case,hd
+45586,T 5613-20,12338,138,NJA 2005 s. 142,case,hd
+45587,T 5613-20,12338,139,NJA 2017 s. 203,case,hd
+45588,T 5613-20,12338,139,NJA 2002 s. 630,case,hd
+45589,T 5613-20,12338,139,NJA 2017 s. 1195,case,hd
+45590,T 5613-20,12338,139,NJA 2018 s. 171,case,hd
+45591,T 5613-20,12338,152,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
+45664,T 5830-19,12342,124,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45665,T 5830-19,12342,126,preskriptionslagen (1981:130),statute,act
+45666,T 5830-19,12342,127,prop. 1979/80:119,prep,prop
+45667,T 5830-19,12342,128,preskriptionslagen (1981:130),statute,act
+45668,T 5830-19,12342,129,preskriptionslagen (1981:130),statute,act
+45669,T 5830-19,12342,133,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45670,T 5830-19,12342,134,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45671,T 5830-19,12342,135,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45672,T 5830-19,12342,136,NJA 2014 s. 114,case,hd
+45673,T 5830-19,12342,140,MB,statute,code
+45674,T 5830-19,12342,140,10 kap. MB,statute,code
+45675,T 5830-19,12342,142,10 kap. MB,statute,code
+45676,T 5830-19,12342,142,prop. 2006/07:95,prep,prop
+45677,T 5830-19,12342,143,MB,statute,code
+45678,T 5830-19,12342,144,MB,statute,code
+45679,T 5830-19,12342,145,L,other,literature
+45680,T 5830-19,12342,147,MB,statute,code
+45681,T 5830-19,12342,148,MB,statute,code
+45682,T 5830-19,12342,148,7 MB,statute,code
+45683,T 5830-19,12342,149,NJA 2012 s. 125,case,hd
+45684,T 5830-19,12342,149,MB,statute,code
+45685,T 5830-19,12342,149,förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd,statute,act
+45686,T 5830-19,12342,150,10 kap. MB,statute,code
+45687,T 5830-19,12342,150,preskriptionslagen (1981:130),statute,act
+45688,T 5830-19,12342,151,MB,statute,code
+45689,T 5830-19,12342,151,MB,statute,code
+45690,T 5830-19,12342,151,preskriptionslagen (1981:130),statute,act
+45691,T 5830-19,12342,151,prop. 2006/07:95,prep,prop
+45692,T 5830-19,12342,152,10 kap. 6,statute,NA
+45693,T 5830-19,12342,152,MB,statute,code
+45694,T 5830-19,12342,152,preskriptionslagen (1981:130),statute,act
+45695,T 5830-19,12342,153,MB,statute,code
+45696,T 5830-19,12342,153,preskriptionslagen (1981:130),statute,act
+45697,T 5830-19,12342,154,10 kap. MB,statute,code
+45698,T 5830-19,12342,155,10 kap. MB,statute,code
+45699,T 5830-19,12342,155,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45700,T 5830-19,12342,156,10 kap. MB,statute,code
+45701,T 5830-19,12342,157,MB,statute,code
+45702,T 5830-19,12342,159,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45703,T 5830-19,12342,159,MB,statute,code
+45704,T 5830-19,12342,161,MB,statute,code
+45705,T 5830-19,12342,162,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45706,T 5830-19,12342,165,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45707,T 5830-19,12343,169,10 kap. MB,statute,code
+45708,T 5830-19,12343,169,preskriptionslagen (1981:130),statute,act
+45709,T 5830-19,12343,169,prop. 1997/98:45,prep,prop
+45710,T 5830-19,12343,171,prop. 2006/07:95,prep,prop
+45711,T 5830-19,12343,172,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45712,T 5830-19,12343,174,NJA 1903 s. 210,case,hd
+45713,T 5830-19,12343,174,preskriptionslagen (1981:130),statute,act
+45714,T 5830-19,12343,175,MB,statute,code
+45715,T 5830-19,12343,175,preskriptionslagen (1981:130),statute,act
+45716,T 5830-19,12343,175,SOU 1957:11,prep,sou
+45717,T 5830-19,12343,178,MB,statute,code
+45718,T 5830-19,12343,178,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45719,T 5830-19,12343,179,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45720,T 5830-19,12343,180,prop. 1997/98:45,prep,prop
+45721,T 5830-19,12343,180,L,other,literature
+45722,T 5830-19,12343,183,NJA 2012 s. 125,case,hd
+45723,T 5830-19,12343,183,10 kap. MB,statute,code
+45724,T 5830-19,12344,185,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45725,T 5830-19,12344,187,10 kap. MB,statute,code
+45726,T 5830-19,12344,187,prop. 1997/98:45,prep,prop
+45727,T 5830-19,12344,188,MB,statute,code
+45728,T 5830-19,12344,188,prop. 1997/98:45,prep,prop
+45729,T 5830-19,12344,190,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45730,T 5830-19,12344,190,SOU 1957:11,prep,sou
+45731,T 5830-19,12344,190,L,other,literature
+45732,T 5830-19,12344,191,10 kap. MB,statute,code
+45733,T 5830-19,12344,192,Aktiebolagslag (2005:551),statute,act
+45734,T 5830-19,12344,193,prop. 1997/98:45,prep,prop
+45735,T 5830-19,12344,194,MB,statute,code
+45736,T 5830-19,12344,194,preskriptionslagen (1981:130),statute,act
+45737,T 5830-19,12344,194,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45738,T 5830-19,12344,195,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45739,T 5830-19,12344,195,10 kap. MB,statute,code
+45740,T 5830-19,12344,197,lagen (1981:131) om kallelse på okända borgenärer,statute,act
+45763,T 5999-20,12348,101,ÄB,statute,code
+45764,T 5999-20,12348,110,ÄB,statute,code
+45765,T 5999-20,12348,112,NJA 1974 s. 190,case,hd
+45766,T 5999-20,12348,114,prop. 1980/81:48,prep,prop
+45767,T 5999-20,12348,115,ÄB,statute,code
+45768,T 5999-20,12348,116,ÄB,statute,code
+45769,T 5999-20,12348,117,21 kap. ÄB,statute,code
+45770,T 5999-20,12348,117,prop. 1933:7,prep,prop
+45771,T 5999-20,12348,117,prop. 1958:144,prep,prop
+45772,T 5999-20,12348,117,prop. 1980/81:48,prep,prop
+45773,T 5999-20,12348,118,ÄB,statute,code
+45774,T 5999-20,12348,122,ÄB,statute,code
+45775,T 5999-20,12349,127,ÄB,statute,code
+45776,T 5999-20,12349,127,ÄB,statute,code
+45777,T 5999-20,12349,127,22 kap. ÄB,statute,code
+45778,T 5999-20,12349,128,ÄB,statute,code
+45779,T 5999-20,12349,129,ÄB,statute,code
+45780,T 5999-20,12349,130,ÄB,statute,code
+45781,T 5999-20,12349,131,ÄB,statute,code
+45782,T 6032-16,12352,48,32000R1346,statute,eu_secondary
+45783,T 6032-16,12352,49,62018CJ0198,case,cjeu
+45784,T 6032-16,12352,51,62018CJ0198,case,cjeu
+45785,T 6032-16,12352,51,32000R1346,statute,eu_secondary
+45786,T 6032-16,12352,53,32008R0593,statute,eu_secondary
+45787,T 6032-16,12352,53,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45788,T 6032-16,12352,53,lagen (1987:822) om internationella köp,statute,act
+45789,T 6032-16,12352,54,32008R0593,statute,eu_secondary
+45790,T 6032-16,12352,55,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45791,T 6032-16,12352,55,I,other,international
+45792,T 6032-16,12352,56,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45793,T 6032-16,12352,56,art. 1.1 och 6 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella k,statute,NA
+45794,T 6032-16,12352,61,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45795,T 6032-16,12352,61,L,other,literature
+45796,T 6032-16,12352,65,art. 1.1 a Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp a,statute,NA
+45797,T 6032-16,12352,66,art. 1.1 b Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp a,statute,NA
+45798,T 6032-16,12352,67,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45799,T 6032-16,12352,68,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45800,T 6032-16,12352,68,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45801,T 6032-16,12352,68,I,other,international
+45802,T 6032-16,12352,70,32008R0593,statute,eu_secondary
+45803,T 6032-16,12352,71,32008R0593,statute,eu_secondary
+45804,T 6032-16,12352,71,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45805,T 6032-16,12352,72,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45806,T 6032-16,12352,73,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45807,T 6032-16,12352,73,32008R0593,statute,eu_secondary
+45808,T 6032-16,12352,74,L,other,literature
+45809,T 6032-16,12352,75,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45810,T 6032-16,12352,75,32008R0593,statute,eu_secondary
+45811,T 6032-16,12352,76,32008R0593,statute,eu_secondary
+45812,T 6032-16,12352,77,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45813,T 6032-16,12352,78,32008R0593,statute,eu_secondary
+45814,T 6032-16,12352,78,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45815,T 6032-16,12352,78,I,other,international
+45816,T 6032-16,12352,79,32008R0593,statute,eu_secondary
+45817,T 6032-16,12352,80,32008R0593,statute,eu_secondary
+45818,T 6032-16,12352,83,art. 7.2 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av ,statute,NA
+45819,T 6032-16,12352,84,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45820,T 6032-16,12352,85,F,other,non_binding
+45821,T 6032-16,12352,86,I,other,international
+45822,T 6032-16,12352,87,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45823,T 6032-16,12352,87,32008R0593,statute,eu_secondary
+45824,T 6032-16,12352,88,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45825,T 6032-16,12352,89,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45826,T 6032-16,12352,89,32008R0593,statute,eu_secondary
+45827,T 6032-16,12352,89,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45828,T 6032-16,12352,89,I,other,international
+45829,T 6032-16,12352,90,32008R0593,statute,eu_secondary
+45830,T 6032-16,12352,94,32008R0593,statute,eu_secondary
+45831,T 6032-16,12353,100,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45832,T 6032-16,12353,102,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45833,T 6032-16,12353,103,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45834,T 6032-16,12353,104,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45835,T 6032-16,12353,106,art. 1.1,statute,NA
+45836,T 6032-16,12353,106,92 och 97 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av,statute,NA
+45837,T 6032-16,12353,106,förordning (2012:602) om ikraftträdande av lagen (2011:852) om ändring i lagen (1987:822) om intern,statute,act
+45838,T 6032-16,12353,107,art. 1.1 och 92 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella ,statute,NA
+45839,T 6032-16,12353,107,lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker,statute,act
+45840,T 6032-16,12353,108,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45841,T 6032-16,12353,109,art. 7.2 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av ,statute,NA
+45842,T 6032-16,12353,110,art. 88.1-3 Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp ,statute,NA
+45843,T 6032-16,12353,110,F,other,non_binding
+45844,T 6032-16,12353,111,Förenta nationernas konvention den 11 april 1980 angående avtal om internationella köp av varor,statute,NA
+45879,T 6128-20,12356,184,1-2 och 4 lagen (2018:1653) om företagsnamn,statute,act
+45880,T 6128-20,12356,185,lag (2018:1653) om företagsnamn,statute,act
+45881,T 6128-20,12356,185,lag (2018:1653) om företagsnamn,statute,act
+45882,T 6128-20,12356,187,1 lag (2018:1653) om företagsnamn,statute,act
+45883,T 6128-20,12356,188,1,statute,NA
+45884,T 6128-20,12356,188,16,statute,NA
+45885,T 6128-20,12356,188,lagen (2016:1013) om personnamn,statute,act
+45886,T 6128-20,12356,188,1 lag (2018:1653) om företagsnamn,statute,act
+45887,T 6128-20,12356,190,SOU 2013:35,prep,sou
+45888,T 6128-20,12356,190,prop. 2015/16:180,prep,prop
+45889,T 6128-20,12356,193,BrB,statute,code
+45890,T 6128-20,12356,194,SOU 2013:35,prep,sou
+45891,T 6128-20,12356,194,L,other,literature
+45892,T 6128-20,12356,196,prop. 2009/10:225,prep,prop
+45893,T 6128-20,12356,197,SOU 2001:26,prep,sou
+45894,T 6128-20,12356,200,lagen (2016:1013) om personnamn,statute,act
+45895,T 6128-20,12356,200,prop. 2009/10:225,prep,prop
+45896,T 6128-20,12356,201,NJA 1985 s. 563,case,hd
+45897,T 6128-20,12356,203,5 lag (2018:1653) om företagsnamn,statute,act
+45898,T 6128-20,12356,203,1 lag (2018:1653) om företagsnamn,statute,act
+45899,T 6128-20,12356,217,1 lag (2018:1653) om företagsnamn,statute,act
+45924,T 6178-20,12360,78,NJA 2017 s. 289,case,hd
+45925,T 6178-20,12360,78,NJA 1949 s. 645,case,hd
+45926,T 6178-20,12360,79,NJA 1989 s. 9,case,hd
+45927,T 6178-20,12360,79,NJA 2017 s. 289,case,hd
+45928,T 6178-20,12360,81,NJA 1981 s. 897,case,hd
+45929,T 6178-20,12360,81,NJA 1989 s. 696,case,hd
+45930,T 6178-20,12360,81,NJA 2017 s. 550,case,hd
+45931,T 6178-20,12360,81,NJA 2017 s. 289,case,hd
+45932,T 6178-20,12360,82,L,other,literature
+45933,T 6178-20,12360,83,JB,statute,code
+45934,T 6178-20,12360,84,L,other,literature
+45935,T 6178-20,12360,85,NJA 2017 s. 289,case,hd
+45936,T 6178-20,12360,86,NJA 2017 s. 289,case,hd
+45937,T 6178-20,12360,86,NJA II 1968 s. 549,prep,nja_ii
+45938,T 6178-20,12360,87,NJA 1989 s. 9,case,hd
+45939,T 6178-20,12360,87,NJA 2017 s. 550,case,hd
+45940,T 6178-20,12360,87,lagen (1904:48) om samäganderätt,statute,act
+45941,T 6178-20,12360,88,JB,statute,code
+45942,T 6178-20,12360,90,JB,statute,code
+45943,T 6178-20,12361,104,JB,statute,code
+45944,T 6178-20,12361,104,JB,statute,code
+45945,T 6178-20,12361,104,JB,statute,code
+45946,T 6178-20,12361,105,NJA 1990 s. 18,case,hd
+45947,T 6178-20,12361,105,NJA 1984 s. 673,case,hd
+45948,T 6178-20,12361,106,prop. 1970:20,prep,prop
+45949,T 6178-20,12361,106,L,other,literature
+45950,T 6178-20,12361,107,NJA 1981 s. 897,case,hd
+45951,T 6178-20,12361,107,NJA 1989 s. 696,case,hd
+45952,T 6178-20,12361,107,NJA 1990 s. 18,case,hd
+45953,T 6178-20,12361,107,UB,statute,code
+45954,T 6178-20,12361,109,NJA 1993 s. 529,case,hd
+45955,T 6178-20,12361,109,L,other,literature
+45956,T 6178-20,12361,110,NJA 1981 s. 897,case,hd
+45957,T 6178-20,12361,110,NJA 1989 s. 696,case,hd
+45958,T 6178-20,12361,111,NJA 1989 s. 696,case,hd
+45959,T 6178-20,12361,111,NJA 2017 s. 550,case,hd
+45960,T 6178-20,12361,111,NJA II 1968 s. 549,prep,nja_ii
+45961,T 6178-20,12361,112,ÄB,statute,code
+45962,T 6178-20,12361,112,NJA II 1930 s. 400,prep,nja_ii
+45963,T 6178-20,12361,112,NJA II 1930 s. 158,prep,nja_ii
+45964,T 6178-20,12361,113,L,other,literature
+45983,T 6323-19,12365,96,preskriptionslagen (1981:130),statute,act
+45984,T 6323-19,12365,97,3 preskriptionslagen (1981:130),statute,act
+45985,T 6323-19,12365,97,prop. 1979/80:119,prep,prop
+45986,T 6323-19,12365,98,3 preskriptionslagen (1981:130),statute,act
+45987,T 6323-19,12365,98,L,other,literature
+45988,T 6323-19,12365,100,3 preskriptionslagen (1981:130),statute,act
+45989,T 6323-19,12365,100,preskriptionslagen (1981:130),statute,act
+45990,T 6323-19,12365,101,3 preskriptionslagen (1981:130),statute,act
+45991,T 6323-19,12365,102,preskriptionslagen (1981:130),statute,act
+45992,T 6323-19,12365,103,preskriptionslagen (1981:130),statute,act
+45993,T 6323-19,12365,103,L,other,literature
+45994,T 6323-19,12365,104,preskriptionslagen (1981:130),statute,act
+45995,T 6323-19,12365,104,prop. 1979/80:119,prep,prop
+45996,T 6323-19,12365,105,preskriptionslagen (1981:130),statute,act
+45997,T 6323-19,12365,105,prop. 1979/80:119,prep,prop
+45998,T 6323-19,12365,105,L,other,literature
+45999,T 6323-19,12365,106,Konkurslag (1987:672),statute,act
+46000,T 6323-19,12365,112,3 preskriptionslagen (1981:130),statute,act
+46001,T 6323-19,12365,113,preskriptionslagen (1981:130),statute,act
+46002,T 6323-19,12365,114,preskriptionslagen (1981:130),statute,act
+46003,T 6323-19,12365,115,preskriptionslagen (1981:130),statute,act
+46010,T 6332-20,12369,100,bostadsrättslagen (1991:614),statute,act
+46011,T 6332-20,12369,100,lagen (2018:672) om ekonomiska föreningar,statute,act
+46012,T 6332-20,12369,101,bostadsrättslagen (1991:614),statute,act
+46013,T 6332-20,12369,101,6 kap. lagen (2018:672) om ekonomiska föreningar,statute,act
+46014,T 6332-20,12369,102,9 kap. 1,statute,NA
+46015,T 6332-20,12369,102,2,statute,NA
+46016,T 6332-20,12369,102,lagen (2018:672) om ekonomiska föreningar,statute,act
+46017,T 6332-20,12369,103,aktiebolagslagen (2005:551),statute,act
+46018,T 6332-20,12369,105,lagen (2018:672) om ekonomiska föreningar,statute,act
+46019,T 6332-20,12369,106,1,statute,NA
+46020,T 6332-20,12369,106,lagen (2018:672) om ekonomiska föreningar,statute,act
+46021,T 6332-20,12369,107,HFD 2021 ref. 28,case,hfd
+46022,T 6332-20,12369,107,bostadsrättslagen (1991:614),statute,act
+46023,T 6332-20,12369,107,lagen (2018:672) om ekonomiska föreningar,statute,act
+46024,T 6332-20,12369,110,lagen (2018:672) om ekonomiska föreningar,statute,act
+46025,T 6332-20,12369,114,lagen (2018:672) om ekonomiska föreningar,statute,act
+46026,T 6332-20,12369,114,lagen (2018:672) om ekonomiska föreningar,statute,act
+46027,T 6332-20,12369,115,aktiebolagslagen (2005:551),statute,act
+46028,T 6332-20,12369,115,L,other,literature
+46029,T 6332-20,12369,119,NJA 2013 s. 117,case,hd
+46030,T 6332-20,12369,126,3,principle,principle_legality
+46031,T 6332-20,12369,127,förvaltningslagen (2017:900),statute,act
+46032,T 6332-20,12369,127,bostadsrättslagen (1991:614),statute,act
+46033,T 6332-20,12369,127,lagen (2018:672) om ekonomiska föreningar,statute,act
+46034,T 6332-20,12369,127,3,principle,principle_legality
+46035,T 6332-20,12369,128,3,principle,principle_legality
+46036,T 6332-20,12369,132,lagen (2018:672) om ekonomiska föreningar,statute,act
+46037,T 6332-20,12369,132,L,other,literature
+46043,T 637-20,12371,80,JB,statute,code
+46044,T 637-20,12371,84,JB,statute,code
+46045,T 637-20,12371,84,JB,statute,code
+46046,T 637-20,12371,86,JB,statute,code
+46047,T 637-20,12371,88,NJA 1984 s. 562,case,hd
+46048,T 637-20,12371,89,NJA 1985 s. 365,case,hd
+46049,T 637-20,12371,89,NJA 2014 s. 35,case,hd
+46050,T 637-20,12371,92,JB,statute,code
+46051,T 637-20,12371,93,JB,statute,code
+46052,T 637-20,12371,96,JB,statute,code
+46053,T 637-20,12371,96,JB,statute,code
+46054,T 637-20,12371,101,JB,statute,code
+46055,T 637-20,12372,107,Bramelid and Malmström v. Sweden,case,ecthr
+46056,T 637-20,12372,107,JB,statute,code
+46057,T 637-20,12372,107,EKMR,statute,echr
+46058,T 640-19,12377,307,Ledningsrättslagen (1973:1144),statute,act
+46059,T 640-19,12377,308,prop. 1973:157,prep,prop
+46060,T 640-19,12377,310,Ledningsrättslagen (1973:1144),statute,act
+46061,T 640-19,12377,310,prop. 2003/04:136,prep,prop
+46062,T 640-19,12377,311,Ledningsrättslagen (1973:1144),statute,act
+46063,T 640-19,12377,312,Ledningsrättslagen (1973:1144),statute,act
+46064,T 640-19,12377,313,NJA 2013 s. 441,case,hd
+46065,T 640-19,12377,313,Ledningsrättslagen (1973:1144),statute,act
+46066,T 640-19,12377,313,prop. 1973:157,prep,prop
+46067,T 640-19,12377,314,NJA 2013 s. 795,case,hd
+46068,T 640-19,12377,315,Ledningsrättslagen (1973:1144),statute,act
+46069,T 640-19,12377,316,NJA 2018 s. 753,case,hd
+46070,T 640-19,12377,316,expropriationslagen (1972:719),statute,prop
+46071,T 640-19,12377,318,prop. 1973:157,prep,prop
+46072,T 640-19,12377,318,prop. 2003/04:136,prep,prop
+46073,T 640-19,12377,318,prop. 2014/15:74,prep,prop
+46074,T 640-19,12377,319,NJA 2013 s. 441,case,hd
+46075,T 640-19,12377,323,NJA 2013 s. 795,case,hd
+46076,T 640-19,12377,325,Ledningsrättslagen (1973:1144),statute,act
+46077,T 640-19,12377,327,Ledningsrättslagen (1973:1144),statute,act
+46078,T 640-19,12377,328,Ledningsrättslagen (1973:1144),statute,act
+46079,T 640-19,12377,329,Ledningsrättslagen (1973:1144),statute,act
+46080,T 640-19,12377,329,plan- och bygglagen (2010:900),statute,act
+46081,T 640-19,12377,330,Ledningsrättslagen (1973:1144),statute,act
+46082,T 640-19,12377,331,Ledningsrättslagen (1973:1144),statute,act
+46083,T 640-19,12377,331,prop. 1973:157,prep,prop
+46084,T 640-19,12377,336,Ledningsrättslagen (1973:1144),statute,act
+46085,T 640-19,12377,342,FBL,statute,code
+46086,T 640-19,12377,343,RB,statute,code
+46087,T 640-19,12377,343,FBL,statute,code
+46088,T 640-19,12377,344,plan- och bygglagen (2010:900),statute,act
+46089,T 640-19,12377,344,18 kap. RB,statute,code
+46090,T 640-19,12377,344,prop. 1991/92:127,prep,prop
+46091,T 640-19,12377,345,FBL,statute,code
+46092,T 640-19,12377,345,18 kap. RB,statute,code
+46121,T 6460-19,12380,112,MB,statute,code
+46122,T 6460-19,12380,112,MB,statute,code
+46123,T 6460-19,12380,114,MB,statute,code
+46124,T 6460-19,12380,115,MB,statute,code
+46125,T 6460-19,12380,116,MB,statute,code
+46126,T 6460-19,12380,117,MB,statute,code
+46127,T 6460-19,12380,119,MB,statute,code
+46128,T 6460-19,12380,120,NJA 2008 s. 55,case,hd
+46129,T 6460-19,12380,120,2 MB,statute,code
+46130,T 6460-19,12380,120,prop. 1997/98:45,prep,prop
+46131,T 6460-19,12380,122,MB,statute,code
+46132,T 6460-19,12380,122,MB,statute,code
+46133,T 6460-19,12380,123,1 MB,statute,code
+46134,T 6460-19,12380,123,prop. 2008/09:119,prep,prop
+46135,T 6460-19,12380,123,L,other,literature
+46136,T 6460-19,12380,124,3 MB,statute,code
+46137,T 6460-19,12380,124,prop. 2008/09:119,prep,prop
+46138,T 6460-19,12380,125,4 MB,statute,code
+46139,T 6460-19,12380,126,MB,statute,code
+46140,T 6460-19,12380,126,prop. 2008/09:119,prep,prop
+46141,T 6460-19,12380,128,MB,statute,code
+46142,T 6460-19,12380,129,MB,statute,code
+46143,T 6460-19,12380,130,prop. 1997/98:45,prep,prop
+46144,T 6460-19,12380,131,MB,statute,code
+46145,T 6460-19,12380,132,MB,statute,code
+46146,T 6460-19,12380,132,RF,statute,const
+46147,T 6460-19,12380,132,första tilläggsprotokollet till EKMR,statute,echr
+46148,T 6460-19,12380,132,prop. 1997/98:45,prep,prop
+46149,T 6460-19,12380,132,4,principle,principle_proportionality
+46150,T 6460-19,12380,133,NJA 2018 s. 753,case,hd
+46151,T 6460-19,12380,133,MB,statute,code
+46152,T 6460-19,12380,133,MB,statute,code
+46153,T 6460-19,12380,133,4,principle,principle_proportionality
+46154,T 6460-19,12380,136,1 MB,statute,code
+46155,T 6460-19,12380,137,3 MB,statute,code
+46156,T 6460-19,12380,139,3 och 4 MB,statute,code
+46157,T 6460-19,12380,141,7 kap. MB,statute,code
+46158,T 6460-19,12380,144,7 kap. MB,statute,code
+46182,T 6866-20,12382,70,Fastighetsbildningslag (1970:988),statute,act
+46183,T 6866-20,12382,72,Fastighetsbildningslag (1970:988),statute,act
+46184,T 6866-20,12382,72,expropriationslagen (1972:719),statute,prop
+46185,T 6866-20,12382,74,Fastighetsbildningslag (1970:988),statute,act
+46186,T 6866-20,12382,76,NJA 1975 s. 385,case,hd
+46187,T 6866-20,12382,76,JB,statute,code
+46188,T 6866-20,12382,77,JB,statute,code
+46189,T 6866-20,12382,77,JB,statute,code
+46190,T 6866-20,12382,78,JB,statute,code
+46191,T 6866-20,12382,78,prop. 1972:109,prep,prop
+46192,T 6866-20,12382,79,plan- och bygglagen (2010:900),statute,act
+46193,T 6866-20,12382,81,expropriationslagen (1972:719),statute,prop
+46194,T 6866-20,12382,81,JB,statute,code
+46195,T 6866-20,12382,82,JB,statute,code
+46196,T 6866-20,12382,82,expropriationslagen (1972:719),statute,prop
+46197,T 6866-20,12382,84,plan- och bygglagen (2010:900),statute,act
+46198,T 6866-20,12382,84,plan- och bygglagen (2010:900),statute,act
+46199,T 6866-20,12382,85,4 kap. expropriationslagen (1972:719),statute,prop
+46200,T 6866-20,12382,85,plan- och bygglagen (2010:900),statute,act
+46201,T 6866-20,12382,85,plan- och bygglagen (2010:900),statute,act
+46202,T 6866-20,12382,86,expropriationslagen (1972:719),statute,prop
+46203,T 6866-20,12382,86,plan- och bygglagen (2010:900),statute,act
+46204,T 6866-20,12382,89,Fastighetsbildningslag (1970:988),statute,act
+46205,T 6866-20,12382,89,FBL,statute,code
+46206,T 6866-20,12382,90,Fastighetsbildningslag (1970:988),statute,act
+46207,T 6866-20,12382,90,1 plan- och bygglagen (2010:900),statute,act
+46208,T 6866-20,12382,91,Fastighetsbildningslag (1970:988),statute,act
+46209,T 6866-20,12382,91,prop. 1991/92:127,prep,prop
+46210,T 6866-20,12382,92,Fastighetsbildningslag (1970:988),statute,act
+46211,T 6866-20,12382,92,Fastighetsbildningslag (1970:988),statute,act
+46212,T 6866-20,12382,93,plan- och bygglagen (2010:900),statute,act
+46213,T 6866-20,12382,93,4 kap. expropriationslagen (1972:719),statute,prop
+46214,T 6866-20,12382,93,Fastighetsbildningslag (1970:988),statute,act
+46215,T 6866-20,12382,93,prop. 1991/92:127,prep,prop
+46216,T 6866-20,12382,93,prop. 2009/10:162,prep,prop
+46217,T 6866-20,12382,95,JB,statute,code
+46218,T 6866-20,12382,95,Fastighetsbildningslag (1970:988),statute,act
+46219,T 6866-20,12382,96,expropriationslagen (1972:719),statute,prop
+46220,T 6866-20,12382,96,Fastighetsbildningslag (1970:988),statute,act
+46221,T 6866-20,12382,96,plan- och bygglagen (2010:900),statute,act
+46222,T 6866-20,12382,97,Fastighetsbildningslag (1970:988),statute,act
+46223,T 6866-20,12382,97,4 kap. expropriationslagen (1972:719),statute,prop
+46224,T 6866-20,12382,98,1 och 2 expropriationslagen (1972:719),statute,prop
+46225,T 6866-20,12382,98,JB,statute,code
+46226,T 6866-20,12382,100,Fastighetsbildningslag (1970:988),statute,act
+46227,T 6866-20,12382,100,4 kap. expropriationslagen (1972:719),statute,prop
+46229,T 79-21,12384,58,NJA 1997 s. 805,case,hd
+46230,T 79-21,12384,58,RB,statute,code
+46231,T 79-21,12384,60,Fastighetsbildningslag (1970:988),statute,act
+46232,T 79-21,12384,60,18 kap. RB,statute,code
+46233,T 79-21,12384,60,Fastighetsbildningslag (1970:988),statute,act
+46234,T 79-21,12384,60,Fastighetsbildningslag (1970:988),statute,act
+46235,T 79-21,12384,61,18 kap. RB,statute,code
+46236,T 79-21,12384,62,18 kap. RB,statute,code
+46237,T 79-21,12384,62,prop. 1969:128,prep,prop
+46238,T 79-21,12384,62,bet. 2009/10:CU25,prep,committee
+46239,T 79-21,12384,63,NJA 1983 s. 292,case,hd
+46240,T 79-21,12384,63,NJA 1992 s. 47,case,hd
+46241,T 79-21,12384,63,RB,statute,code
+46242,T 79-21,12384,65,NJA 1997 s. 805,case,hd
+46243,T 79-21,12384,65,Fastighetsbildningslag (1970:988),statute,act
+46244,T 79-21,12384,65,18 kap. RB,statute,code
+46245,T 79-21,12384,66,RB,statute,code
+46246,T 79-21,12384,67,NJA 1997 s. 805,case,hd
+46247,T 79-21,12384,67,NJA 2013 s. 223,case,hd
+46248,T 79-21,12384,67,RB,statute,code
+46249,T 79-21,12384,70,RB,statute,code
+46257,T 863-21,12388,108,skadeståndslagen (1972:207),statute,act
+46258,T 863-21,12388,112,NJA 1950 s. 440,case,hd
+46259,T 863-21,12388,112,NJA 1951 s. 79,case,hd
+46260,T 863-21,12388,117,NJA 1979 s. 129,case,hd
+46261,T 863-21,12388,117,NJA 1981 s. 683,case,hd
+46262,T 863-21,12388,117,NJA 1987 s. 222,case,hd
+46263,T 863-21,12388,118,NJA 2013 s. 145,case,hd
+46264,T 863-21,12388,121,NJA 1977 s. 176,case,hd
+46265,T 863-21,12388,122,NJA 2013 s. 145,case,hd
+46266,T 863-21,12388,122,NJA 2021 s. 473,case,hd
+46268,T 898-20,12392,109,försäkringsAvtL (2005:104),statute,act
+46269,T 898-20,12392,119,försäkringsAvtL (2005:104),statute,act
+46270,T 898-20,12392,120,konsumentförsäkringslagen (1980:38),statute,act
+46271,T 898-20,12392,120,prop. 1979/80:9,prep,prop
+46272,T 898-20,12392,121,NJA 1994 s. 709,case,hd
+46273,T 898-20,12392,121,försäkringsAvtL (2005:104),statute,act
+46274,T 898-20,12392,121,prop. 2003/04:150,prep,prop
+46275,T 898-20,12392,123,prop. 2003/04:150,prep,prop
+46276,T 898-20,12392,132,försäkringsAvtL (2005:104),statute,act
+46279,T 930-21,12396,95,prop. 2015/16:72,prep,prop
+46280,T 930-21,12396,96,32014R0910,statute,eu_secondary
+46281,T 930-21,12396,96,lagen (2016:561) med kompletterande bestämmelser till EU:s förordning om elektronisk identifiering,statute,act
+46282,T 930-21,12396,96,lagen (2000:832) om kvalificerade elektroniska signaturer,statute,act
+46283,T 930-21,12396,97,32014R0910,statute,eu_secondary
+46284,T 930-21,12396,97,lagen (2000:832) om kvalificerade elektroniska signaturer,statute,act
+46285,T 930-21,12396,100,NJA 2017 s. 769,case,hd
+46286,T 930-21,12396,101,NJA 2017 s. 1105,case,hd
+46287,T 930-21,12396,102,NJA 2017 s. 1105,case,hd
+46288,T 930-21,12396,104,lagen (2010:751) om betaltjänster,statute,act
+46289,T 930-21,12396,108,och 13,statute,NA
+46290,T 930-21,12396,108,14,statute,NA
+46291,T 930-21,12396,108,16,statute,NA
+46292,T 930-21,12396,108,lagen (1915:218) om avtal,statute,act
+46293,T 930-21,12396,109,NJA II 1915 s. 191,prep,nja_ii
+46294,T 930-21,12396,110,NJA 2013 s. 659,case,hd
+46295,T 930-21,12396,110,NJA 2014 s. 684,case,hd
+46296,T 930-21,12396,113,NJA 2013 s. 659,case,hd
+46297,T 930-21,12396,113,NJA 2014 s. 684,case,hd
+46298,T 930-21,12396,114,NJA 2014 s. 684,case,hd
+46299,T 930-21,12396,115,NJA 2014 s. 684,case,hd
+46300,T 930-21,12396,116,NJA 2014 s. 684,case,hd
+46301,T 930-21,12396,118,lagen (1915:218) om avtal,statute,act
+46302,T 930-21,12396,119,lagen (1915:218) om avtal,statute,act
+46303,T 930-21,12396,122,L,other,literature
+46304,T 930-21,12396,124,lagen (1915:218) om avtal,statute,act
+46305,T 930-21,12396,124,L,other,literature
+46306,T 930-21,12396,125,NJA II 1915 s. 190,prep,nja_ii
+46307,T 930-21,12396,130,L,other,literature
+46308,T 1781-19,12439,129,ellagen (1997:587),statute,act
+46309,T 1781-19,12439,129,elsäkerhetslagen (2016:732),statute,act
+46310,T 1781-19,12439,133,ellagen (1997:587),statute,act
+46311,T 1781-19,12439,133,elsäkerhetslagen (2016:732),statute,act
+46312,T 1781-19,12439,135,ellagen (1997:587),statute,act
+46313,T 1781-19,12439,135,elsäkerhetslagen (2016:732),statute,act
+46314,T 1781-19,12439,136,ellagen (1997:587),statute,act
+46315,T 1781-19,12439,136,elsäkerhetslagen (2016:732),statute,act
+46316,T 1781-19,12439,137,ellagen (1997:587),statute,act
+46317,T 1781-19,12439,140,Lag (1902:71 s.1) innefattande vissa bestämmelser om elektriska anläggningar,statute,act
+46318,T 1781-19,12439,143,Lag (1902:71 s.1) innefattande vissa bestämmelser om elektriska anläggningar,statute,act
+46319,T 1781-19,12439,143,prop. 1991/92:135,prep,prop
+46320,T 1781-19,12439,144,31985L0374,statute,eu_secondary
+46321,T 1781-19,12439,144,Lag (1902:71 s.1) innefattande vissa bestämmelser om elektriska anläggningar,statute,act
+46322,T 1781-19,12439,144,prop. 1990/91:197,prep,prop
+46323,T 1781-19,12439,144,prop. 1991/92:135,prep,prop
+46324,T 1781-19,12439,145,ellagen (1997:857),statute,act
+46325,T 1781-19,12439,146,NJA 2013 s. 51,case,hd
+46326,T 1781-19,12439,146,NJA 2013 s. 909,case,hd
+46327,T 1781-19,12439,146,NJA 2018 s. 475,case,hd
+46328,T 1781-19,12439,146,prop. 1990/91:197,prep,prop
+46329,T 1781-19,12439,147,10 kap. ellagen (1997:587),statute,act
+46330,T 1781-19,12439,147,Lag (1902:71 s.1) innefattande vissa bestämmelser om elektriska anläggningar,statute,act
+46331,T 1781-19,12439,147,prop. 1996/97:136,prep,prop
+46332,T 1781-19,12439,148,ellagen (1997:587),statute,act
+46333,T 1781-19,12439,148,elsäkerhetslagen (2016:732),statute,act
+46334,T 1781-19,12439,149,ellagen (1997:587),statute,act
+46335,T 1781-19,12439,150,ellagen (1997:587),statute,act
+46336,T 1781-19,12439,152,prop. 1996/97:136,prep,prop
+46337,T 1781-19,12439,153,ellagen (1997:857),statute,act
+46338,T 1781-19,12439,155,ellagen (1997:587),statute,act
+46339,T 1781-19,12439,155,elsäkerhetslagen (2016:732),statute,act
+46340,T 2126-19,12442,NA,no references,NA,NA
+46341,T 3563-20,12445,80,1 kap. 5 §ÄktB,statute,code
+46342,T 3563-20,12445,80,ÄktB,statute,code
+46343,T 3563-20,12445,81,NJA 2007 s. 9,case,hd
+46344,T 3563-20,12445,83,FB,statute,code
+46345,T 3563-20,12445,83,FB,statute,code
+46346,T 3563-20,12445,84,FB,statute,code
+46347,T 3563-20,12445,85,FB,statute,code
+46348,T 3563-20,12445,86,FB,statute,code
+46349,T 3563-20,12445,86,FB,statute,code
+46350,T 3563-20,12445,87,FB,statute,code
+46351,T 3563-20,12445,89,ÄktB,statute,code
+46352,T 3563-20,12445,89,ÄktB,statute,code
+46353,T 3563-20,12445,90,FB,statute,code
+46354,T 3563-20,12445,91,lagen (2017:310) om framtidsfullmakter,statute,act
+46355,T 3563-20,12445,91,prop. 2016/17:30,prep,prop
+46356,T 3563-20,12445,92,L,other,literature
+46357,T 3563-20,12445,95,L,other,literature
+46358,T 3563-20,12446,NA,no references,NA,NA
+46359,T 4012-20,12449,165,L,other,literature
+46360,T 4012-20,12449,166,NJA 2018 s. 301,case,hd
+46361,T 4012-20,12449,168,Lag (1936:81) om skuldebrev,statute,act
+46362,T 4012-20,12449,169,L,other,literature
+46363,T 4012-20,12449,172,NJA 2015 s. 1040,case,hd
+46364,T 4071-20,12450,99,NJA 2015 s. 741,case,hd
+46365,T 4071-20,12450,100,Lag (2007:1091) om offentlig upphandling,statute,act
+46366,T 4071-20,12450,100,Lag (2016:1145) om offentlig upphandling,statute,act
+46367,T 4071-20,12450,100,prop. 2015/16:195,prep,prop
+46368,T 4071-20,12450,101,Lag (2007:1091) om offentlig upphandling,statute,act
+46369,T 4071-20,12450,101,Lag (2016:1145) om offentlig upphandling,statute,act
+46370,T 4071-20,12450,101,prop. 2015/16:195,prep,prop
+46371,T 4071-20,12450,101,L,other,literature
+46372,T 4071-20,12450,102,NJA 2015 s. 741,case,hd
+46373,T 4071-20,12450,102,NJA 2001 s. 750,case,hd
+46374,T 4238-19,12451,74,RF,statute,const
+46375,T 4238-19,12451,76,Skollag (2010:800),statute,act
+46376,T 4238-19,12451,76,art. 28.2 Barnkonventionen,statute,int
+46377,T 4238-19,12451,78,NJA 2009 s. 776,case,hd
+46378,T 4238-19,12451,78,prop. 2009/10:165,prep,prop
+46379,T 4238-19,12451,79,NJA 1988 s. 586,case,hd
+46380,T 4238-19,12451,79,NJA 2016 s. 596,case,hd
+46381,T 4238-19,12451,84,4,principle,principle_proportionality
+46382,T 4238-19,12451,88,diskrimineringslagen (2008:567),statute,act
+46383,T 4238-19,12451,88,Skollag (2010:800),statute,act
+46384,T 4238-19,12451,89,Skollag (2010:800),statute,act
+46385,T 4238-19,12451,90,Skollag (2010:800),statute,act
+46386,T 4238-19,12451,91,prop. 2005/06:38,prep,prop
+46387,T 4238-19,12451,92,NJA 2016 s. 596,case,hd
+46388,T 4238-19,12451,93,NJA 2016 s. 596,case,hd
+46389,T 4238-19,12451,93,prop. 2005/06:38,prep,prop
+46390,T 4238-19,12451,95,NJA 2016 s. 596,case,hd
+46391,T 4412-19,12454,300,RF,statute,const
+46392,T 4412-19,12454,302,RF,statute,const
+46393,T 4412-19,12454,302,prop. 1975/76:209,prep,prop
+46394,T 4412-19,12454,304,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46395,T 4412-19,12454,305,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46396,T 4412-19,12454,306,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46397,T 4412-19,12454,307,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46398,T 4412-19,12454,308,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46399,T 4412-19,12454,309,32001L0029,statute,eu_secondary
+46400,T 4412-19,12454,310,62017CJ0469,case,cjeu
+46401,T 4412-19,12454,310,62017CJ0476,case,cjeu
+46402,T 4412-19,12454,310,62017CJ0516,case,cjeu
+46403,T 4412-19,12454,310,32001L0029,statute,eu_secondary
+46404,T 4412-19,12454,311,32001L0029,statute,eu_secondary
+46405,T 4412-19,12454,311,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46406,T 4412-19,12454,311,prop. 2004/05:110,prep,prop
+46407,T 4412-19,12454,312,32001L0029,statute,eu_secondary
+46408,T 4412-19,12454,312,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46409,T 4412-19,12454,313,62014CJ0441,case,cjeu
+46410,T 4412-19,12454,313,32001L0029,statute,eu_secondary
+46411,T 4412-19,12454,313,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46412,T 4412-19,12454,315,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46413,T 4412-19,12454,316,NJA 1985 s. 893,case,hd
+46414,T 4412-19,12454,317,NJA 1998 s. 838,case,hd
+46415,T 4412-19,12454,317,EKMR,statute,echr
+46416,T 4412-19,12454,318,NJA 1998 s. 838,case,hd
+46417,T 4412-19,12454,318,Ashby Donald m.fl. mot Frankrike,case,ecthr
+46418,T 4412-19,12454,318,NJA 1985 s. 893,case,hd
+46419,T 4412-19,12454,318,EKMR,statute,echr
+46420,T 4412-19,12454,319,EKMR,statute,echr
+46421,T 4412-19,12454,320,NJA 2007 s. 747,case,hd
+46422,T 4412-19,12454,320,NJA 2015 s. 899,case,hd
+46423,T 4412-19,12454,320,EKMR,statute,echr
+46424,T 4412-19,12454,321,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46425,T 4412-19,12454,322,EKMR,statute,echr
+46426,T 4412-19,12454,322,EU-stadgan,statute,eu_charter
+46427,T 4412-19,12454,324,23,statute,NA
+46428,T 4412-19,12454,324,25,statute,NA
+46429,T 4412-19,12454,324,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46430,T 4412-19,12454,325,Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk,statute,act
+46431,T 4494-20,12455,57,Konsumentköplag (1990:932),statute,act
+46432,T 4494-20,12455,58,prop. 1989/90:89,prep,prop
+46433,T 4494-20,12455,60,Konsumentköplag (1990:932),statute,act
+46434,T 4494-20,12455,61,Konsumentköplag (1990:932),statute,act
+46435,T 4494-20,12455,62,KöpL (1990:931),statute,act
+46436,T 4494-20,12455,62,L,other,literature
+46437,T 4494-20,12455,65,NJA 2015 s. 741,case,hd
+46438,T 4494-20,12455,65,NJA 2014 s. 960,case,hd
+46439,T 4494-20,12455,66,L,other,literature
+46440,T 4494-20,12455,67,Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,statute,act
+46441,T 4494-20,12455,67,L,other,literature
+46442,T 4494-20,12455,69,Konsumentköplag (1990:932),statute,act
+46443,T 4494-20,12455,70,Konsumentköplag (1990:932),statute,act
+46444,T 4494-20,12455,73,Konsumentköplag (1990:932),statute,act
+46445,T 4558-21,12456,NA,no references,NA,NA
+46446,T 5637-19,12464,46,MB,statute,code
+46447,T 5637-19,12464,46,århuskonventionen,statute,int
+46448,T 5637-19,12464,47,NJA 2012 s. 921,case,hd
+46449,T 5637-19,12464,47,NJA 2020 s. 190,case,hd
+46450,T 5637-19,12464,47,MB,statute,code
+46451,T 5637-19,12464,47,MB,statute,code
+46452,T 5637-19,12464,48,MB,statute,code
+46453,T 5637-19,12464,52,MB,statute,code
+46454,T 5637-19,12464,52,prop. 2009/10:184,prep,prop
+46455,T 5637-19,12464,53,MB,statute,code
+46456,T 5637-19,12464,56,NJA 2012 s. 921,case,hd
+46457,T 5637-19,12464,59,NJA 2012 s. 921,case,hd
+46458,T 5637-19,12464,59,MB,statute,code
+46459,T 5637-19,12464,67,MB,statute,code
+46460,T 4171-20,12480,90,ÄB,statute,code
+46461,T 4171-20,12480,102,ÄB,statute,code
+46462,T 4171-20,12480,103,ÄB,statute,code
+46463,T 4171-20,12480,105,ÄB,statute,code
+46464,T 4171-20,12480,106,ÄB,statute,code
+46465,T 4171-20,12480,108,ÄktB,statute,code
+46466,T 4171-20,12480,108,ÄktB,statute,code
+46467,T 4171-20,12480,109,ÄktB,statute,code
+46468,T 4171-20,12480,112,lagen den 8 juni 1928 om arv,statute,act
+46469,T 4171-20,12480,112,NJA II 1928 s. 444,prep,nja_ii
+46470,T 4171-20,12480,113,NJA II 1928 s. 445,prep,nja_ii
+46471,T 4171-20,12480,114,NJA II 1928 s. 447,prep,nja_ii
+46472,T 4171-20,12480,115,lagen den 8 juni 1928 om arv,statute,act
+46473,T 4171-20,12480,115,ÄB,statute,code
+46474,T 4171-20,12480,116,NJA 1973 s. 687,case,hd
+46475,T 4171-20,12480,116,NJA 1998 s. 534,case,hd
+46476,T 4171-20,12480,117,NJA 1949 s. 632,case,hd
+46477,T 4171-20,12480,117,NJA 1954 s. 517,case,hd
+46478,T 4171-20,12480,117,NJA 1973 s. 687,case,hd
+46479,T 4171-20,12480,117,NJA 1998 s. 534,case,hd
+46480,T 4171-20,12480,119,lagen den 8 juni 1928 om arv,statute,act
+46481,T 4171-20,12480,119,ÄB,statute,code
+46482,T 4171-20,12480,120,NJA II 1933 s. 500,prep,nja_ii
+46483,T 4171-20,12480,122,ÄB,statute,code
+46484,T 4171-20,12480,124,NJA II 1933 s. 500,prep,nja_ii
+46485,T 4171-20,12480,124,prop. 1986/87:1,prep,prop
+46486,T 4171-20,12480,125,NJA 1973 s. 687,case,hd
+46487,T 4171-20,12480,126,ÄB,statute,code
+46488,T 4171-20,12480,128,ÄB,statute,code
+46489,T 4171-20,12480,130,ÄB,statute,code
+46490,T 4171-20,12480,131,NJA 1985 s. 414,case,hd
+46491,T 4171-20,12480,131,ÄB,statute,code
+46492,T 4171-20,12480,132,ÄB,statute,code
+46493,T 4171-20,12480,133,ÄB,statute,code
+46563,B 1770-21,12539,165,BrB,statute,code
+46564,B 1770-21,12539,166,prop. 2017/18:123,prep,prop
+46565,B 1770-21,12539,168,NJA 2016 s. 39,case,hd
+46566,B 1770-21,12539,168,BrB,statute,code
+46567,B 1770-21,12539,168,BrB,statute,code
+46568,B 1770-21,12539,168,prop. 2017/18:123,prep,prop
+46569,B 1770-21,12539,169,BrB,statute,code
+46570,B 1770-21,12539,169,prop. 2017/18:123,prep,prop
+46571,B 1770-21,12539,170,prop. 2017/18:123,prep,prop
+46572,B 1770-21,12539,171,L,other,literature
+46573,B 1770-21,12539,173,9 kap. BrB,statute,code
+46574,B 1770-21,12539,173,prop. 2017/18:123,prep,prop
+46575,B 1770-21,12539,177,BrB,statute,code
+46576,B 1770-21,12539,180,BrB,statute,code
+46577,B 1770-21,12539,186,5,statute,NA
+46578,B 1770-21,12539,186,arbetstidslagen (1982:673),statute,act
+46579,B 1770-21,12539,196,BrB,statute,code
+46580,B 1770-21,12539,198,NJA 2014 s. 559,case,hd
+46581,B 1770-21,12539,198,NJA 2021 s. 536,case,hd
+46582,B 1770-21,12539,199,NJA 2014 s. 559,case,hd
+46583,B 1770-21,12539,199,NJA 2021 s. 536,case,hd
+46584,B 1770-21,12539,200,prop. 2017/18:123,prep,prop
+46585,B 1770-21,12539,201,NJA 1997 s. 507,case,hd
+46586,B 1770-21,12539,201,NJA 2020 s. 216,case,hd
+46587,B 1770-21,12539,207,BrB,statute,code
+46607,B 1886-21,12543,119,9,statute,NA
+46608,B 1886-21,12543,119,tobakslagen (1993:581),statute,act
+46609,B 1886-21,12543,119,SFS 2016:353,statute,act
+46610,B 1886-21,12543,119,lagen (2018:2088) om tobak och liknande produkter,statute,act
+46611,B 1886-21,12543,119,lagen (2018:2088) om tobak och liknande produkter,statute,act
+46612,B 1886-21,12543,120,tobakslagen (1993:581),statute,act
+46613,B 1886-21,12543,120,SFS 2016:353,statute,act
+46614,B 1886-21,12543,122,tobakslagen (1993:581),statute,act
+46615,B 1886-21,12543,125,23 kap. BrB,statute,code
+46616,B 1886-21,12543,126,NJA 2012 N 5,case,hd
+46617,B 1886-21,12543,126,3,principle,principle_legality
+46618,B 1886-21,12543,128,tobakslagen (1993:581),statute,act
+46619,B 1886-21,12543,128,lagen (2018:2088) om tobak och liknande produkter,statute,act
+46620,B 1886-21,12543,129,NJA 2019 s. 721,case,hd
+46621,B 1886-21,12543,132,NJA 2019 s. 721,case,hd
+46622,B 1886-21,12543,132,NJA 2005 s. 732,case,hd
+46623,B 1886-21,12543,133,NJA 2019 s. 668,case,hd
+46624,B 1886-21,12543,133,L,other,literature
+46640,B 2765-21,12547,66,folkbokföringslagen (1991:481),statute,act
+46641,B 2765-21,12547,72,folkbokföringslagen (1991:481),statute,act
+46642,B 2765-21,12547,72,prop. 1990/91:153,prep,prop
+46643,B 2765-21,12547,73,folkbokföringslagen (1991:481),statute,act
+46644,B 2765-21,12547,74,folkbokföringslagen (1991:481),statute,act
+46645,B 2765-21,12547,76,folkbokföringslagen (1991:481),statute,act
+46646,B 2765-21,12547,77,folkbokföringslagen (1991:481),statute,act
+46647,B 2765-21,12547,77,prop. 1990/91:153,prep,prop
+46648,B 2765-21,12547,77,prop. 2012/13:120,prep,prop
+46649,B 2765-21,12547,79,folkbokföringslagen (1991:481),statute,act
+46650,B 2765-21,12547,81,folkbokföringslagen (1991:481),statute,act
+46651,B 2765-21,12547,82,prop. 2017/18:145,prep,prop
+46652,B 2765-21,12547,84,NJA 2016 s. 702,case,hd
+46653,B 2765-21,12547,86,BrB,statute,code
+46654,B 2765-21,12547,88,folkbokföringslagen (1991:481),statute,act
+46677,B 531-21,12551,180,lagen (2014:307) om straff för penningtvättsbrott,statute,act
+46678,B 531-21,12551,180,BrB,statute,code
+46679,B 531-21,12551,181,1 och 2 lagen (2014:307) om straff för penningtvättsbrott,statute,act
+46680,B 531-21,12551,182,lagen (2014:307) om straff för penningtvättsbrott,statute,act
+46681,B 531-21,12551,183,NJA 2020 s. 545,case,hd
+46682,B 531-21,12551,186,prop. 2013/14:121,prep,prop
+46683,B 531-21,12551,187,L,other,literature
+46684,B 531-21,12551,188,lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism,statute,ecthr
+46685,B 531-21,12551,188,prop. 2013/14:121,prep,prop
+46686,B 531-21,12551,190,lagen (2014:307) om straff för penningtvättsbrott,statute,act
+46687,B 531-21,12551,191,lagen (2014:307) om straff för penningtvättsbrott,statute,act
+46688,B 531-21,12551,191,prop. 2013/14:121,prep,prop
+46689,B 531-21,12551,192,NJA 2018 s. 634,case,hd
+46690,B 531-21,12551,193,NJA 2018 s. 1010,case,hd
+46691,B 531-21,12551,200,3 BrB,statute,code
+46703,B 7481-21,12559,97,BrB,statute,code
+46704,B 7481-21,12559,97,BrB,statute,code
+46705,B 7481-21,12559,101,BrB,statute,code
+46706,B 7481-21,12559,102,BrB,statute,code
+46707,B 7481-21,12559,102,BrB,statute,code
+46708,B 7481-21,12559,103,NJA 2017 s. 515,case,hd
+46709,B 7481-21,12559,105,NJA 2017 s. 515,case,hd
+46710,B 7481-21,12559,105,NJA 2018 s. 562,case,hd
+46711,B 7481-21,12559,105,NJA II 1948 s. 221,prep,nja_ii
+46712,B 7481-21,12559,107,NJA 2017 s. 515,case,hd
+46713,B 7481-21,12559,108,NJA 2018 s. 562,case,hd
+46714,B 7481-21,12559,108,BrB,statute,code
+46715,B 7481-21,12559,112,BrB,statute,code
+46716,T 1032-21,12563,112,NJA 2016 s. 1035,case,hd
+46717,T 1032-21,12563,112,räntelagen (1975:635),statute,act
+46718,T 1032-21,12563,113,räntelagen (1975:635),statute,act
+46719,T 1032-21,12563,114,räntelagen (1975:635),statute,act
+46720,T 1032-21,12563,115,NJA 1988 s. 457,case,hd
+46721,T 1032-21,12563,115,NJA 2016 s. 1035,case,hd
+46722,T 1032-21,12563,115,räntelagen (1975:635),statute,act
+46723,T 1032-21,12563,118,utsökningsförordningen (1981:981),statute,act
+46724,T 1032-21,12563,119,räntelagen (1975:635),statute,act
+46725,T 1032-21,12563,120,räntelagen (1975:635),statute,act
+46726,T 1032-21,12563,124,räntelagen (1975:635),statute,act
+46727,T 1032-21,12563,125,räntelagen (1975:635),statute,act
+46748,T 3193-21,12565,60,8 MB,statute,code
+46749,T 3193-21,12565,65,MB,statute,code
+46750,T 3193-21,12565,68,8 MB,statute,code
+46751,T 3193-21,12565,69,NJA 2007 s. 663,case,hd
+46752,T 3193-21,12565,69,1-2 och 4-7 MB,statute,code
+46753,T 3193-21,12565,70,prop. 1997/98:45,prep,prop
+46754,T 3193-21,12565,70,prop. 1985/86:83,prep,prop
+46755,T 3193-21,12565,70,prop. 1969:28,prep,prop
+46756,T 3193-21,12565,71,32 kap. MB,statute,code
+46757,T 3193-21,12565,72,NJA 1996 s. 634,case,hd
+46758,T 3193-21,12565,72,NJA 2007 s. 663,case,hd
+46759,T 3193-21,12565,73,NJA 1991 s. 720,case,hd
+46760,T 3193-21,12565,73,NJA 1997 s. 468,case,hd
+46761,T 3193-21,12565,73,NJA 1997 s. 684,case,hd
+46762,T 3193-21,12565,73,NJA 2001 s. 368,case,hd
+46763,T 3193-21,12565,73,NJA 2007 s. 663,case,hd
+46764,T 3193-21,12565,73,L,other,literature
+46765,T 3193-21,12565,76,MB,statute,code
+46766,T 3193-21,12565,76,8 MB,statute,code
+46767,T 3193-21,12565,78,32 kap. MB,statute,code
+46784,T 390-21,12572,96,AD 2014 nr 15,case,ad
+46785,T 390-21,12572,97,NJA 2008 s. 990,case,hd
+46786,T 390-21,12572,97,NJA 2015 s. 899,case,hd
+46787,T 390-21,12572,97,AD 2014 nr 39,case,ad
+46788,T 390-21,12572,97,AD 2017 nr 17,case,ad
+46789,T 390-21,12572,97,AD 2020 nr 12,case,ad
+46790,T 390-21,12572,99,NJA 2012 s. 183,case,hd
+46791,T 390-21,12572,102,aktiebolagslagen (2005:551),statute,act
+46792,T 390-21,12572,103,NJA 2008 s. 429,case,hd
+46822,T 5450-21,12579,90,BrB,statute,code
+46823,T 5450-21,12579,93,skadeståndslagen (1972:207),statute,act
+46824,T 5450-21,12579,93,3 skadeståndslagen (1972:207),statute,act
+46825,T 5450-21,12579,95,prop. 2000/01:68,prep,prop
+46826,T 5450-21,12579,99,NJA 2017 s. 938,case,hd
+46827,T 5450-21,12579,99,NJA 2019 s. 1064,case,hd
+46828,T 5450-21,12579,101,skadeståndslagen (1972:207),statute,act
+46829,T 5450-21,12579,102,NJA 2003 s. 508,case,hd
+46830,T 5450-21,12579,102,NJA 2015 s. 86,case,hd
+46831,T 5450-21,12579,102,skadeståndslagen (1972:207),statute,act
+46832,T 5450-21,12579,103,skadeståndslagen (1972:207),statute,act
+46833,T 5450-21,12579,104,NJA 2017 s. 938,case,hd
+46834,T 5450-21,12579,104,NJA 2019 s. 1064,case,hd
+46835,T 5450-21,12579,106,NJA 1995 s. 269,case,hd
+46836,T 5450-21,12579,106,BrB,statute,code
+46845,T 6974-20,12583,80,ÄB,statute,code
+46846,T 6974-20,12583,89,ÄB,statute,code
+46847,T 6974-20,12583,90,ÄB,statute,code
+46848,T 6974-20,12583,90,försäkringsAvtL (2005:104),statute,act
+46849,T 6974-20,12583,90,prop. 1986/87:86,prep,prop
+46850,T 6974-20,12583,92,Lag (1928:280) angående införande av lagen om arv,statute,act
+46851,T 6974-20,12583,93,ÄB,statute,code
+46852,T 6974-20,12583,94,NJA 1998 s. 534,case,hd
+46853,T 6974-20,12583,94,NJA II 1928 s. 70,prep,nja_ii
+46854,T 6974-20,12583,95,NJA II 1928 s. 70,prep,nja_ii
+46855,T 6974-20,12583,97,NJA 1973 s. 687,case,hd
+46856,T 6974-20,12583,97,ÄB,statute,code
+46857,T 6974-20,12583,97,L,other,literature
+46858,T 6974-20,12583,99,NJA 1998 s. 534,case,hd
+46859,T 6974-20,12583,99,ÄB,statute,code
+46860,T 6974-20,12583,99,L,other,literature
+46861,T 6974-20,12583,100,NJA II 1928 s. 70,prep,nja_ii
+46920,T 885-21,12587,202,12 kap. JB,statute,code
+46921,T 885-21,12587,204,JB,statute,code
+46922,T 885-21,12587,204,lagen (1973:188) om arrendenämnder och hyresnämnder,statute,act
+46923,T 885-21,12587,204,lagen (1994:831) om rättegången i vissa hyresmål i Svea hovrätt,statute,act
+46924,T 885-21,12587,205,prop. 1973:23,prep,prop
+46925,T 885-21,12587,207,JB,statute,code
+46926,T 885-21,12587,207,JB,statute,code
+46927,T 885-21,12587,209,JB,statute,code
+46928,T 885-21,12587,212,JB,statute,code
+46929,T 885-21,12587,212,prop. 1967:141,prep,prop
+46930,T 885-21,12587,213,JB,statute,code
+46931,T 885-21,12587,213,JB,statute,code
+46932,T 885-21,12587,213,prop. 1983/84:137,prep,prop
+46933,T 885-21,12587,214,JB,statute,code
+46934,T 885-21,12587,214,L,other,literature
+46935,T 885-21,12587,215,JB,statute,code
+46936,T 885-21,12587,215,prop. 1967:141,prep,prop
+46937,T 885-21,12587,218,lagen (1915:218) om avtal,statute,act
+46938,T 885-21,12587,219,prop. 1973:23,prep,prop
+46939,T 885-21,12587,221,JB,statute,code
+46940,T 885-21,12587,224,JB,statute,code
+46941,T 885-21,12587,225,JB,statute,code
+46942,T 885-21,12587,226,L,other,literature
+46943,T 885-21,12587,231,JB,statute,code
+46944,B 6401-21,12588,72,BrB,statute,code
+46945,B 6401-21,12588,73,BrB,statute,code
+46946,B 6401-21,12588,75,NJA 2019 s. 492,case,hd
+46947,B 6401-21,12588,78,prop. 2004/05:45,prep,prop
+46948,T 1032-21,12589,87,räntelagen (1975:635),statute,act
+46949,T 1032-21,12589,89,UB,statute,code
+46950,T 1032-21,12589,89,utsökningsförordningen (1981:981),statute,act
+46951,T 1032-21,12589,90,utsökningsförordningen (1981:981),statute,act
+46952,T 1032-21,12589,90,UB,statute,code
+46953,T 1032-21,12589,90,prop. 1980/81:8,prep,prop
+46954,T 1032-21,12589,92,räntelagen (1975:635),statute,act
+46955,T 1032-21,12589,94,NJA 2016 s. 1035,case,hd
+46956,T 1032-21,12589,94,prop. 1975:102,prep,prop
+46957,T 1032-21,12589,95,NJA 2016 s. 1035,case,hd
+46958,T 1032-21,12589,96,L,other,literature
+46959,T 1032-21,12589,100,utsökningsförordningen (1981:981),statute,act
+46960,T 1032-21,12589,100,räntelagen (1975:635),statute,act
+46961,T 1032-21,12589,101,räntelagen (1975:635),statute,act
+46962,T 1032-21,12589,104,räntelagen (1975:635),statute,act
+46963,T 1032-21,12589,105,räntelagen (1975:635),statute,act
+46964,T 3531-21,12592,92,plan- och bygglagen (2010:900),statute,act
+46965,T 3531-21,12592,94,Lag (1973:188) om arrendenämnder och hyresnämnder,statute,act
+46966,T 3531-21,12592,94,JB,statute,code
+46967,T 3531-21,12592,94,lagen (1994:831) om rättegången i vissa hyresmål i Svea hovrätt,statute,act
+46968,T 3531-21,12592,95,NJA 1986 s. 187,case,hd
+46969,T 3531-21,12592,95,NJA 1996 s. 433,case,hd
+46970,T 3531-21,12592,98,plan- och bygglagen (2010:900),statute,act
+46971,T 3531-21,12592,98,prop. 2009/10:170,prep,prop
+46972,T 3531-21,12592,99,plan- och bygglagen (2010:900),statute,act
+46973,T 3531-21,12592,100,plan- och bygglagen (2010:900),statute,act
+46974,T 3531-21,12592,100,plan- och bygglagen (2010:900),statute,act
+46975,T 3531-21,12592,102,JB,statute,code
+46976,T 3531-21,12592,103,JB,statute,code
+46977,T 3531-21,12592,103,L,other,literature
+46978,T 3531-21,12592,104,JB,statute,code
+46979,T 3531-21,12592,105,JB,statute,code
+46980,T 3531-21,12592,106,JB,statute,code
+46981,T 3531-21,12592,106,JB,statute,code
+46982,T 3531-21,12592,106,4 JB,statute,code
+46983,T 3531-21,12592,107,3 JB,statute,code
+46984,T 3531-21,12592,109,plan- och bygglagen (2010:900),statute,act
+46985,T 3531-21,12592,109,JB,statute,code
+46986,T 3531-21,12592,110,NJA 2016 s. 303,case,hd
+46987,T 3531-21,12592,110,NJA 2019 s. 445,case,hd
+46988,T 3531-21,12592,110,3 JB,statute,code
+46989,T 3531-21,12592,111,NJA 2019 s. 445,case,hd
+46990,T 3531-21,12592,113,Lag (1994:831) om rättegången i vissa hyresmål i Svea hovrätt,statute,act
+46991,T 390-21,12593,69,BrB,statute,code
+46992,T 390-21,12593,72,Lag (1974:371) om rättegången i arbetstvister,statute,act
+46993,T 390-21,12593,74,3 Lag (1974:371) om rättegången i arbetstvister,statute,act
+46994,T 390-21,12593,75,NJA 2014 s. 838,case,hd
+46995,T 390-21,12593,78,prop. 1974:77,prep,prop
+46996,T 390-21,12593,79,NJA 2008 s. 429,case,hd
+46997,T 390-21,12593,79,AD 2012 nr 85,case,ad
+46998,T 390-21,12593,81,L,other,literature
+46999,T 390-21,12593,82,aktiebolagslagen (2005:551),statute,act
+47000,T 390-21,12593,83,aktiebolagslagen (2005:551),statute,act
+47001,T 390-21,12593,84,aktiebolagslagen (2005:551),statute,act
+47002,T 390-21,12593,84,L,other,literature
+47003,T 390-21,12593,90,Lag (1974:371) om rättegången i arbetstvister,statute,act
+47004,T 390-21,12593,93,Lag (1974:371) om rättegången i arbetstvister,statute,act
+47005,T 459-21,12594,94,JB,statute,code
+47006,T 459-21,12594,96,JB,statute,code
+47007,T 459-21,12594,96,JB,statute,code
+47008,T 459-21,12594,98,prop. 1972:70,prep,prop
+47009,T 459-21,12594,99,JB,statute,code
+47010,T 459-21,12594,100,NJA 1981 s. 675,case,hd
+47011,T 459-21,12594,100,NJA 2008 s. 85,case,hd
+47012,T 459-21,12594,103,JB,statute,code
+47013,T 459-21,12594,104,prop. 1972:70,prep,prop
+47014,T 459-21,12594,106,JB,statute,code
+47015,T 459-21,12594,107,prop. 1972:70,prep,prop
+47016,T 459-21,12594,108,JB,statute,code
+47017,T 459-21,12594,111,JB,statute,code
+47018,T 459-21,12594,112,NJA 2008 s. 85,case,hd
+47019,T 459-21,12594,113,NJA 1992 s. 829,case,hd
+47020,T 459-21,12594,114,NJA 2015 s. 186,case,hd
+47021,T 459-21,12594,114,L,other,literature
+47022,T 459-21,12594,115,JB,statute,code
+47023,T 459-21,12594,117,JB,statute,code
+47024,T 459-21,12594,119,JB,statute,code
+47025,T 885-21,12595,169,JB,statute,code
+47026,T 885-21,12595,169,lagen (1915:218) om avtal,statute,act
+47027,T 885-21,12595,171,JB,statute,code
+47028,T 885-21,12595,172,NJA 2007 s. 86,case,hd
+47029,T 885-21,12595,172,lagen (1915:218) om avtal,statute,act
+47030,T 885-21,12595,172,JB,statute,code
+47031,T 885-21,12595,173,lagen (1915:218) om avtal,statute,act
+47032,T 885-21,12595,174,lagen (1915:218) om avtal,statute,act
+47033,T 885-21,12595,175,L,other,literature
+47034,T 885-21,12595,176,lagen (1936:81) om skuldebrev,statute,act
+47035,T 885-21,12595,176,NJA II 1915 s. 235,prep,nja_ii
+47036,T 885-21,12595,176,L,other,literature
+47037,T 885-21,12595,178,JB,statute,code
+47038,T 885-21,12595,179,JB,statute,code
+47039,T 885-21,12595,181,lagen (1915:218) om avtal,statute,act
+47040,T 885-21,12595,181,prop. 1973:23,prep,prop
+47041,T 885-21,12595,182,JB,statute,code
+47042,T 885-21,12595,184,JB,statute,code
+47043,T 885-21,12595,185,JB,statute,code
+47044,T 885-21,12595,186,10 JB,statute,code
+47045,T 885-21,12595,188,JB,statute,code
+47046,T 885-21,12595,192,lagen (1915:218) om avtal,statute,act
+47047,T 885-21,12595,193,JB,statute,code
+47122,B 1099-21,12652,66,BrB,statute,code
+47123,B 1099-21,12652,67,BrB,statute,code
+47124,B 1099-21,12652,67,prop. 1997/98:96,prep,prop
+47125,B 1099-21,12652,68,BrB,statute,code
+47126,B 1099-21,12652,70,NJA 2016 s. 553,case,hd
+47127,B 1099-21,12652,70,9 BrB,statute,code
+47128,B 1099-21,12652,70,L,other,literature
+47129,B 1099-21,12652,71,BrB,statute,code
+47130,B 1099-21,12652,74,lagen (1991:2041) om särskild personutredning i brottmål,statute,act
+47131,B 1099-21,12652,76,lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande,statute,act
+47132,B 1099-21,12652,77,NJA 2014 s. 245,case,hd
+47133,B 1099-21,12652,77,lagen (1994:419) om brottsofferfond,statute,act
+47134,B 1099-21,12652,79,lagen (1994:419) om brottsofferfond,statute,act
+47157,B 4249-21,12656,118,NJA 2018 s. 378,case,hd
+47158,B 4249-21,12656,118,NJA 2019 s. 747,case,hd
+47159,B 4249-21,12656,118,NJA 2021 s. 341,case,hd
+47160,B 4249-21,12656,119,NJA 2021 s. 341,case,hd
+47161,B 4249-21,12656,122,BrB,statute,code
+47162,B 4249-21,12656,122,bokföringslagen (1999:1078),statute,act
+47163,B 4249-21,12656,127,NJA 1999 s. 647,case,hd
+47164,B 4249-21,12656,127,BrB,statute,code
+47165,B 4249-21,12656,139,aktiebolagslagen (2005:551),statute,act
+47166,B 4249-21,12656,141,bokföringslagen (1999:1078),statute,act
+47174,B 4788-15,12660,62,BrB,statute,code
+47175,B 4788-15,12660,63,utlänningslagen (2005:716),statute,act
+47176,B 4788-15,12660,64,utlänningslagen (2005:716),statute,act
+47177,B 4788-15,12660,66,NJA 2014 s. 139 I,case,hd
+47178,B 4788-15,12660,66,NJA 2015 s. 885,case,hd
+47179,B 4788-15,12660,66,BrB,statute,code
+47180,B 4788-15,12660,67,NJA 2015 s. 885,case,hd
+47181,B 4788-15,12660,67,utlänningslagen (2005:716),statute,act
+47182,B 4788-15,12660,68,utlänningslagen (2005:716),statute,act
+47183,B 4788-15,12660,69,SFB,statute,code
+47184,B 4788-15,12660,71,NJA 2015 s. 885,case,hd
+47185,B 4788-15,12660,71,utlänningslagen (2005:716),statute,act
+47186,B 4788-15,12660,72,utlänningslagen (2005:716),statute,act
+47187,B 4788-15,12660,73,utlänningslagen (2005:716),statute,act
+47197,T 1467-11,12664,88,skadeståndslagen (1972:207),statute,act
+47198,T 1467-11,12664,90,UB,statute,code
+47199,T 1467-11,12664,90,prop. 1980/81:8,prep,prop
+47200,T 1467-11,12664,95,lagen (1986:796) om godtrosförvärv av lösöre,statute,act
+47201,T 1467-11,12665,103,NJA 1990 s. 137,case,hd
+47202,T 1467-11,12665,103,NJA 1995 s. 112,case,hd
+47203,T 1467-11,12665,103,konsumentKöpLs (1990:932),statute,act
+47204,T 1467-11,12665,103,skadeståndslagen (1972:207),statute,act
+47205,T 1467-11,12665,104,NJA 2000 s. 652,case,hd
+47206,T 1467-11,12665,104,UB,statute,code
+47207,T 1467-11,12665,104,lagen (1986:796) om godtrosförvärv,statute,act
+47208,T 1467-11,12665,104,prop. 1985/86:123,prep,prop
+47209,T 1467-11,12665,107,lagen (1986:796) om godtrosförvärv,statute,act
+47210,T 1467-11,12665,107,skadeståndslagen (1972:207),statute,act
+47211,T 1467-11,12665,107,skadeståndslagen (1975:207),statute,act
+47240,T 2270-21,12669,153,JB,statute,code
+47241,T 2270-21,12669,156,JB,statute,code
+47242,T 2270-21,12669,159,12 kap. JB,statute,code
+47243,T 2270-21,12669,160,JB,statute,code
+47244,T 2270-21,12669,161,NJA 1989 s. 505,case,hd
+47245,T 2270-21,12669,161,NJA 1998 s. 426,case,hd
+47246,T 2270-21,12669,162,JB,statute,code
+47247,T 2270-21,12669,163,JB,statute,code
+47248,T 2270-21,12669,164,JB,statute,code
+47249,T 2270-21,12669,166,JB,statute,code
+47250,T 2270-21,12669,168,prop. 1973:23,prep,prop
+47251,T 2270-21,12669,169,lagen (1973:188) om arrendenämnder och hyresnämnder,statute,act
+47252,T 2270-21,12669,169,prop. 1987/88:146,prep,prop
+47253,T 2270-21,12669,170,L,other,literature
+47254,T 2270-21,12669,180,JB,statute,code
+47255,T 2270-21,12669,180,JB,statute,code
+47280,T 3131-21,12674,234,AvtL,statute,act
+47281,T 3131-21,12674,252,NJA 2019 s. 877,case,hd
+47282,T 3131-21,12674,256,lagen (1984:404) om stämpelskatt,statute,act
+47283,T 3131-21,12674,256,aktiebolagslagen (2005:551),statute,act
+47284,T 3131-21,12674,257,aktiebolagslagen (2005:551),statute,act
+47285,T 3131-21,12674,257,bostadsrättslagen (1991:614),statute,act
+47286,T 3131-21,12674,258,aktiebolagslagen (2005:551),statute,act
+47287,T 3131-21,12674,259,bostadsrättslagen (1991:614),statute,act
+47288,T 3131-21,12674,259,aktiebolagslagen (2005:551),statute,act
+47289,T 3131-21,12674,261,NJA 2009 s. 272 II,case,hd
+47290,T 3131-21,12674,265,NJA 1991 s. 625,case,hd
+47291,T 3131-21,12674,266,NJA 1998 s. 625,case,hd
+47292,T 3131-21,12674,274,AvtL,statute,act
+47293,T 3131-21,12674,275,AvtL,statute,act
+47294,T 3131-21,12674,276,NJA 2017 s. 113,case,hd
+47295,T 3131-21,12674,276,AvtL,statute,act
+47296,T 3131-21,12674,276,SOU 1974:83,prep,sou
+47297,T 3131-21,12674,278,AvtL,statute,act
+47298,T 3131-21,12674,282,AvtL,statute,act
+47299,T 3131-21,12675,288,AvtL,statute,act
+47300,T 3131-21,12675,289,NJA 2019 s. 877,case,hd
+47301,T 3131-21,12675,292,Lag (1984:404) om stämpelskatt vid inskrivningsmyndigheter,statute,act
+47302,T 3131-21,12675,293,NJA 2009 s. 272 II,case,hd
+47303,T 3131-21,12675,298,AvtL,statute,act
+47304,T 3131-21,12675,299,AvtL,statute,act
+47305,T 3131-21,12675,299,SOU 1974:83,prep,sou
+47306,T 3131-21,12675,300,NJA 2017 s. 113,case,hd
+47307,T 3131-21,12675,300,AvtL,statute,act
+47308,T 3131-21,12675,300,SOU 1974:83,prep,sou
+47309,T 3131-21,12675,303,AvtL,statute,act
+47310,T 3131-21,12675,310,AvtL,statute,act
+47341,T 3379-21,12679,139,art. 23.4 CMR,statute,NA
+47342,T 3379-21,12679,142,art. 23.4 CMR,statute,NA
+47343,T 3379-21,12679,145,lagen (1969:12) om internationell vägtransport,statute,act
+47344,T 3379-21,12679,145,art. 1-41 CMR,statute,NA
+47345,T 3379-21,12679,146,art. 1.1 och 41 CMR,statute,NA
+47346,T 3379-21,12679,149,Rom I-förordningen,statute,NA
+47347,T 3379-21,12679,152,och 3.1-3 Rom I-förordningen,statute,NA
+47348,T 3379-21,12679,153,art. 4-8 Rom I-förordningen,statute,NA
+47349,T 3379-21,12679,154,art. 25,statute,NA
+47350,T 3379-21,12679,154,26 och 38 Rom I-förordningen,statute,NA
+47351,T 3379-21,12679,156,art. 1.1 CMR,statute,NA
+47352,T 3379-21,12679,157,art. 1.1 CMR,statute,NA
+47353,T 3379-21,12679,157,prop. 1968:132,prep,prop
+47354,T 3379-21,12679,157,SOU 1972:24,prep,sou
+47355,T 3379-21,12679,158,Rom I-förordningen,statute,NA
+47356,T 3379-21,12679,158,CMR,statute,NA
+47357,T 3379-21,12679,159,62008CJ0533,case,cjeu
+47358,T 3379-21,12679,159,Rom I-förordningen,statute,NA
+47359,T 3379-21,12679,162,och 18 CMR,statute,NA
+47360,T 3379-21,12679,164,art. 23.1-3 CMR,statute,NA
+47361,T 3379-21,12679,165,art. 23.4,statute,NA
+47362,T 3379-21,12679,165,24 och 26 CMR,statute,NA
+47363,T 3379-21,12679,166,L,other,literature
+47364,T 3379-21,12679,168,CMR,statute,NA
+47365,T 3379-21,12679,168,L,other,literature
+47366,T 3379-21,12679,169,CMR,statute,NA
+47367,T 3379-21,12679,170,CMR,statute,NA
+47368,T 3379-21,12679,171,CMR,statute,NA
+47369,T 3379-21,12679,172,art. 23.4 CMR,statute,NA
+47370,T 3379-21,12679,174,art. 23.1-4 CMR,statute,NA
+47371,T 3379-21,12679,175,L,other,literature
+47372,T 3379-21,12679,176,L,other,literature
+47373,T 3379-21,12679,179,art. 23.4 CMR,statute,NA
+47374,T 3379-21,12679,181,art. 23.4 CMR,statute,NA
+47375,T 3379-21,12679,181,L,other,literature
+47376,T 3379-21,12679,183,art. 23.4 CMR,statute,NA
+47377,T 3379-21,12679,185,art. 23.4 CMR,statute,NA
+47378,T 3379-21,12679,187,CIM,statute,NA
+47379,T 3379-21,12679,187,L,other,literature
+47380,T 3379-21,12679,189,art. 23.1-4 CMR,statute,NA
+47381,T 3379-21,12679,190,art. 23,statute,NA
+47382,T 3379-21,12679,190,24 och 26 CMR,statute,NA
+47383,T 3379-21,12679,192,art. 23.4 CMR,statute,NA
+47384,T 3379-21,12679,194,art. 1.1 CMR,statute,NA
+47385,T 3379-21,12679,195,art. 23.4 CMR,statute,NA
+47386,T 3379-21,12679,198,art. 23.4 EKMR,statute,echr
+47400,T 3918-21,12683,136,ÄB,statute,code
+47401,T 3918-21,12683,137,NJA 2021 s. 992,case,hd
+47402,T 3918-21,12683,139,ÄB,statute,code
+47403,T 3918-21,12683,140,NJA 1974 s. 646,case,hd
+47404,T 3918-21,12683,140,NJA II 1930 s. 215,prep,nja_ii
+47405,T 3918-21,12683,142,NJA II 1930 s. 210,prep,nja_ii
+47406,T 3918-21,12683,143,NJA 1952 s. 99,case,hd
+47407,T 3918-21,12683,143,NJA 1977 s. 479,case,hd
+47408,T 3918-21,12683,147,NJA 2017 s. 362,case,hd
+47410,T 4395-21,12687,77,JB,statute,code
+47411,T 4395-21,12687,80,JB,statute,code
+47412,T 4395-21,12687,81,NJA 2014 s. 465,case,hd
+47413,T 4395-21,12687,81,JB,statute,code
+47414,T 4395-21,12687,84,lagen (1994:137) om mottagande av asylsökande m.fl.,statute,act
+47415,T 4395-21,12687,84,prop. 2016/17:86,prep,prop
+47416,T 4395-21,12687,86,JB,statute,code
+47417,T 4395-21,12687,87,JB,statute,code
+47418,T 4395-21,12687,88,12 kap. JB,statute,code
+47419,T 4395-21,12687,90,NJA 2001 s. 241 I och II,case,hd
+47420,T 4395-21,12687,90,prop. 2008/09:27,prep,prop
+47421,T 4395-21,12687,90,prop. 2018/19:107,prep,prop
+47422,T 4395-21,12687,91,JB,statute,code
+47423,T 4395-21,12687,94,JB,statute,code
+47424,T 4395-21,12688,107,JB,statute,code
+47425,T 4395-21,12688,108,JB,statute,code
+47426,T 4395-21,12688,109,JB,statute,code
+47427,T 4395-21,12688,109,JB,statute,code
+47428,T 4395-21,12688,110,JB,statute,code
+47429,T 4395-21,12688,111,JB,statute,code
+47430,T 4395-21,12688,112,JB,statute,code
+47431,T 4395-21,12688,113,JB,statute,code
+47439,T 4623-21,12692,126,Lag (2010:751) om betaltjänster,statute,act
+47440,T 4623-21,12692,136,32007L0064,statute,eu_secondary
+47441,T 4623-21,12692,136,32015L2366,statute,eu_secondary
+47442,T 4623-21,12692,136,lagen (2010:738) om obehöriga transaktioner med betalningsinstrument,statute,act
+47443,T 4623-21,12692,136,5 a kap. Lag (2010:751) om betaltjänster,statute,act
+47444,T 4623-21,12692,137,Lag (2010:751) om betaltjänster,statute,act
+47445,T 4623-21,12692,138,Lag (2010:751) om betaltjänster,statute,act
+47446,T 4623-21,12692,139,5 a kap. Lag (2010:751) om betaltjänster,statute,act
+47447,T 4623-21,12692,139,Lag (2010:751) om betaltjänster,statute,act
+47448,T 4623-21,12692,140,Lag (2010:751) om betaltjänster,statute,act
+47449,T 4623-21,12692,140,Lag (2010:751) om betaltjänster,statute,act
+47450,T 4623-21,12692,141,Lag (2010:751) om betaltjänster,statute,act
+47451,T 4623-21,12692,141,Lag (2010:751) om betaltjänster,statute,act
+47452,T 4623-21,12692,146,prop. 2009/10:122,prep,prop
+47453,T 4623-21,12692,148,Lag (2010:751) om betaltjänster,statute,act
+47454,T 4623-21,12692,148,32015L2366,statute,eu_secondary
+47455,T 4623-21,12692,149,32015L2366,statute,eu_secondary
+47456,T 4623-21,12692,150,Lag (2010:751) om betaltjänster,statute,act
+47457,T 4623-21,12692,151,F,other,non_binding
+47458,T 4623-21,12692,152,Lag (2010:751) om betaltjänster,statute,act
+47459,T 4623-21,12692,152,32015L2366,statute,eu_secondary
+47460,T 4623-21,12692,152,32007L0064,statute,eu_secondary
+47461,T 4623-21,12692,153,NJA 1992 s. 130,case,hd
+47462,T 4623-21,12692,154,32015L2366,statute,eu_secondary
+47463,T 4623-21,12692,155,Lag (2010:751) om betaltjänster,statute,act
+47464,T 4623-21,12692,155,prop. 2009/10:122,prep,prop
+47465,T 4623-21,12692,156,prop. 2009/10:122,prep,prop
+47466,T 4623-21,12692,157,32015L2366,statute,eu_secondary
+47467,T 4623-21,12692,157,F,other,non_binding
+47468,T 4623-21,12692,158,Lag (2010:751) om betaltjänster,statute,act
+47469,T 4623-21,12692,159,prop. 2009/10:122,prep,prop
+47470,T 4623-21,12692,160,prop. 2009/10:122,prep,prop
+47471,T 4705-21,12695,124,RF,statute,const
+47472,T 4705-21,12695,124,3 RF,statute,const
+47473,T 4705-21,12695,124,RF,statute,const
+47474,T 4705-21,12695,124,24 kap. RB,statute,code
+47475,T 4705-21,12695,126,skadeståndslagen (1972:207),statute,act
+47476,T 4705-21,12695,128,lag (1886:8 s. 1) angående ersättning av allmänna medel åt oskyldigt häktade eller dömda,statute,act
+47477,T 4705-21,12695,128,lagen (1945:118) om ersättning i vissa fall åt oskyldigt häktade eller dömda m.fl.,statute,act
+47478,T 4705-21,12695,129,Lag (1974:515) om ersättning vid frihetsinskränkning,statute,act
+47479,T 4705-21,12695,129,prop. 1974:97,prep,prop
+47480,T 4705-21,12695,130,lagen (1998:714) om ersättning och andra tvångsåtgärder,statute,act
+47481,T 4705-21,12695,130,lag (1974:515) om ersättning vid frihetsinskränkning,statute,act
+47482,T 4705-21,12695,130,prop. 1997/98:105,prep,prop
+47483,T 4705-21,12696,145,lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,statute,act
+47484,T 4705-21,12696,146,NJA 2007 s. 295,case,hd
+47485,T 4705-21,12696,146,Shulgin v. Ukraine,case,ecthr
+47486,T 4705-21,12696,146,EKMR,statute,echr
+47487,T 4705-21,12696,146,sjunde tilläggsprotokoll EKMR,statute,echr
+47488,T 4705-21,12696,150,lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,statute,act
+47489,T 4705-21,12696,150,A,other,agency
+47490,T 4705-21,12696,152,NJA 2018 s. 793,case,hd
+47491,T 4705-21,12696,153,L,other,literature
+47492,T 4705-21,12696,157,NJA 1990 s. 808,case,hd
+47501,T 723-21,12701,135,BrB,statute,code
+47502,T 723-21,12701,135,lagen (1944:181) om redovisningsmedel,statute,act
+47503,T 723-21,12701,135,räntelag (1975:635),statute,act
+47504,T 723-21,12701,136,NJA 2008 s. 392,case,hd
+47505,T 723-21,12701,136,HB,statute,code
+47506,T 723-21,12701,136,prop. 1975:102,prep,prop
+47507,T 723-21,12701,140,AvtL,statute,act
+47508,T 723-21,12701,144,NJA 2005 s. 142,case,hd
+47509,T 723-21,12701,144,L,other,literature
+47510,T 723-21,12701,145,NJA 1996 s. 400,case,hd
+47511,T 723-21,12701,145,försäkringsAvtL (2005:104),statute,act
+47512,T 723-21,12701,147,lagen (1980:1102) om handelsbolag och enkla bolag,statute,act
+47513,T 723-21,12701,148,NJA 2014 s. 877,case,hd
+47514,T 723-21,12701,148,aktiebolagslagen (2005:551),statute,act
+47515,T 723-21,12701,149,NJA 1975 s. 45,case,hd
+47516,T 723-21,12701,149,NJA 1982 s. 244,case,hd
+47538,T 7416-21,12704,149,RB,statute,code
+47539,T 7416-21,12704,149,lagen (1999:116) om skiljeförfarande,statute,act
+47540,T 7416-21,12704,150,prop. 1910:83,prep,prop
+47541,T 7416-21,12704,152,NJA 1973 s. 341,case,hd
+47542,T 7416-21,12704,152,NJA 1987 s. 394,case,hd
+47543,T 7416-21,12704,153,NJA 1998 s. 293,case,hd
+47544,T 7416-21,12704,153,NJA 1998 s. 717,case,hd
+47545,T 7416-21,12704,153,NJA 2000 s. 365,case,hd
+47546,T 7416-21,12704,155,NJA 1935 s. 106,case,hd
+47547,T 7416-21,12704,155,NJA 1948 s. 590,case,hd
+47548,T 7416-21,12704,156,NJA 1977 s. 129,case,hd
+47549,T 7416-21,12704,156,NJA 1998 s. 293,case,hd
+47550,T 7416-21,12704,156,NJA 1998 s. 717,case,hd
+47551,T 7416-21,12704,156,NJA 2000 s. 365,case,hd
+47552,T 7416-21,12704,157,lagen (2018:672) om ekonomiska föreningar,statute,act
+47553,T 7416-21,12704,158,NJA 2000 s. 365,case,hd
+47554,T 7416-21,12704,166,RB,statute,code
+47555,T 4395-21,12705,101,JB,statute,code
+47583,B 3089-22,12711,88,vapenlagen (1996:67),statute,act
+47584,B 3089-22,12711,89,vapenlagen (1996:67),statute,act
+47585,B 3089-22,12711,90,vapenlagen (1996:67),statute,act
+47586,B 3089-22,12711,91,vapenlagen (1996:67),statute,act
+47587,B 3089-22,12711,93,prop. 2011/12:109,prep,prop
+47588,B 3089-22,12711,94,vapenlagen (1996:67),statute,act
+47589,B 3089-22,12711,94,prop. 2011/12:109,prep,prop
+47590,B 3089-22,12711,94,prop. 2019/20:200,prep,prop
+47591,B 3089-22,12711,95,vapenlagen (1996:67),statute,act
+47592,B 3089-22,12711,95,prop. 2011/12:109,prep,prop
+47593,B 3089-22,12711,96,vapenlagen (1996:67),statute,act
+47594,B 3089-22,12711,96,prop. 2019/20:200,prep,prop
+47595,B 3089-22,12711,97,vapenlagen (1996:67),statute,act
+47596,B 3089-22,12711,97,prop. 2013/14:226,prep,prop
+47597,B 3089-22,12711,97,prop. 2011/12:109,prep,prop
+47598,B 3089-22,12711,99,prop. 2013/14:226,prep,prop
+47599,B 3089-22,12711,100,NJA 2017 s. 794,case,hd
+47600,B 3089-22,12711,101,prop. 2019/20:200,prep,prop
+47601,B 3089-22,12711,102,prop. 2019/20:200,prep,prop
+47602,B 3089-22,12711,104,prop. 2019/20:200,prep,prop
+47603,B 3089-22,12711,114,prop. 2017/18:26,prep,prop
+47607,B 3664-21,12715,85,lagen (2014:307) om straff,statute,act
+47608,B 3664-21,12715,111,BrB,statute,code
+47609,B 3664-21,12715,111,prop. 2013/14:121,prep,prop
+47610,B 3664-21,12715,112,BrB,statute,code
+47611,B 3664-21,12715,112,prop. 1979/80:66,prep,prop
+47612,B 3664-21,12715,112,prop. 2013/14:121,prep,prop
+47613,B 3664-21,12715,114,BrB,statute,code
+47614,B 3664-21,12715,114,SOU 2012:12,prep,sou
+47615,B 3664-21,12715,114,prop. 2013/14:121,prep,prop
+47616,B 3664-21,12715,125,lagen (1994:419) om brottsofferfond,statute,act
+47617,B 3664-21,12716,127,lagen (2014:307) om straff för penningtvättsbrott,statute,act
+47618,B 3664-21,12716,128,BrB,statute,code
+47619,B 3664-21,12716,128,prop. 2013/14:121,prep,prop
+47620,B 3664-21,12716,129,prop. 1979/80:66,prep,prop
+47621,B 3664-21,12716,129,prop. 1975:104,prep,prop
+47622,B 3664-21,12716,129,prop. 1998/99:130,prep,prop
+47623,B 3664-21,12716,130,SOU 2012:12,prep,sou
+47667,B 1675-22,12750,108,BrB 35:1,statute,code
+47668,B 1675-22,12750,110,32014R0596,statute,eu_secondary
+47669,B 1675-22,12750,111,lagen om straff för marknadsmissbruk (2016:1307),statute,act
+47670,B 1675-22,12750,113,lagen om straff för kompletteringslagen (2016:1306) (2016:1307),statute,act
+47671,B 1675-22,12750,114,kompletteringslagen (2016:1306),statute,act
+47672,B 1675-22,12750,115,kompletteringslagen (2016:1306),statute,act
+47673,B 1675-22,12750,116,lagen om straff för marknadsmissbruk (2016:1307),statute,act
+47674,B 1675-22,12750,118,BrB 35 kap.,statute,code
+47675,B 1675-22,12750,120,NJA 1974 s. 243,case,hd
+47676,B 1675-22,12750,120,lagen (1985:206) om viten,statute,act
+47677,B 1675-22,12750,120,BrB 35:1,statute,code
+47678,B 1675-22,12750,121,BrB 35:1,statute,code
+47679,B 1675-22,12750,123,Engel and others v. the Netherlands,case,ecthr
+47680,B 1675-22,12750,123,8 June 1976,case,NA
+47681,B 1675-22,12750,123,BrB 35:1,statute,code
+47682,B 1675-22,12750,123,prop. 2106/17:22,prep,prop
+47683,B 1675-22,12750,124,BrB 35:1,statute,code
+47684,B 1675-22,12750,125,kompletteringslagen (2016:1306),statute,act
+47685,B 1675-22,12750,126,kompletteringslagen (2016:1306),statute,act
+47686,B 1675-22,12750,128,kompletteringslagen (2016:1306),statute,act
+47687,B 3986-22,12751,22,utlämningslagen,statute,act
+47688,B 3986-22,12751,23,utlämningslagen,statute,act
+47689,B 3986-22,12751,24,62015CJ0182,case,cjeu
+47690,B 3986-22,12751,24,62017CJ898,case,NA
+47691,B 3986-22,12751,24,NJA 2019 s. 377,case,hd
+47692,B 3986-22,12751,24,FEUF,statute,eu_primary
+47693,B 3986-22,12751,25,NJA 2019 s. 377,case,hd
+47694,B 3986-22,12751,25,utlämningslagen,statute,act
+47695,B 3986-22,12751,27,NJA 2019 s. 377,case,hd
+47696,B 3986-22,12751,29,FEUF,statute,eu_primary
+47697,B 3986-22,12751,30,NJA 2019 s. 377,case,hd
+47698,B 3986-22,12751,30,62017CJ898,case,NA
+47699,B 3986-22,12751,33,utlämningslagen,statute,act
+47700,B 3986-22,12751,34,utlämningslagen,statute,act
+47701,B 3986-22,12751,35,utlämningslagen,statute,act
+47702,B 3986-22,12751,36,utlämningslagen,statute,act
+47703,B 3986-22,12751,37,utlämningslagen,statute,act
+47704,B 3986-22,12751,38,utlämningslagen,statute,act
+47705,B 3986-22,12751,39,utlämningslagen,statute,act
+47706,B 3986-22,12751,44,EKMR,statute,echr
+47707,B 3986-22,12751,46,Barnkonventionen,statute,int
+47708,B 3986-22,12751,46,I,other,international
+47709,B 312-91,12777,36,BrB,statute,code
+47721,B 34-91,12784,46,sjölagen (1891:35),statute,act
+47722,B 34-91,12784,47,sjölagen (1891:35),statute,act
+47723,B 34-91,12784,47,prop. 1990/91:128,prep,prop
+47724,B 34-91,12784,51,sjölagen (1891:35),statute,act
+47725,B 358-91,12787,50,NJA 1983 s. 425,case,hd
+47726,B 358-91,12787,50,narkotikastrafflagen (1968:64),statute,act
+47727,B 358-91,12787,50,BrB,statute,code
+47728,B 358-91,12787,50,BrB,statute,code
+47729,B 358-91,12787,50,narkotikastrafflagen (1968:64),statute,act
+47730,B 358-91,12787,51,BrB,statute,code
+47731,B 358-91,12787,52,BrB,statute,code
+47732,B 358-91,12787,53,NJA 1989 s. 456,case,hd
+47733,B 358-91,12787,54,NJA II 1942 s 248,prep,nja_ii
+47734,B 358-91,12787,54,L,other,literature
+47735,B 358-91,12787,55,NJA 1954 s. 406,case,hd
+47736,B 358-91,12787,56,NJA 1989 s. 456,case,hd
+47743,B 359-90,12790,44,NJA 1907 s. 471,case,hd
+47744,B 359-90,12790,44,NJA 1973 s. 590,case,hd
+47745,B 359-90,12790,44,L,other,literature
+47746,B 359-90,12790,47,L,other,literature
+47747,B 359-90,12790,50,BrB,statute,code
+47748,B 359-90,12790,53,BrB,statute,code
+47749,B 359-90,12791,55,BrB,statute,code
+47750,B 402-22,12794,147,BrB,statute,code
+47751,B 402-22,12794,149,BrB 6 kap. 5 §,statute,code
+47752,B 402-22,12794,150,BrB 6 kap. 5 §,statute,code
+47753,B 402-22,12794,152,L,other,literature
+47754,B 402-22,12794,153,BrB 6 kap. 4 och 5 §§,statute,code
+47755,B 402-22,12794,154,prop. 2004/05:45 s. 67,prep,prop
+47880,B 4080-22,12798,160,lagen (2003:1156) om överlämnande,statute,act
+47881,B 4080-22,12798,160,prop. 2012/13:156,prep,prop
+47882,B 4080-22,12798,161,lagen (2003:1156) om överlämnande,statute,act
+47883,B 4080-22,12798,163,lagen (2003:1156) om överlämnande,statute,act
+47884,B 4080-22,12798,166,lagen (2003:1156) om överlämnande,statute,act
+47885,B 4080-22,12798,167,lagen (2003:1156) om överlämnande,statute,act
+47886,B 4080-22,12798,168,62016CJ0108,case,cjeu
+47887,B 4080-22,12798,172,lagen (2003:1156) om överlämnande,statute,act
+47888,B 4080-22,12798,173,Rådets rambeslut 2009/299/RIF,statute,NA
+47889,B 4080-22,12798,174,62016CJ0108,case,cjeu
+47890,B 4080-22,12798,175,62016CJ0108,case,cjeu
+47891,B 4080-22,12799,179,NJA 2000 s. 132,case,hd
+47892,B 4080-22,12799,179,NJA 2005 s. 33,case,hd
+47893,B 4080-22,12799,180,3,principle,principle_legality
+47894,B 416-90,12804,NA,no references,NA,NA
+47905,B 419-22,12808,109,prop. 2012/13:69,prep,prop
+47906,B 419-22,12808,110,prop. 2012/13:69,prep,prop
+47910,B 483-89,12815,40,BrB,statute,code
+47911,B 483-89,12815,41,L,other,literature
+47912,B 483-89,12815,42,BrB,statute,code
+47913,B 483-89,12816,48,kungörelsen (1939:783) angående anordnande och begagnande samt tillsyn av vissa hissar,statute,act
+47916,B 5-90,12822,39,19 kap. 7,statute,NA
+47917,B 5-90,12822,39,BrB,statute,code
+47918,B 5-90,12822,40,BrB,statute,code
+47919,B 506-91,12825,NA,no references,NA,NA
+47924,B 512-90,12832,24,trafikbrottslagen (1951:649),statute,act
+47925,B 512-90,12832,26,NJA 1991 s. 359,case,hd
+47926,B 512-90,12832,30,1 BrB,statute,code
+47927,B 512-90,12832,32,1 BrB,statute,code
+47934,B 535-91,12839,43,RB,statute,code
+47935,B 535-91,12839,44,2 RB,statute,code
+47936,B 535-91,12839,44,prop. 1988/89:95,prep,prop
+47937,B 535-91,12839,45,RB,statute,code
+47938,B 535-91,12839,46,prop. 1988/89:95,prep,prop
+47939,B 535-91,12839,47,NJA 1989 s. 646,case,hd
+47940,B 535-91,12839,47,prop. 1988/89:95,prep,prop
+47941,B 535-91,12839,48,RB,statute,code
+47942,B 535-91,12839,48,prop. 1985/86:23,prep,prop
+47943,B 535-91,12839,53,livsmedelslagen (1971:511),statute,act
+47944,B 535-91,12839,53,livsmedelslagen (1971:511),statute,act
+47945,B 535-91,12839,54,2 BrB,statute,code
+47946,B 535-91,12839,55,i BrB,statute,code
+47947,B 535-91,12839,56,livsmedelslagen (1971:511),statute,act
+47948,B 535-91,12839,56,NJA II 1986 s. 45,prep,nja_ii
+47965,B 547-90,12847,42,RB,statute,code
+47966,B 547-90,12847,45,narkotikastrafflagen (1968:64),statute,act
+47967,B 547-90,12847,45,prop. 1982/83:141,prep,prop
+47968,B 547-90,12847,46,narkotikastrafflagen (1968:64),statute,act
+47969,B 547-90,12847,51,narkotikastrafflagen (1968:64),statute,act
+47970,B 547-90,12847,51,BrB,statute,code
+47971,B 547-90,12847,51,narkotikastrafflagen (1968:64),statute,act
+47972,B 560-90,12850,37,L,other,literature
+47973,B 560-90,12850,38,prop. 1983/84:105,prep,prop
+47974,B 560-90,12850,41,skadeståndslagen,statute,act
+47975,B 560-90,12850,41,skadeståndslagen,statute,act
+47979,B 628-91,12865,38,BrB,statute,code
+47980,B 628-91,12865,38,NJA II 1931 s. 14,prep,nja_ii
+47981,B 628-91,12865,39,BrB,statute,code
+47982,B 628-91,12865,41,lagen (1964:163) om införande av BrB,statute,code
+47983,B 628-91,12865,42,RÅFS 1990:1,statute,act
+47984,B 628-91,12865,42,RÅFS 1981:2),statute,act
+47989,B 696-89,12872,60,8 kap 1,statute,NA
+47990,B 696-89,12872,60,TF,statute,const
+47991,B 696-89,12872,60,prop. 1948:230,prep,prop
+47992,B 700-90,12878,27,BrB,statute,code
+47993,B 700-90,12878,30,NJA 1956 s. 1,case,hd
+47994,B 700-90,12878,32,BrB,statute,code
+47995,B 700-90,12878,32,L,other,literature
+47996,B 792-91,12889,32,NJA 1977 s. 473,case,hd
+47997,B 792-91,12889,33,SOU 1989:44,prep,sou
+47998,B 792-91,12889,37,BrB,statute,code
+47999,B 792-91,12889,39,NJA 1977 s. 574,case,hd
+48000,B 792-91,12890,43,BrB,statute,code
+48001,B 792-91,12890,44,BrB,statute,code
+48002,B 792-91,12890,44,SOU 1977:83,prep,sou
+48003,B 792-91,12890,44,prop. 1978/79:212,prep,prop
+48004,B 792-91,12890,44,prop. 1982/83:85,prep,prop
+48005,B 792-91,12890,44,prop. 1987/88:120,prep,prop
+48008,T 137-90,12931,47,aktiebolagslagen (1975:1385),statute,act
+48009,T 137-90,12931,47,NJA II 1910 nr 14,prep,nja_ii
+48010,T 15-90,12937,34,JB,statute,code
+48011,T 15-90,12937,35,prop. 1968:91,prep,prop
+48012,T 15-90,12937,39,JB,statute,code
+48015,T 150-90,12941,22,lagen (1996:680) om ändring,statute,act
+48016,T 150-90,12941,22,lagen (1990:668) om nedsättning,statute,act
+48097,T 160-90,12948,35,prop. 1972:5,prep,prop
+48098,T 160-90,12948,36,prop. 1963:91,prep,prop
+48099,T 160-90,12948,36,prop. 1964:132 s 59,prep,prop
+48100,T 160-90,12948,40,prop. 1972:5,prep,prop
+48101,T 160-90,12948,40,L,other,literature
+48104,T 166-90,12953,49,skadeståndslagen,statute,act
+48105,T 166-90,12953,51,skadeståndslagen,statute,act
+48106,T 166-90,12953,51,prop. 1975:12,prep,prop
+48107,T 166-90,12953,53,skadeståndslagen,statute,act
+48111,T 185-90,12957,49,lagen (1984:81) om fastighetsmäklare,statute,act
+48112,T 185-90,12958,NA,no references,NA,NA
+48113,T 185-90,12959,66,RB,statute,code
+48123,T 216-90,12966,58,NJA 1988 s. 209,case,hd
+48124,T 216-90,12966,58,firmalagen (1974:156),statute,act
+48125,T 216-90,12966,58,NJA II 1974 s. 250,prep,nja_ii
+48126,T 216-90,12966,63,NJA II 1974 s. 266,prep,nja_ii
+48128,T 281-89,12993,45,NJA 1936 s. 177,case,hd
+48129,T 281-89,12993,45,NJA 1936 s 625,case,hd
+48130,T 281-89,12993,45,NJA 1938 not A 309,case,NA
+48132,T 323-88,13000,30,SOU 1974:28,prep,sou
+48133,T 323-88,13000,30,NJA II 1927 s. 298,prep,nja_ii
+48134,T 323-88,13000,30,NJA II 1936 s. 34,prep,nja_ii
+48135,T 323-88,13000,30,prop. 1986/87:72,prep,prop
+48136,T 323-88,13001,NA,no references,NA,NA
+48137,T 331-89,13005,NA,no references,NA,NA
+48142,T 335-90,13009,37,RB,statute,code
+48143,T 335-90,13009,39,NJA 1973 s. 493,case,hd
+48144,T 335-90,13009,39,prop. 1984/85:110,prep,prop
+48145,T 335-90,13009,39,SOU 1979:36,prep,sou
+48146,T 335-90,13009,39,SOU 1984:25 s 134,prep,sou
+48147,T 335-90,13009,39,L,other,literature
+48148,T 335-90,13009,41,NJA 1977 s. 176,case,hd
+48149,T 335-90,13009,41,NJA 1981 s. 622,case,hd
+48150,T 335-90,13009,41,NJA 1982 s. 421,case,hd
+48151,T 335-90,13009,42,NJA 1984 s. 501,case,hd
+48152,T 335-90,13009,42,NJA 1986 s. 3,case,hd
+48153,T 335-90,13009,42,L,other,literature
+48154,T 335-90,13010,51,NJA 1952 s. 104,case,hd
+48155,T 335-90,13010,51,NJA 1959 s. 318,case,hd
+48156,T 335-90,13010,52,NJA 1977 s. 176,case,hd
+48157,T 335-90,13010,52,NJA 1981 s 622,case,hd
+48158,T 335-90,13010,52,NJA 1982 s 421,case,hd
+48159,T 335-90,13010,54,miljöskadelagen (1986:225),statute,act
+48160,T 335-90,13010,54,prop. 1985/86:83,prep,prop
+48161,T 335-90,13010,54,SOU 1976:23,prep,sou
+48162,T 335-90,13010,54,L,other,literature
+48163,T 335-90,13010,55,NJA 1984 s. 501,case,hd
+48164,T 335-90,13010,55,NJA 1986 s. 3,case,hd
+48165,T 335-90,13010,55,NJA 1986 s. 358,case,hd
+48166,T 335-90,13010,58,SOU 1983:7,prep,sou
+48167,T 335-90,13010,58,prop. 1985/86:83,prep,prop
+48169,T 336-89,13015,42,NJA 1989 s. 224,case,hd
+48170,T 336-89,13015,42,NJA 1973 s. 315,case,hd
+48171,T 336-89,13015,43,L,other,literature
+48172,T 336-89,13015,49,NJA 1973 s. 315,case,hd
+48173,T 336-89,13016,55,NJA 1973 s. 315,case,hd
+48175,T 336-89,13020,103,RB,statute,code
+48176,T 336-89,13020,108,L,other,literature
+48177,T 336-89,13020,109,RB,statute,code
+48178,T 336-89,13021,123,NJA 1973 s. 315,case,hd
+48179,T 336-89,13021,126,AvtL,statute,act
+48182,T 342-88,13024,17,FB,statute,code
+48183,T 342-88,13024,17,RB,statute,code
+48184,T 342-88,13024,18,FB,statute,code
+48185,T 342-88,13024,18,prop. 1984/85:163,prep,prop
+48186,T 342-88,13024,19,NJA 1982 s. 376,case,hd
+48187,T 342-88,13024,19,FB,statute,code
+48188,T 342-88,13024,19,prop. 1984/85:163,prep,prop
+48189,T 342-88,13024,20,18 kap RB,statute,code
+48191,T 350-89,13029,42,NJA 1989 s. 224,case,hd
+48192,T 350-89,13029,42,NJA 1973 s. 315,case,hd
+48193,T 350-89,13029,49,NJA 1973 s. 315,case,hd
+48194,T 350-89,13030,55,NJA 1973 s. 315,case,hd
+48195,T 350-89,13034,103,RB,statute,code
+48196,T 350-89,13034,109,RB,statute,code
+48197,T 350-89,13035,123,NJA 1973 s. 315,case,hd
+48199,T 361-90,13041,NA,no references,NA,NA
+48200,T 361-90,13042,53,lagen om allmänna vatten- och avloppsanläggningar,statute,act
+48201,T 361-90,13042,54,lagen om allmänna vatten- och avloppsanläggningar,statute,act
+48203,T 425-90,13050,NA,no references,NA,NA
+48206,T 427-90,13053,21,NJA 1987 s. 240,case,hd
+48207,T 427-90,13053,21,L,other,literature
+48208,T 435-90,13056,38,JB,statute,code
+48209,T 435-90,13056,38,AvtL,statute,act
+48217,T 476-87,13060,56,NJA 1971 s. 66,case,hd
+48218,T 476-87,13060,56,1 meningen ÄB,statute,code
+48219,T 476-87,13060,57,ÄB,statute,code
+48220,T 476-87,13060,57,ÄB,statute,code
+48221,T 476-87,13061,62,ÄB,statute,code
+48222,T 476-87,13061,62,L,other,literature
+48223,T 476-87,13061,64,1 meningen ÄB,statute,code
+48224,T 487-89,13065,34,miljöskadelagen,statute,act
+48225,T 487-89,13065,34,L,other,literature
+48226,T 487-89,13065,35,miljöskadelagen,statute,act
+48227,B 3177-22,13108,32,4,statute,NA
+48228,B 3177-22,13108,32,utlämningslagen,statute,act
+48229,B 3177-22,13108,42,utlämningslagen,statute,act
+48230,B 3177-22,13108,43,4,statute,NA
+48231,B 3177-22,13108,43,utlämningslagen,statute,act
+48232,B 3177-22,13108,45,NJA 2019 s. 611,case,hd
+48233,B 3177-22,13108,45,utlämningslagen,statute,act
+48234,B 3177-22,13108,46,prop. 1957:156 s. 44,prep,prop
+48235,B 3177-22,13108,48,NJA 2002 s. 237,case,hd
+48236,B 3177-22,13108,48,NJA 2019 s. 611,case,hd
+48237,B 3177-22,13108,52,NJA 2007 s. 168,case,hd
+48238,B 3177-22,13108,52,lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder,statute,act
+48239,B 3177-22,13108,56,BrB,statute,code
+48240,B 3177-22,13108,57,terroristbrottslagen (2022:666),statute,act
+48241,B 3177-22,13108,61,NJA 2009 s. 557,case,hd
+48242,B 3177-22,13108,61,utlämningslagen,statute,act
+48243,B 3177-22,13108,64,NJA 2017 s. 975,case,hd
+48244,B 3177-22,13108,64,utlänningslagen (2005:716),statute,act
+48245,B 3177-22,13108,67,utlämningslagen,statute,act
+48246,B 402-22,13110,95,1 stycket BrB,statute,code
+48247,B 402-22,13110,96,BrB,statute,code
+48248,B 402-22,13110,99,BrB,statute,code
+48249,B 402-22,13110,100,BrB,statute,code
+48250,B 402-22,13110,100,BrB,statute,code
+48251,B 402-22,13110,102,BrB,statute,code
+48252,B 402-22,13110,103,NJA 2006 s. 79,case,hd
+48253,B 402-22,13110,103,NJA 2015 s. 948,case,hd
+48254,B 402-22,13110,103,prop. 2004/05:45 s. 77 och 144,prep,prop
+48255,B 402-22,13110,107,NJA 2019 s. 668,case,hd
+48256,B 402-22,13110,107,prop. 2017/18:177 s. 54,prep,prop
+48257,B 402-22,13110,108,prop. 2017/18:177 s. 54,prep,prop
+48258,B 402-22,13110,109,NJA 2011 s. 725,case,hd
+48259,B 402-22,13110,110,L,other,literature
+48260,B 402-22,13110,111,prop. 2017/18:177,prep,prop
+48261,B 402-22,13110,111,L,other,literature
+48262,B 402-22,13110,114,BrB,statute,code
+48263,B 402-22,13110,115,NJA II 1962 s. 192,prep,nja_ii
+48264,B 402-22,13110,117,prop. 2017/18:177,prep,prop
+48265,B 402-22,13110,118,prop. 2017/18:177,prep,prop
+48266,B 402-22,13110,120,prop. 2017/18:177,prep,prop
+48267,B 402-22,13110,121,prop. 2017/18:177,prep,prop
+48268,B 402-22,13110,122,prop. 2017/18:177,prep,prop
+48269,B 402-22,13110,124,prop. 2017/18:177,prep,prop
+48270,B 4080-22,13111,117,62016CJ0108,case,cjeu
+48271,B 4080-22,13111,120,Rådets rambeslut 2002/584/RIF,statute,NA
+48272,B 4080-22,13111,126,Rådets rambeslut 2009/299/RIF,statute,NA
+48273,B 4080-22,13111,128,62020CJ0665,case,cjeu
+48274,B 4080-22,13111,128,Art 34.2.b FEU,statute,eu_primary
+48275,B 4080-22,13111,129,62020CJ0665,case,cjeu
+48276,B 4080-22,13111,130,lagen (2003:1156) om överlämnande,statute,act
+48277,B 4080-22,13111,132,lagen (2003:1156) om överlämnande,statute,act
+48278,B 4080-22,13111,133,lagen (2003:1156) om överlämnande,statute,act
+48279,B 4080-22,13111,134,lagen (2003:1156) om överlämnande,statute,act
+48280,B 4080-22,13111,135,lagen (2003:1156) om överlämnande,statute,act
+48281,B 4080-22,13111,136,prop. 2012/13:156,prep,prop
+48282,B 4080-22,13111,138,lagen (2003:1156) om överlämnande,statute,act
+48283,B 4080-22,13111,139,prop. 2003/04:7,prep,prop
+48284,B 4080-22,13111,139,prop. 2012/13:156,prep,prop
+48285,B 4080-22,13111,141,Rådets rambeslut 2009/299/RIF,statute,NA
+48286,B 4080-22,13111,142,62017CJ0270,case,cjeu
+48287,B 4080-22,13111,142,62016CJ0108,case,cjeu
+48288,B 4080-22,13111,142,62017CJ0271,case,cjeu
+48289,B 4080-22,13111,144,62016CJ0108,case,cjeu
+48290,B 4080-22,13111,145,62017CJ0270,case,cjeu
+48291,B 4080-22,13111,145,62016CJ0108,case,cjeu
+48292,B 4080-22,13111,145,62017CJ0271,case,cjeu
+48293,B 4080-22,13111,146,62020CJ0665,case,cjeu
+48294,B 4080-22,13111,148,6 europeiska arresteringsorderlagen,statute,act
+48295,B 4080-22,13111,150,europeiska arresteringsorderlagen,statute,act
+48296,B 4080-22,13111,152,6 europeiska arresteringsorderlagen,statute,act
+48297,B 4080-22,13111,153,62016CJ0108,case,cjeu
+48298,B 419-22,13112,83,BrB,statute,code
+48299,B 419-22,13112,86,BrB,statute,code
+48300,B 419-22,13112,88,prop. 2012/13:69,prep,prop
+48301,B 419-22,13112,90,prop. 2012/13:69,prep,prop
+48302,B 419-22,13112,91,prop. 2012/13:69,prep,prop
+48303,B 419-22,13112,93,NJA 2018 s. 844,case,hd
+48304,B 419-22,13112,95,BrB,statute,code
+48305,B 419-22,13112,96,prop. 2012/13:69,prep,prop
+48306,B 419-22,13112,97,BrB,statute,code
+48307,B 419-22,13112,97,prop. 2012/13:69,prep,prop
+48308,B 419-22,13112,98,BrB,statute,code
+48309,B 419-22,13112,103,BrB,statute,code
+48310,B 4296-22,13114,60,BrB,statute,code
+48311,B 4296-22,13114,60,socialtjänstlagen (2001:453),statute,act
+48312,B 4296-22,13114,60,lagen (1990:52) med särskilda bestämmelser om vård av unga,statute,act
+48313,B 4296-22,13114,63,lagen,statute,act
+48314,B 4296-22,13114,63,1964:167,statute,act
+48315,B 4296-22,13114,63,med särskilda bestämmelser om unga lagöverträdare,statute,act
+48316,B 4296-22,13114,64,andra stycket BrB,statute,code
+48317,B 4296-22,13114,66,BrB,statute,code
+48318,B 4296-22,13114,66,lagen (2020:616) om verkställighet av ungdomsövervakning,statute,act
+48319,B 4296-22,13114,67,prop. 2019/20:118,prep,prop
+48320,B 4296-22,13114,68,7,statute,NA
+48321,B 4296-22,13114,68,14,statute,NA
+48322,B 4296-22,13114,68,lagen om verkställighet av ungdomsövervakning,statute,act
+48323,B 4296-22,13114,69,lagen om verkställighet av ungdomsövervakning,statute,act
+48324,B 4296-22,13114,69,prop. 2019/20:118,prep,prop
+48325,B 4296-22,13114,70,prop. 2019/20:118,prep,prop
+48326,B 4296-22,13114,72,första stycket kan ungdomsövervakning,statute,NA
+48327,B 4296-22,13114,73,prop. 2019/20:118,prep,prop
+48328,B 4296-22,13114,74,NJA 2007 s. 636,case,hd
+48329,B 4296-22,13114,74,prop. 2019/20:118,prep,prop
+48330,B 4296-22,13114,76,NJA 2009 s. 121,case,hd
+48331,B 4296-22,13114,77,NJA 2005 s. 690,case,hd
+48332,B 4296-22,13114,77,NJA 1999 s. 561,case,hd
+48333,B 4296-22,13114,78,prop. 2019/20:118,prep,prop
+48334,B 4296-22,13114,83,32 kap. BrB,case,code
+48335,B 4923-22,13115,118,YGL,statute,const
+48336,B 4923-22,13115,119,YGL,statute,const
+48337,B 4923-22,13115,121,BrB,statute,code
+48338,B 4923-22,13115,122,TF,statute,const
+48339,B 4923-22,13115,123,NJA 1994 s. 637,case,hd
+48340,B 4923-22,13115,125,prop. 1962:10,prep,prop
+48341,B 4923-22,13115,125,SOU 2016:7,prep,sou
+48342,B 4923-22,13115,125,L,other,literature
+48343,B 4923-22,13115,130,NJA 2003 s. 567,case,hd
+48344,B 4923-22,13115,131,NJA 1987 s. 336,case,hd
+48345,B 4923-22,13115,131,NJA 1992 s. 594,case,hd
+48346,B 4923-22,13115,131,prop. 1962:10,prep,prop
+48347,B 4923-22,13115,133,NJA 2014 s. 808,case,hd
+48348,B 4923-22,13115,134,NJA 2014 s. 808,case,hd
+48349,B 4923-22,13115,137,NJA 2014 s. 808,case,hd
+48350,B 4923-22,13115,138,YGL,statute,const
+48351,B 4923-22,13115,138,prop. 1962:10,prep,prop
+48352,B 4923-22,13115,140,L,other,literature
+48353,B 4923-22,13115,148,BrB,statute,code
+48354,B 4923-22,13115,149,prop. 2016/17:222,prep,prop
+48355,B 5097-22,13116,166,5 BrB,statute,code
+48356,B 5097-22,13116,169,BrB,statute,code
+48357,B 5097-22,13116,170,NJA 2021 s. 377,case,hd
+48358,B 5097-22,13116,171,NJA 2021 s. 377,case,hd
+48359,B 5097-22,13116,173,BrB,statute,code
+48360,B 5097-22,13116,173,prop. 2021/22:186,prep,prop
+48361,B 5097-22,13116,174,prop. 2014/15:37,prep,prop
+48362,B 5097-22,13116,175,prop. 2014/15:37,prep,prop
+48363,B 5097-22,13116,176,prop. 2021/22:186,prep,prop
+48364,B 5097-22,13116,178,NJA 2021 s. 525,case,hd
+48365,B 5097-22,13116,178,prop. 2021/22:186,prep,prop
+48366,B 5097-22,13116,182,5 BrB,statute,code
+48367,B 5097-22,13116,190,NJA 2021 s. 525,case,hd
+48368,B 5097-22,13116,193,art. 6.1 EKMR,statute,echr
+48369,B 5232-22,13117,66,BrB,statute,code
+48370,B 5232-22,13117,68,BrB,statute,code
+48371,B 5232-22,13117,70,SOU 1944:69,prep,sou
+48372,B 5232-22,13117,71,SOU 1944:69,prep,sou
+48373,B 5232-22,13117,72,NJA 1994 s. 518,case,hd
+48374,B 5232-22,13117,73,SOU 1944:69,prep,sou
+48375,B 5232-22,13117,74,SOU 1944:69,prep,sou
+48376,B 5232-22,13117,77,15 kap. 1,statute,NA
+48377,B 5232-22,13117,77,BrB,statute,code
+48378,B 5232-22,13117,87,BrB,statute,code
+48379,B 5404-22,13118,92,trafikbrottslagen (1951:649),statute,act
+48380,B 5404-22,13118,92,trafikbrottslagen (1951:649),statute,act
+48381,B 5404-22,13118,95,trafikbrottslagen (1951:649),statute,act
+48382,B 5404-22,13118,96,NJA 2003 s. 67,case,hd
+48383,B 5404-22,13118,97,NJA 1995 s. 232,case,hd
+48384,B 5404-22,13118,97,NJA 2012 s. 191,case,hd
+48385,B 5404-22,13118,97,NJA 2019 s. 684,case,hd
+48386,B 5404-22,13118,100,Vägverkets föreskrifter VVFS 2003:19,statute,act
+48387,B 5404-22,13118,102,trafikbrottslagen (1951:649),statute,act
+48388,B 5404-22,13118,104,trafikbrottslagen (1951:649),statute,act
+48389,T 1569-19,13119,247,62016CJ0284,case,cjeu
+48390,T 1569-19,13119,248,62020CJ0109,case,cjeu
+48391,T 1569-19,13119,248,FEUF,statute,eu_primary
+48392,T 1569-19,13119,248,FEUF,statute,eu_primary
+48393,T 1569-19,13119,249,lagen (1999:116) om skiljeförfarande,statute,act
+48394,T 1569-19,13119,276,62016CJ0284,case,cjeu
+48395,T 1569-19,13119,279,62016CJ0284,case,cjeu
+48396,T 1569-19,13119,279,FEUF,statute,eu_primary
+48397,T 1569-19,13119,279,FEUF,statute,eu_primary
+48398,T 1569-19,13119,280,62016CJ0284,case,cjeu
+48399,T 1569-19,13119,280,62019CJ0741,case,cjeu
+48400,T 1569-19,13119,280,art 19.1 FEU,statute,eu_primary
+48401,T 1569-19,13119,281,62016CJ0284,case,cjeu
+48402,T 1569-19,13119,281,FEUF,statute,eu_primary
+48403,T 1569-19,13119,281,art 4.3 FEU,statute,eu_primary
+48404,T 1569-19,13119,285,FEUF,statute,eu_primary
+48405,T 1569-19,13119,285,FEUF,statute,eu_primary
+48406,T 1569-19,13119,289,FEUF,statute,eu_primary
+48407,T 1569-19,13119,289,FEUF,statute,eu_primary
+48408,T 1569-19,13119,290,62020CJ0109,case,cjeu
+48409,T 1569-19,13119,292,62019CJ0741,case,cjeu
+48410,T 1569-19,13119,298,EKMR,statute,echr
+48411,T 1569-19,13119,298,EKMR,statute,echr
+48412,T 1569-19,13119,298,art 19.2 FEU,statute,eu_primary
+48413,T 1569-19,13119,298,Stadgan,statute,NA
+48414,T 1569-19,13119,298,4,principle,principle_proportionality
+48415,T 1569-19,13119,301,RF,statute,const
+48416,T 1569-19,13119,301,2,principle,principle_primacy
+48417,T 1569-19,13119,302,EKMR,statute,echr
+48418,T 1569-19,13119,303,Bosphorus Hava Yollari Turizm ve Ticaret Anonim Sirketi v. Ireland,case,ecthr
+48419,T 1569-19,13119,303,Avotins v. Latvia,case,ecthr
+48420,T 1569-19,13119,304,NJA 2014 s. 79,case,hd
+48421,T 1569-19,13119,308,62020CJ0109,case,cjeu
+48422,T 1569-19,13119,314,62016CJ0284,case,cjeu
+48423,T 1569-19,13119,314,FEUF,statute,eu_primary
+48424,T 1569-19,13119,314,FEUF,statute,eu_primary
+48425,T 1569-19,13119,315,lagen (1999:116) om skiljeförfarande,statute,act
+48426,T 1569-19,13119,317,lagen (1999:116) om skiljeförfarande,statute,act
+48427,T 1569-19,13119,318,lagen (1999:116) om skiljeförfarande,statute,act
+48428,T 1569-19,13119,319,lagen (1999:116) om skiljeförfarande,statute,act
+48429,T 1569-19,13119,321,62016CJ0284,case,cjeu
+48430,T 1569-19,13119,321,62020CJ0109,case,cjeu
+48431,T 1569-19,13119,321,62019CJ0741,case,cjeu
+48432,T 1569-19,13119,321,art 19.1 FEU,statute,eu_primary
+48433,T 1569-19,13119,322,61997CJ0126,case,cjeu
+48434,T 1569-19,13119,322,62005CJ0168,case,cjeu
+48435,T 1569-19,13119,322,NJA 2015 s. 438,case,hd
+48436,T 1569-19,13119,322,NJA 2018 s. 323,case,hd
+48437,T 1569-19,13119,322,62016CJ0284,case,cjeu
+48438,T 1569-19,13119,322,61993CJ0431,case,cjeu
+48439,T 1569-19,13119,322,62006CJ0268,case,cjeu
+48440,T 1569-19,13119,322,62014CJ0069,case,cjeu
+48441,T 1569-19,13119,322,62020CJ0109,case,cjeu
+48442,T 1569-19,13119,322,62019CJ0741,case,cjeu
+48443,T 1569-19,13119,324,lagen (1999:116) om skiljeförfarande,statute,act
+48444,T 1569-19,13119,325,prop. 1998/99:35,prep,prop
+48445,T 1569-19,13119,328,lagen (1999:116) om skiljeförfarande,statute,act
+48446,T 1569-19,13119,329,lagen (1999:116) om skiljeförfarande,statute,act
+48447,T 1569-19,13119,331,62016CJ0284,case,cjeu
+48448,T 1569-19,13119,331,62020CJ0109,case,cjeu
+48449,T 1569-19,13119,331,FEUF,statute,eu_primary
+48450,T 1569-19,13119,331,art 4.3 FEU,statute,eu_primary
+48451,T 1569-19,13119,331,FEUF,statute,eu_primary
+48452,T 1569-19,13119,333,lagen (1999:116) om skiljeförfarande,statute,act
+48453,T 2076-21,13120,92,Sambolagen (2003:376),statute,act
+48454,T 2076-21,13120,93,Sambolagen (2003:376),statute,act
+48455,T 2076-21,13120,94,Sambolagen (2003:376),statute,act
+48456,T 2076-21,13120,95,prop. 1986/87:1,prep,prop
+48457,T 2076-21,13120,96,prop. 2002/03:80,prep,prop
+48458,T 2076-21,13120,96,prop. 1986/87:1,prep,prop
+48459,T 2076-21,13120,97,prop. 1986/87:1,prep,prop
+48460,T 2076-21,13120,100,JB,statute,code
+48461,T 2076-21,13120,100,bostadsrättslagen (1991:614),statute,act
+48462,T 2076-21,13120,103,agen (1982:352) om rätt till fastighetsförvärv för ombildning till bostadsrätt eller kooperativ hyr,statute,act
+48463,T 2076-21,13120,103,bostadsrättslagen (1991:614),statute,act
+48464,T 2076-21,13120,104,bostadsrättslagen (1991:614),statute,act
+48465,T 2076-21,13120,108,Sambolagen (2003:376),statute,act
+48466,T 2076-21,13120,109,Sambolagen (2003:376),statute,act
+48467,T 2076-21,13120,111,Sambolagen (2003:376),statute,act
+48468,T 2076-21,13120,112,NJA 1997 s. 674,case,hd
+48469,B 119-91,12757,47,utlänningslagen (1989:529),statute,act
+48470,B 119-91,12757,47,utlänningslagen (1989:529),statute,act
