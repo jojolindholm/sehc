@@ -3,8 +3,8 @@
 _Johan Lindholm<sup>1</sup>, Mattias Derlén<sup>1</sup>, and Daniel Naurin<sup>2</sup>_
 
 <sup>1</sup> Umeå University Department of Law
-
 <sup>2</sup> University of Oslo, ARENA Centre for European Studies
+
 ------------------
 
 ## Introduction
