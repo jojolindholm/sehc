@@ -1,8 +1,9 @@
 # This is an example showcasing the sehc package
-# v 0.9.3 per 14 May 2024
+# v 1.0.0 per 6 June 2024
 # Johan Lindholm, Umeå University
 
 library(sehc)
+
 
 # package overview -------------------------------------------------------------
 getNamespaceExports("sehc")   # list all functions
@@ -33,7 +34,7 @@ appointments <- sehc::appointments |>   # data set with one observation per high
   add_background_type_to_appointments()   # adds variables on appointees pre-appointment professional backgrounds
 
 # load and manipulate references -----------------------------------------------
-appointments <- sehc::references |>   # data set with one observation per reference
+references <- sehc::references |>   # data set with one observation per reference
   add_cases_to_references()   # adds variables from cases to references
 
 # generate and manipulate votes ------------------------------------------------
