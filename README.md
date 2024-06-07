@@ -37,9 +37,9 @@ Not sure where to start? Check out the [example script](example.R).
 
 ## Citing
 
-Please cite as "Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2023. Swedish High Court Database (version 0.9.1, 1 May 2023). DOI:  10.5281/zenodo.7883860".
+We suggest that you cite the database as "Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2024. Swedish High Court Database (version 1.0.0, 7 June 2023). https://doi.org/10.5281/zenodo.11516266".
 
 ## Publications
 
-The package and the datasets have been used in the following studies:
-* Johan Lindholm, Mattias Derlén, and Daniel Naurin, 'The Ideal Justice: Who Are Selected to Serve and What Does It Say about Swedish High Courts?' Tidsskrift for Rettsvitenskap, 2022, 135(4), pp. 397-431. DOI: [10.18261/tfr.135.4.1](https://doi.org/10.18261/tfr.135.4.1)
+The package and the database have been used in the following studies:
+* Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2022. 'The Ideal Justice: Who Are Selected to Serve and What Does It Say about Swedish High Courts?' Tidsskrift for Rettsvitenskap 135(4): 397-431 [https://doi.org/10.18261/tfr.135.4.1](https://doi.org/10.18261/tfr.135.4.1)
