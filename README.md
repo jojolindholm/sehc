@@ -27,7 +27,7 @@ install_github("jojolindholm/sehc")'
 
 The datasets are available as separate R-data files (.rda) in the folder "/data". Additionally, they are also made available as comma-separated values (.csv) files in the folder "/csv-data".
 
-For more information about the datasets and the variables they contain, please consult [the code book](sehc_code_book.pdf).
+For more information about the datasets and the variables they contain, please consult [the code book](documentation/sehc_code_book.pdf).
 
 Stable releases of the database and the code are stored with [Zenodo](https://zenodo.org/account/settings/github/repository/jojolindholm/sehc).
 
