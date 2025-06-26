@@ -37,7 +37,7 @@ Not sure where to start? Check out the [example script](example.R).
 
 ## Citing
 
-We suggest that you cite the database as "Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2025. Swedish High Court Database (version 1.0.1, 26 June 2025). [https://doi.org/10.5281/zenodo.11516266](https://doi.org/10.5281/zenodo.15748858)".
+We suggest that you cite the database as "Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2025. Swedish High Court Database (version 1.0.1, 26 June 2025). [https://doi.org/10.5281/zenodo.15748858](https://doi.org/10.5281/zenodo.15748858)".
 
 ## Publications
 
