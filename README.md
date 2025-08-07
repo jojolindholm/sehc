@@ -43,3 +43,4 @@ We suggest that you cite the database as "Johan Lindholm, Mattias Derlén, and D
 
 The package and the database have been used in the following studies:
 * Johan Lindholm, Mattias Derlén, and Daniel Naurin. 2022. 'The Ideal Justice: Who Are Selected to Serve and What Does It Say about Swedish High Courts?' Tidsskrift for Rettsvitenskap 135(4): 397-431 [https://doi.org/10.18261/tfr.135.4.1](https://doi.org/10.18261/tfr.135.4.1)
+* Johan Lindholm, Mattias Derlén, and Daniel Naurin. (2025). 'A Source-Based Theory of Variation in Judicial Reasoning: Evidence from Sweden' Journal of Law & Empirical Analysis 2(1): 121-141. [https://doi.org/10.1177/2755323X251335396](https://doi.org/10.1177/2755323X251335396)
